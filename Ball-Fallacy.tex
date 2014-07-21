@@ -1,0 +1,38 @@
+%--- Euclidean Geometry Example Paper--Ball's Fallacy
+%
+\documentclass{amsart}
+
+\theoremstyle{definition}
+\newtheorem*{theorem}{Theorem}
+
+\begin{document}
+
+\title{The Symmetric Nature of Triangles}
+\author{W. W. Rouse Ball}
+\date{August 15, 1875}
+
+\maketitle
+
+\thispagestyle{empty}
+
+In the process of some advanced geometrical investigations, we stumbled upon the following simple result about triangles. The result seems to be of independent interest, so rather than wait to include this as a nugget in a longer manuscript, we make it available here in a short note. As we found it a pleasant part of this investigation, we invite the reader to draw his or her own diagrams.
+
+\begin{theorem} 
+All triangles are isosceles.
+\end{theorem}
+
+\begin{proof} Let $ABC$ be a triangle. Let $D$ be the midpoint of segment $BC$. Let the perpendicular to $BC$ at $D$ meet the angle bisector of $A$ at the point $E$. \\
+
+Suppose first that $E$ is inside the triangle.
+
+Drop perpendiculars $EF$ and $EG$ from $E$ to the sides of the triangle. Draw segments $BE$ and $CE$. The triangles $AEF$ and $AEG$ have the side $AE$ common and two angles congruent, so they are congruent by Euclid I.26 (AAS). Hence $AF$ is congruent to $AG$ and $EF$ is congruent to $EG$. The triangles $BDE$ and $CDE$ have $DE$ common, two other sides congruent, and the included right angles equal. Hence they are congruent by Euclid I.4 (SAS). In particular, $BE$ is congruent to $CE$.
+
+Now, the triangles $BEF$ and $CEG$ are right triangles with hypotenuses and a pair of legs congruent, so by Theorem on Hypotenuse-Leg for Right Triangles, they are congruent. Hence $BF$ is congruent to $CG$. Adding equals to equals, we see that $AB$ is congruent to $AC$, so that triangle $ABC$ is isosceles.\\
+
+There are other cases to consider. If the point $E$ lies outside the triangle, one can use the same proof to conclude that $AB$ and $AC$ are the differences of equals, hence equal.
+
+If $E$ coincides with the point $D$, or if the angle bisector at $A$ is parallel to the perpendicular to $AB$ at $D$, the proof is even easier, and we leave it to the reader to complete these cases.
+\end{proof}
+
+\vfill
+\end{document}

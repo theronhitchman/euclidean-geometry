@@ -32,7 +32,7 @@
 *.xdy
 *.tdo
 *.ggb
-# *.pdf
+*.pdf
 
 # Sage Cloud Files
 *.sage-backup
