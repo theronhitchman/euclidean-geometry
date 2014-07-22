@@ -5,6 +5,8 @@ layout: default
 
 # Welcome
 
+a short welcoming message goes here
+
 # Syllabus
 
 syllabus like information goes here
