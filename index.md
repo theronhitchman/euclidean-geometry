@@ -5,7 +5,7 @@ layout: default
 
 # Welcome
 
-a short welcoming message goes here
+Welcome to the {{ site.description }}.
 
 # Syllabus
 
