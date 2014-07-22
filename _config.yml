@@ -1,0 +1,10 @@
+name: "Euclidean Geometry &bull; Math 3600"
+description: "Course Page for UNI Math 3600, Fall 2014"
+
+url: "http://theronhitchman.github.io"
+
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+pygments: true
