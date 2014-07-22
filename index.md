@@ -1,5 +1,6 @@
 ---
 title: Euclidean Geometry &bull; Math 3600
+layout: default
 ---
 
 # Welcome
