@@ -1,12 +1,13 @@
   {% include header.html %}
 
-  <div class="row-fluid">
-    <div class="span8">
-        {{ content }}
+  <!-- Begin page content -->
+  <div class="container">
+    <div class="page-header">
+      <h1>{{ page.title }}</h1>
     </div>
-    <div class="span4">
-        {% include sidebar.html %}
-    </div>
+    {{ content }}
   </div>
+
+
 
   {% include footer.html %}
