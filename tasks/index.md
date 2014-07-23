@@ -3,15 +3,15 @@ title: The Task Sequence
 layout: default
 ---
 
-## Standard Thing You Expect From Every Course
+### Standard Thing You Expect From Every Course
 
 The Official Syllabus
 
-## Our Conjectures and Questions:
+### Our Conjectures and Questions:
 
 Fall 2014 Euclidean Geometry Class Conjectures and Questions
 
-## The Official Task Sequence
+### The Official Task Sequence
 
 <table>
   <tr>
