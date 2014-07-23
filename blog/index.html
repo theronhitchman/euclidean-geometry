@@ -1,12 +1,12 @@
 ---
-title: Daily Log
+title: Announcements &amp; Class Record
 layout: default
 ---
 
   <div class="posts">
     {% for post in site.posts %}
       <h4><a href="{{ post.url | prepend: site.baseurl }}">
-        <!--{{ post.date | date_to_long_string }}:--> {{ post.title }}</a></h4>
+        {{ post.date | date: "%b %-d, %Y" }}: {{ post.title }}</a></h4>
 
       {{ post.excerpt }}
 
