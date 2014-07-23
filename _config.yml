@@ -6,4 +6,4 @@ url: "http://theronhitchman.github.io/euclidean-geometry"
 paginate: 10
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
