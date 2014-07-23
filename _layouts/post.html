@@ -1,0 +1,13 @@
+{% includes header.html %}
+
+<!-- Begin page content -->
+<div class="container">
+  <div class="page-header">
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.date | date_to_long_string }}</p>
+  </div>
+  {{ content }}
+</div>
+
+
+{% includes footer.html %}
