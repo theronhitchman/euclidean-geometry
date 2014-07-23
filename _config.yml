@@ -2,10 +2,9 @@ name:          "Euclidean Geometry"
 description:   "Course Page for UNI Math 3600"
 email:         theron.hitchman@uni.edu
 
-url:           "http://theronhitchman.github.io/euclidean-geometry"
-
+url:           "http://theronhitchman.github.io"
+baseurl:       "/euclidean-geometry"
 paginate:      10
 
 markdown:      kramdown
-permalink:     pretty
 highlighter:   pygments
