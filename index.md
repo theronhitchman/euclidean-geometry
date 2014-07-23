@@ -1,5 +1,5 @@
 ---
-title: Euclidean Geometry &bull; Math 3600
+title: Math 3600:01
 layout: default
 ---
 
