@@ -39,9 +39,9 @@ reflection and either bring it to our meeting or email it to me beforehand.
 The links below will become live when they become relevant.
 
 - [Reflection Prompt #1][prompt1] (weeks 3 and 4)
-- [Reflection Prompt #2]['#'] (weeks 6 and 7)
-- [Reflection Prompt #3]['#'] (weeks 9 and 10)
-- [Reflection Prompt #4]['#'] (weeks 12 and 13)
+- Reflection Prompt #2 (weeks 6 and 7)
+- Reflection Prompt #3 (weeks 9 and 10)
+- Reflection Prompt #4 (weeks 12 and 13)
 
 Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
