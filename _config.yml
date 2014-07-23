@@ -7,7 +7,7 @@ plus_username:  "+TheronHitchman"
 
 url:           "http://theronhitchman.github.io"
 baseurl:       "/euclidean-geometry"
-paginate:      10
+
 
 markdown:      kramdown
 highlighter:   pygments
