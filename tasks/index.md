@@ -5,11 +5,13 @@ layout: default
 
 ### Standard Thing You Expect From Every Course
 
-The Official Syllabus
+[The Official Syllabus](https://docs.google.com/document/d/1iHtxFO83kza5CEPx1Kfi4C1_eGdpFzbfhhB93FGLlFo/edit?usp=sharing)
 
 ### Our Conjectures and Questions:
 
-Fall 2014 Euclidean Geometry Class Conjectures and Questions
+[Fall 2014 Euclidean Geometry Class Conjectures and Questions][conj]
+
+[conj]: {{ site.url }}/class.html
 
 ### The Official Task Sequence
 
