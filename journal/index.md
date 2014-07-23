@@ -18,7 +18,7 @@ choose specific styles that authors must adhere to as a way of giving their
 printed work a visual distinctiveness.
 </td>
 <td>
-<img src="{{ site.url }}/_images/teg_cover1.png">
+<img src="{{ site.url }}/_images/teg_cover1.png" height="200">
 </td>
 </tr>
 </table>
