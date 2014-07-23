@@ -3,9 +3,9 @@ title: Class Journal
 layout: default
 ---
 
-<table>
+<!--<table>
 <tr>
-<td>
+<td>-->
 As part of the work of this course, we will make a mathematical journal with
 the students in the course as the authors, referees, and readers. I will play
 the role of managing editor.
@@ -16,12 +16,12 @@ form. A mathematical paper has a certain format to it, so to help you along,
 I have created a template as a writeLaTeX.com document. Professional journals
 choose specific styles that authors must adhere to as a way of giving their
 printed work a visual distinctiveness.
-</td>
-<td>
-<img src="{{ site.url }}/images/teg_cover1.png" height="300">
-</td>
+<!--</td>
+<td>-->
+<img src="{{ site.url }}/images/teg_cover1.png" height="300" style="float:right;">
+<!--</td>
 </tr>
-</table>
+</table>-->
 
 I have arranged with a service called _WriteLaTeX_ to provide you with a simple
 online template for writing papers. You can find a fresh copy by clicking the
