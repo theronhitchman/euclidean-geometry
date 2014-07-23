@@ -3,10 +3,10 @@ title: Math 3600:01
 layout: default
 ---
 
-# Welcome
+## Welcome
 
 Welcome to the {{ site.description }}.
 
-# Syllabus
+## Syllabus
 
 syllabus like information goes here
