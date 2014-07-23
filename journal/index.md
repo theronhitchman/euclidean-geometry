@@ -8,7 +8,7 @@ As part of the work of this course, we will make a mathematical journal with
 the students in the course as the authors, referees, and readers. I will play
 the role of managing editor.
 
-<img src="{{ site.url }}/images/teg_cover1.png" height="200" style="float:left;">
+<img src="{{ site.baseurl }}/images/teg_cover1.png" height="200" style="float:left;">
 
 When you have successfully presented a result and defended it to the class,
 you will then write a mathematical paper to share your results in definitive
