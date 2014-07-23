@@ -1,9 +1,9 @@
-name: "Euclidean Geometry"
-description: "Course Page for UNI Math 3600"
+name:         "Euclidean Geometry"
+description:  "Course Page for UNI Math 3600"
 
-url: "http://theronhitchman.github.io/euclidean-geometry"
+url:          "http://theronhitchman.github.io/euclidean-geometry"
 
-paginate: 10
+paginate:     10
 
-markdown: kramdown
-highlighter: pygments
+markdown:     kramdown
+highlighter:  rouge
