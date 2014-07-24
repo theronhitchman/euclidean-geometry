@@ -50,6 +50,8 @@ paper. Please use these as a starting point.
 
 [Instructions for Authors: Technical Manual][technical-manual]
 
+[A Guide to Using LaTeX][latex]
+
 At some point, you may be asked to referee a paper. This document will then
 be helpful.
 
@@ -71,3 +73,4 @@ Links to Published Issues of the Journal:
 [style]: https://docs.google.com/document/d/11IfTITA2q9yE4-ejJwvxrQVb1igaT3rZrBLby_Iq5ck/edit?usp=sharing
 [technical-manual]: https://docs.google.com/document/d/1e8TLJ-2_c_I0IIPS1XaM5NbQi2WbJXn3L3ZkrQQXNzA/edit?usp=sharing
 [referee]: https://docs.google.com/document/d/1kUEvRLF5keKbJ8wVg4AN3iwYXdd0cxZfmcksilyq8yM/edit
+[latex]: https://www.writelatex.com/templates/a-quick-guide-to-latex/fghqpfgnxggz#.U9F4_4BdVqp
