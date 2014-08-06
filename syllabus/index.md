@@ -3,12 +3,12 @@ title: Syllabus
 layout: default
 ---
 
-<center>
+<center><h1>
 Euclidean Geometry<br />
-Math 3600, Fall 2014
+Math 3600, Fall 2014</h1>
 </center>
 
-**Course Description: **
+##Course Description:
 
 This course is devoted to classical, planar geometry, including basic properties
 of triangles, circles, quadrilaterals and other polygons, compass and
@@ -19,7 +19,7 @@ time discussing the nature and role of definitions and the process of
 mathematical work. Some of the questions we consider will be asked by
 students.
 
-**Basic Information: **
+##Basic Information:
 
 - Instructor: 		Theron J Hitchman
 - Office: 		327 Wright Hall
@@ -31,7 +31,7 @@ students.
       http://theronhitchman.github.io/euclidean-geometry
   Check this regularly. Lots of important things are at this page.
 
-**Materials: **
+## Materials:
 
 - Text: Euclid’s Elements, Heath translation, Green Lion Press, 2002,  
 ISBN 1888009-19-5.
@@ -39,7 +39,7 @@ ISBN 1888009-19-5.
 - Drawing Tools: You may wish to use a compass and straightedge set. If you do,
 I recommend a “modern compass” that may be fixed at a given radius.
 
-**Assessment: **
+## Assessment:
 
 I will be using a “standards based assessment” scheme for this course. See the
 relevant handout for more detailed information. Grades in this course are based
