@@ -11,12 +11,20 @@ layout: default
 
 This course is devoted to classical, planar geometry, including basic properties
 of triangles, circles, quadrilaterals and other polygons, compass and
-straightedge constructions, and the notion of area. A focus of the class is
-working with axiomatic arguments. Special attention will be given to learning to
-construct, read, write, present, and critique mathematical proofs. We will spend
-time discussing the nature and role of definitions and the process of
-mathematical work. Some of the questions we consider will be asked by
-students.
+straightedge constructions, and the notion of area.
+
+Students who complete this course will learn to work _as a mathematician does_.
+To meet this challenge, we run class as an [Inquiry Based Learning][IBL] (IBL)
+environment.
+
+Successful students will be proficient in working with axiomatic arguments, and
+will improve their abilities to construct, read, write, present,
+and critique mathematical proofs. Students will gain insight into the nature and
+role of definitions and the process of mathematical work. Students will also
+learn something about how to ask and answer their own well-formed mathematical
+questions.
+
+
 
 ##Basic Information:
 
