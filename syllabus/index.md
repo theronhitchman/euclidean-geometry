@@ -34,7 +34,8 @@ questions.
   To meet at another time, contact me by email to make an appointment.
 - contact info:
 
-      email:  theron.hitchman@uni.edu      office phone: 319-273-2646
+      email:        theron.hitchman@uni.edu
+      office phone: 319-273-2646
 
 - Course Web Page:
 
@@ -62,11 +63,12 @@ on the following assessments, with emphasis on the first item:
 
 If you feel uncertain about your progress in the course at any time, please contact me.
 
-    Accommodations:
-    If you have a disability and require accommodations, please contact the instructor early
-    in the semester so that your learning needs may be appropriately met. You will need to
-    provide documentation of your disability to the Student Disability Services (SDS)
-    office, located on the top floor of the Student Health Center, (319) 273-2677.
+**Accommodations:**
+  If you have a disability and require accommodations, please contact the
+  instructor early in the semester so that your learning needs may be
+  appropriately met. You will need to provide documentation of your
+  disability to the Student Disability Services (SDS) office, located on the
+  top floor of the Student Health Center, (319) 273-2677.
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
 [sba]: {{site.baseurl}}/standards-based-assessment

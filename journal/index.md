@@ -69,8 +69,8 @@ Links to Published Issues of the Journal:
 
 
 [template]: https://www.writelatex.com/docs?template=transactions
-[prof-journ]: https://docs.google.com/document/d/1YEWXn5PSAQhOKPTp291oK2H69COMvDMC5PXpwITHjU0/edit?usp=sharing
-[style]: https://docs.google.com/document/d/11IfTITA2q9yE4-ejJwvxrQVb1igaT3rZrBLby_Iq5ck/edit?usp=sharing
-[technical-manual]: https://docs.google.com/document/d/1e8TLJ-2_c_I0IIPS1XaM5NbQi2WbJXn3L3ZkrQQXNzA/edit?usp=sharing
-[referee]: https://docs.google.com/document/d/1kUEvRLF5keKbJ8wVg4AN3iwYXdd0cxZfmcksilyq8yM/edit
+[prof-journ]: {{site.baseurl}}/journal/how-a-journal-works.html
+[style]: {{site.baseurl}}/journal/style-guide.html
+[technical-manual]: {{site.baseurl}}/journal/tech-manual.html
+[referee]: {{site.baseurl}}/journal/instructions-for-referees.html
 [latex]: https://www.writelatex.com/templates/a-quick-guide-to-latex/fghqpfgnxggz#.U9F4_4BdVqp

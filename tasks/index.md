@@ -7,7 +7,7 @@ layout: default
 
 [Fall 2014 Euclidean Geometry Class Conjectures and Questions][conj]
 
-[conj]: {{ site.url }}/class/
+[conj]: {{site.baseurl}}/class/
 
 ### The Official Task Sequence
 
