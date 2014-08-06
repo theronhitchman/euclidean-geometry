@@ -14,7 +14,7 @@ of triangles, circles, quadrilaterals and other polygons, compass and
 straightedge constructions, and the notion of area.
 
 Students who complete this course will learn to work _as a mathematician does_.
-To meet this challenge, we run class as an [Inquiry Based Learning][IBL] (IBL)
+To meet this challenge, we will run class as an [Inquiry Based Learning][IBL] (IBL)
 environment.
 
 Successful students will be proficient in working with axiomatic arguments, and
@@ -46,7 +46,7 @@ questions.
 
 - Text: [Euclid’s Elements][GreenLionPress], Heath translation,
 Green Lion Press, 2002, ISBN 1888009-19-5.
-- Software: GeoGebra is a free, open-source geometry program. www.geogebra.org.
+- Software: GeoGebra is a free, open-source geometry program. [www.geogebra.org][ggb].
 - Drawing Tools: You may wish to use a compass and straightedge set. If you do,
 I recommend a “modern compass” that may be fixed at a given radius.
 
@@ -69,4 +69,6 @@ If you feel uncertain about your progress in the course at any time, please cont
     office, located on the top floor of the Student Health Center, (319) 273-2677.
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
-[sba]: {{ site.baseurl }}/standards-based-assessment
+[sba]: {{site.baseurl}}/standards-based-assessment
+[ggb]: www.geogebra.org
+[IBL]: http://theronhitchman.github.io/euclidean-geometry/inquiry-based-learning/
