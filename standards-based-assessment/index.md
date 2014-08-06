@@ -46,7 +46,7 @@ The links below will become live when they become relevant.
 Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
 
-[standards]: https://docs.google.com/document/d/1tlMAZVJHYiaI68Aj54mdqjNvx4lC1LJMwrX5yzSay1A/edit?usp=sharing
+[standards]: {{site.baseurl}}/standards-based-assessment/the-standards.html
 [prompt1]: https://docs.google.com/document/d/1JTkyaEFuoZ-ct7Rw8PjgGjz6gv7PGLXBrOq6I1AoA6k/edit?usp=sharing
 [prompt2]: https://docs.google.com/document/d/13tkQjZ7WPnq_0BR17oEpxcN-BRl56Hyn6b3lnUAkHKo/edit?usp=sharing
 [prompt3]: https://docs.google.com/document/d/1qBu2VKXzNPXE-NYUyvRU3sJ28OEAn7mS9Iab-D-aOWk/edit?usp=sharing
