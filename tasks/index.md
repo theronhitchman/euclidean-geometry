@@ -5,7 +5,7 @@ layout: default
 
 ### Standard Thing You Expect From Every Course
 
-[The Official Syllabus](https://docs.google.com/document/d/1iHtxFO83kza5CEPx1Kfi4C1_eGdpFzbfhhB93FGLlFo/edit?usp=sharing)
+[The Official Syllabus]({{ site.baseurl }}/syllabus/)
 
 ### Our Conjectures and Questions:
 

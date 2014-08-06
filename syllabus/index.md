@@ -3,10 +3,9 @@ title: Syllabus
 layout: default
 ---
 
-<center><h1>
-Euclidean Geometry<br />
-Math 3600, Fall 2014</h1>
-</center>
+*Euclidean Geometry*<br />
+*Math 3600, Fall 2014*
+
 
 ##Course Description:
 
@@ -37,8 +36,8 @@ students.
 
 ## Materials:
 
-- Text: Euclid’s Elements, Heath translation, Green Lion Press, 2002,  
-ISBN 1888009-19-5.
+- Text: [Euclid’s Elements][GreenLionPress], Heath translation,
+Green Lion Press, 2002, ISBN 1888009-19-5.
 - Software: GeoGebra is a free, open-source geometry program. www.geogebra.org.
 - Drawing Tools: You may wish to use a compass and straightedge set. If you do,
 I recommend a “modern compass” that may be fixed at a given radius.
@@ -46,7 +45,7 @@ I recommend a “modern compass” that may be fixed at a given radius.
 ## Assessment:
 
 I will be using a “standards based assessment” scheme for this course. See the
-relevant handout for more detailed information. Grades in this course are based
+[relevant handout][sba] for more detailed information. Grades in this course are based
 on the following assessments, with emphasis on the first item:
 
 - In-class participation, focusing on finding and presenting arguments
@@ -60,3 +59,6 @@ If you feel uncertain about your progress in the course at any time, please cont
     in the semester so that your learning needs may be appropriately met. You will need to
     provide documentation of your disability to the Student Disability Services (SDS)
     office, located on the top floor of the Student Health Center, (319) 273-2677.
+
+[GreenLionPress]: http://www.greenlion.com/euclid.html
+[sba]: {{ site.baseurl }}/standards-based-assessment
