@@ -56,14 +56,14 @@ Every one of these points is the conclusion to a sentence which begins:
 
 #### Mathematical Investigative Process:
 
-**Foundational Proficiencies**
+*Foundational Proficiencies*
 
 - explore examples
 - make appropriate choice & use of technology in investigation
 - look for and use structure in an uncertain environment
 - persevere by trying multiple approaches
 
-**Advanced Proficiencies**
+*Advanced Proficiencies*
 
 - extend ideas to find or create new mathematics
 - devise a relevant new conjecture
@@ -71,20 +71,20 @@ Every one of these points is the conclusion to a sentence which begins:
 
 #### The Axiomatic Method:
 
-**Foundational Proficiencies**
+*Foundational Proficiencies*
 
 - use definitions to justify assertions (in both directions)
 - use literature (Euclid or class work) appropriately to justify assertions
 - prove or disprove statements by making correct logical arguments (direct, indirect, by cases)
 
-**Advanced Proficiencies**
+*Advanced Proficiencies*
 
 - make a clear definition to fit a new concept
 - prove a difficult theorem requiring an intricate argument or a deep, original idea
 
 #### Planar Geometry Content:
 
-**Foundational Proficiencies**
+*Foundational Proficiencies*
 
 - write arguments involving the properties of
 - congruence for polygons
@@ -95,20 +95,20 @@ Every one of these points is the conclusion to a sentence which begins:
 
 #### Oral Communication:
 
-**Foundational Proficiencies**
+*Foundational Proficiencies*
 
 - present ideas clearly with precision about mathematics
 - handle questions respectfully and directly
 - ask questions respectfully and directly
 
-**Advanced Proficiencies**
+*Advanced Proficiencies*
 
 - Make effective use of presentation technology (chalk, computer, other)
 - engage in meaningful critique
 
 #### Written Communication:
 
-**Foundational Proficiencies:**
+*Foundational Proficiencies:*
 
 - write in clear English prose
 - use proper mathematical style
@@ -117,7 +117,7 @@ Every one of these points is the conclusion to a sentence which begins:
 - produce professional quality documents
 - read new mathematics for understanding
 
-**Advanced Proficiencies:**
+*Advanced Proficiencies:*
 
 - write concisely, balancing clarity and brevity
 - critique written mathematics critically in a peer review setting
