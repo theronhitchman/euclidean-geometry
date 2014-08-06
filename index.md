@@ -11,4 +11,4 @@ above. Daily round-ups of our activities will appear below as blog posts.
 
 Information about how to reach Professor Hitchman is on the [Course Syllabus][1].
 
-[1]: https://docs.google.com/document/d/1iHtxFO83kza5CEPx1Kfi4C1_eGdpFzbfhhB93FGLlFo/edit?usp=sharing
+[1]: {{ site.baseurl }}/syllabus/
