@@ -17,3 +17,21 @@ Often, I use the chrome web app, which will connect with a UNI Google Drive to s
 your work. I encourage you to play around with the software. It is very useful.
 
 [ggb]: http://www.geogebra.org/cms/en/
+
+ ***
+
+ There are two games worth your attention, too.
+
+ [Dragonbox Elements][dragonbox] is not free, but it is not too expensive.
+ It is marketed as a way to learn the process of making axiomatic arguments
+ in the context of classical geometry. I played it and had fun, and I can see
+ the potential.
+
+ [dragonbox]: http://wewanttoknow.com/elements/
+
+ [Euclid the Game][euclid] is a free online game based on GeoGebra. It has
+ a large number of construction challenges which are typical objects of study
+ in classical geometry built in. You can learn something by completing these,
+ too.
+
+[euclid]: http://www.euclidthegame.com/
