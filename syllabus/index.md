@@ -29,6 +29,7 @@ students.
       email:  theron.hitchman@uni.edu      office phone: 319-273-2646
 - Course Web Page:
       http://theronhitchman.github.io/euclidean-geometry
+
   Check this regularly. Lots of important things are at this page.
 
 ## Materials:
