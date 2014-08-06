@@ -47,7 +47,7 @@ Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
 
 [standards]: {{site.baseurl}}/standards-based-assessment/the-standards.html
-[prompt1]: https://docs.google.com/document/d/1JTkyaEFuoZ-ct7Rw8PjgGjz6gv7PGLXBrOq6I1AoA6k/edit?usp=sharing
-[prompt2]: https://docs.google.com/document/d/13tkQjZ7WPnq_0BR17oEpxcN-BRl56Hyn6b3lnUAkHKo/edit?usp=sharing
-[prompt3]: https://docs.google.com/document/d/1qBu2VKXzNPXE-NYUyvRU3sJ28OEAn7mS9Iab-D-aOWk/edit?usp=sharing
-[prompt4]: https://docs.google.com/document/d/1Cy6ulaIRD5x-UDabIMC1ppzfKNFUeVg8XuVtcpVNVhw/edit?usp=sharing
+[prompt1]: {{site.baseurl}}/standards-based-assessment/prompt1.html
+[prompt2]: {{site.baseurl}}/standards-based-assessment/prompt2.html
+[prompt3]: {{site.baseurl}}/standards-based-assessment/prompt3.html
+[prompt4]: {{site.baseurl}}/standards-based-assessment/prompt4.html
