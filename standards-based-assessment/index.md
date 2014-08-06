@@ -18,8 +18,8 @@ standards are:
 I will be keeping track of what goes on during class to the best of my ability.
 After each presentation, the class will have a conversation about your work:
 this is your primary source of feedback. Sometimes, I may send an email
-from me with some comments about your progress. I think of this mostly as a
-formative assessment. It is a way for me to gauge your progress and help you
+with some extra comments about your progress. I think of this mostly as a
+_formative_ assessment. It is a way for me to gauge your progress and help you
 focus on improving your work.
 
 I will also keep track of referee reports from the process of writing for the
