@@ -35,7 +35,7 @@ questions.
 - contact info:
   <address>
   <strong>email:</strong> theron.hitchman@uni.edu<br>
-  <strong>office phone:<strong> 319-273-2646
+  <strong>office phone:</strong> 319-273-2646
   </address>
 - Course Web Page: <code>http://theronhitchman.github.io/euclidean-geometry</code>
 
