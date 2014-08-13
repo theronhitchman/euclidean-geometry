@@ -33,13 +33,11 @@ questions.
 - Office Hours: 	MWF  2-3 pm.  
   To meet at another time, contact me by email to make an appointment.
 - contact info:
-
-      email:        theron.hitchman@uni.edu
-      office phone: 319-273-2646
-
-- Course Web Page:
-
-      http://theronhitchman.github.io/euclidean-geometry
+  <address>
+  <strong>email:</strong> theron.hitchman@uni.edu<br>
+  <strong>office phone:<strong> 319-273-2646
+  </address>
+- Course Web Page: <code>http://theronhitchman.github.io/euclidean-geometry</code>
 
   Check this regularly. Lots of important things are at this page.
 
