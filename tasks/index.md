@@ -13,7 +13,7 @@ layout: default
 
 ### The Official Task Sequence
 
-<div class="row">
+<!--<div class="row">-->
   <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
     <div class="panel-body">
     <a href="{{site.baseurl}}/EG_main01.pdf" target="_blank">Section One: rhombi</a>
@@ -71,7 +71,7 @@ layout: default
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
     <div class="panel-body">
-    <a href="">Section Twelve: advanced constructions</a>
+    <a href="">Section Twelve: more constructions</a>
   </div>
   </div>
   <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
@@ -104,7 +104,7 @@ layout: default
     <a href="">Section Eighteen: the nine-point circle</a>
   </div>
   </div>
-</div>  
+<!--</div>-->  
 
 
 
