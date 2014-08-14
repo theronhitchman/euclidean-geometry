@@ -1,9 +1,7 @@
 name:          "Euclidean Geometry"
 description:   "Course Page for UNI Math 3600"
 email:         theron.hitchman@uni.edu
-github_username: "theronhitchman"
-twitter_username: "@ProfNoodlearms"
-plus_username:  "+TheronHitchman"
+
 
 url:           "http://theronhitchman.github.io"
 baseurl:       "/euclidean-geometry"

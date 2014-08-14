@@ -5,13 +5,111 @@ layout: default
 
 ### Our Conjectures and Questions:
 
-[Fall 2014 Euclidean Geometry Class Conjectures and Questions][conj]
-
-[conj]: {{site.baseurl}}/class/
+<div class="panel panel-default text-center">
+  <div class="panel-body">
+    <a href="{{site.baseurl}}/class/">Fall 2014 Euclidean Geometry Class Conjectures and Questions</a>
+  </div>
+</div>
 
 ### The Official Task Sequence
 
-<table>
+<div class="row">
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="{{site.baseurl}}/EG_main01.pdf" target="_blank">Section One: rhombi</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+      <a href="">Section Two: kites</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+      <a href="">Section Three: rectangles</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Four: healthy skepticism</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Five: polygons</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Six: regular figures, warm-up</a>
+    </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Seven: deeper into triangles</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Eight: triangle centers</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Nine: circles</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Ten: more about circles</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Eleven: constructions</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Twelve: advanced constructions</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Thirteen: the theory of content</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Fourteen: more about content</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Fifteen: regular figures</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Sixteen: the regular pentagon</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Seventeen: triangle centers</a>
+  </div>
+  </div>
+  <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
+    <div class="panel-body">
+    <a href="">Section Eighteen: the nine-point circle</a>
+  </div>
+  </div>
+</div>  
+
+
+
+
+<!--<table>
   <tr>
     <td>
       <ul>
@@ -41,3 +139,4 @@ layout: default
     </td>
   </tr>
 </table>
+-->
