@@ -70,7 +70,7 @@ If you feel uncertain about your progress in the course at any time, please cont
   disability to the Student Disability Services (SDS) office, located on the
   top floor of the Student Health Center, (319) 273-2677.
 
-** Academic Learning Center Syllabus Statement **
+**Academic Learning Center Syllabus Statement**
   I encourage you to utilize the Academic Learning Center’s free assistance with
   writing, math, science, college reading, and learning strategies. UNI’s Academic
   Learning Center, located in 007/008 ITTC, also provides advising services and
