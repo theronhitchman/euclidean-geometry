@@ -61,12 +61,22 @@ on the following assessments, with emphasis on the first item:
 
 If you feel uncertain about your progress in the course at any time, please contact me.
 
+---
+
 **Accommodations:**
   If you have a disability and require accommodations, please contact the
   instructor early in the semester so that your learning needs may be
   appropriately met. You will need to provide documentation of your
   disability to the Student Disability Services (SDS) office, located on the
   top floor of the Student Health Center, (319) 273-2677.
+
+** Academic Learning Center Syllabus Statement **
+  I encourage you to utilize the Academic Learning Center’s free assistance with
+  writing, math, science, college reading, and learning strategies. UNI’s Academic
+  Learning Center, located in 007/008 ITTC, also provides advising services and
+  is the University's testing center for many standardized tests, including the
+  PLT, GRE, and Praxis Core. Visit the website at `http://www.uni.edu/unialc/` or
+  call (319) 273-6023 for more information or to set up an appointment.  
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
 [sba]: {{site.baseurl}}/standards-based-assessment
