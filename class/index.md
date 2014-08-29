@@ -10,3 +10,11 @@ ordered by date.
 
 > **Question A:** (Benson) It appears that the second conclusion of Conjecture 1.1
 > is true if the rhombus ABCD is a square. Is that the only way it can be true?
+
+#### August 27
+
+> **Question B:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
+> when AC is congruent to BD?
+
+> **Question B:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
+> when AC is less than BD?
