@@ -56,7 +56,7 @@ I will be using a “standards based assessment” scheme for this course. See t
 on the following assessments, with emphasis on the first item:
 
 - In-class participation, focusing on finding and presenting arguments
-- a midterm examination
+- a midterm examination, (date: Oct 15)
 - a week-long, take-home, final examination
 
 If you feel uncertain about your progress in the course at any time, please contact me.
