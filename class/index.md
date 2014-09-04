@@ -16,5 +16,5 @@ ordered by date.
 > **Question B:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
 > when AC is congruent to BD?
 
-> **Question B:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
+> **Question C:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
 > when AC is less than BD?
