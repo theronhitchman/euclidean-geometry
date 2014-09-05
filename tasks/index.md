@@ -5,15 +5,79 @@ layout: default
 
 ### Our Conjectures and Questions:
 
-<div class="panel panel-default text-center">
-  <div class="panel-body">
-    <a href="{{site.baseurl}}/class/">Fall 2014 Euclidean Geometry Class Conjectures and Questions</a>
-  </div>
+<div class="text-center">
+  <a class="btn btn-lg btn-primary" href="{{site.baseurl}}/class/">
+    Fall 2014 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions
+  </a>
 </div>
 
 ### The Official Task Sequence
 
-<!--<div class="row">-->
+<div class="text-center">
+  <div class="btn-group">
+    <a class="btn btn-warning btn-lg" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
+      <span class="glyphicon glyphicon-new-window"></span> One: rhombi</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-success btn-lg" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
+      <span class="glyphicon glyphicon-new-window"></span> Two: kites</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Three: TBA</a>  
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Four: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Five: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Six: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Seven: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Eight: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Nine: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Ten: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Eleven: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Twelve: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Thirteen: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Fourteen: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Fifteen: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Sixteen: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Seventeen: TBA</a>
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-default btn-lg">Eighteen: TBA</a>
+  </div>
+</div>
+
+<div>
+ <p><br />
+ </p>
+</div>
+<!--
+
   <div class="col-xs-12 col-sm-6 col-md-4 panel panel-default text-center">
     <div class="panel-body">
     <a href="{{site.baseurl}}/EG_main01.pdf" target="_blank">Section One: rhombi</a>
@@ -104,7 +168,7 @@ layout: default
     <a href="">Section Eighteen: the nine-point circle</a>
   </div>
   </div>
-<!--</div>-->  
+-->  
 
 
 
