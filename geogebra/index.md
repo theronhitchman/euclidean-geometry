@@ -3,7 +3,7 @@ title: Geogebra
 layout: default
 ---
 
-[GeoGebra][ggb] is a free, open-source, interactive and dynamic mathematics
+[GeoGebra][ggb] is a free\*, open-source, interactive and dynamic mathematics
 package which has good support for playing with Euclidean geometry concepts.
 
 You can use the software in many ways:
@@ -17,6 +17,11 @@ Often, I use the chrome web app, which will connect with a UNI Google Drive to s
 your work. I encourage you to play around with the software. It is very useful.
 
 [ggb]: http://www.geogebra.org/cms/en/
+
+
+\* <small>There is a bit of funny business here. GeoGebra is not totally free to everyone.
+But it will be free for you as long as you do not try to use it to build another
+product to sell.</small>
 
  ***
 
