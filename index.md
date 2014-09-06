@@ -7,7 +7,7 @@ layout: default
 
 All of the official documentation needed for this course will be posted here.
 Static documents and general discussion can be found using the banner menu
-above. Daily round-ups of our activities will appear below as blog posts.
+above. Daily round-ups of our activities will appear blog posts.
 
 
 <div class="text-center">

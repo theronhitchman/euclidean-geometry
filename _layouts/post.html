@@ -1,33 +1,28 @@
 {% include header.html %}
 
-
-
-
 <!-- Begin page content -->
-<div class="container">
-<div id="page-navigation">
-        <div class="clear">&nbsp;</div>
-        <span class="left">
-        {% if page.previous.url %}
-          <a href="{{page.previous.url | prepend: site.baseurl}}" title="Previous Post:
-{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
-        {% endif %}
-        </span>
-&bull; <span><a href="{{site.baseurl}}/blog">List of Posts</a></span> &bull;
-        <span>
-        {% if page.next.url %}
-          <a href="{{page.next.url | prepend: site.baseurl}}" title="Next Post:
-{{page.next.title}}">{{page.next.title}} &raquo; </a>
-        {% endif %}
-        </span>
-</div>
-
-
+<div class="container hidden-xs">
+  <ul class="pager">
+    {% if page.previous.url %}
+      <li class="previous"><a href="{{page.previous.url | prepend: site.baseurl}}"
+        title="Previous: {{page.previous.title}}">
+    {% else %}
+      <li class="previous disabled"><a href="#">
+    {% endif %}
+    &larr; Previous</a></li>
+    <li><a href="{{site.baseurl}}/blog">All</a></li>
+    {% if page.next.url %}
+      <li class="next"><a href="{{page.next.url | prepend: site.baseurl}}"
+        title="Next: {{page.next.title}}">
+    {% else %}
+      <li class="next disabled"><a href="#">
+    {% endif %}
+    Next &rarr;</a></li>
+  </ul>
   <div class="page-header">
     <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
   </div>
   {{ content }}
 </div>
-
 
 {% include footer.html %}
