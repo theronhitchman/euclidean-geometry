@@ -17,11 +17,11 @@ layout: default
 
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
-    <span class="glyphicon glyphicon-new-window"></span> One: rhombi</a>
+    <span class="glyphicon glyphicon-new-window"></span> One:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
-    <span class="glyphicon glyphicon-new-window"></span> Two: kites</a>
+    <span class="glyphicon glyphicon-new-window"></span> Two:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3">
   <a class="btn btn-default btn-lg btn-block">Three: TBA</a>  
