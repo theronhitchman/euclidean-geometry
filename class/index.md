@@ -18,3 +18,17 @@ ordered by date.
 
 > **Question C:** What happens in the Benson-Herbst-Nieman-Westervelt Theorem
 > when AC is less than BD?
+
+#### September 8
+
+> **Conjecture D:** (Herbst) Let AC be a segment and X a point on this segment.
+> Suppose that segment BX meets AC at right angles, and segment DX meets AC at
+> right angles. Then the points B, X, and D are collinear.
+
+> **Conjecture E:** (Walters) Let ABCD be a rhombus. Then angles ABC, BCD, CDA,
+> DAC, when taken together, make four right angles.
+
+
+> **Conjecture F:** (Hatchett) Suppose that ABCD is a kite with AB congruent to 
+> AD and DC congruent to BC. If CD is greater than AD, then angle DAB is greater
+> than angle DCB.
