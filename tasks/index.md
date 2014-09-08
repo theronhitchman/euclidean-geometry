@@ -24,7 +24,7 @@ layout: default
     <span class="glyphicon glyphicon-new-window"></span> Two:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Three: TBA</a>  
+  <a class="btn btn-default btn-lg btn-block">Three:<br class="visible-xs" /> rectangles</a>  
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block">Four: TBA</a>
