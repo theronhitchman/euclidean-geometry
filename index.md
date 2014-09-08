@@ -8,7 +8,7 @@ layout: default
 <p class="lead">
 All of the official documentation needed for this course will be posted here.
 Static documents and general discussion can be found using the banner menu
-above or the buttons below. Daily round-ups of our activities will appear blog
+above or the buttons below. Daily round-ups of our activities will appear as blog
 posts.
 </p>
 
