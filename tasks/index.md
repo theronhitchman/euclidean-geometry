@@ -9,12 +9,12 @@ layout: default
   <a class="btn btn-lg btn-primary btn-block" href="{{site.baseurl}}/class/" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span>
     Fall 2014 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions
-  </a>
+ TBA</a>
 </div>
 
 ### The Official Task Sequence
 
-
+<div class="row">
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> One:<br class="visible-xs" /> rhombi</a>
@@ -24,52 +24,69 @@ layout: default
     <span class="glyphicon glyphicon-new-window"></span> Two:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Three:<br class="visible-xs" /> rectangles</a>  
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Three:<br class="visible-xs" /> rectangles</a>  
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Four: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Five: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Six: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Seven: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Eight: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Eight:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Nine: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Ten: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Ten:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Eleven: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Twelve: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Twelve:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Thirteen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Thirteen:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Fourteen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Fourteen:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Fifteen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Fifteen:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Sixteen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Sixteen:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Seventeen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Seventeen:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block">Eighteen: TBA</a>
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Eighteen:<br class="visible-xs" />TBA</a>
+</div>
 </div>
 
 <div class="row">
