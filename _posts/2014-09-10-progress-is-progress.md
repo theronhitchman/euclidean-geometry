@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sept 10: Progress is progress
+title:  Progress is progress
 ---
 
 We did several things today. And I want to get them all down.
@@ -8,6 +8,7 @@ We did several things today. And I want to get them all down.
 ### Journal Check-Up
 
 I think we have this kind of status, as of class time:
+
 #### Papers ready to be published
 
   * Bieber-Hawkins
@@ -68,10 +69,14 @@ Fisher on Conj F.
 
 ----
 
+#### Reminder about interviews
+
 Those of you who have made an appointment with me for Thursday, Sept 11, please
 remember to bring your reflection paper with you.
 
 ---
+
+#### Open Problems
 
 Current List of Open Problems (with no claims on them whatsoever): 2.2, D.
 Still not completely resolved, but with an expected report soon: 2.3, 2.4, E, F.
