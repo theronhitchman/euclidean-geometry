@@ -29,6 +29,11 @@ ordered by date.
 > DAC, when taken together, make four right angles.
 
 
-> **Conjecture F:** (Hatchett) Suppose that ABCD is a kite with AB congruent to 
+> **Conjecture F:** (Hatchett) Suppose that ABCD is a kite with AB congruent to
 > AD and DC congruent to BC. If CD is greater than AD, then angle DAB is greater
 > than angle DCB.
+
+### September 15
+
+> **Question G:** (Bieber) How is it possible to construct a point C not lying on
+> a given segment AB so that angle ACB is not a right angle?
