@@ -37,3 +37,13 @@ ordered by date.
 
 > **Question G:** (Bieber) How is it possible to construct a point C not lying on
 > a given segment AB so that angle ACB is not a right angle?
+
+## September 17
+
+> **Question H:** What should this phrase mean?
+> "Points A and B lie on the same side (or on opposite sides) of line segment CD."
+
+> **Challenge I:** Find a workable definition of the term "convex" for quadrilaterals.
+
+> **Challenge J:** Find a workable definition of the phrase "the interior angle
+> of a quadrilateral ABCD at the vertex A."
