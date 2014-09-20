@@ -47,3 +47,8 @@ ordered by date.
 
 > **Challenge J:** Find a workable definition of the phrase "the interior angle
 > of a quadrilateral ABCD at the vertex A."
+
+## September 19
+
+> Question K: Will Herbst's argument for the diagonals of a rhombus work in this
+> context? If not, where does it fail?
