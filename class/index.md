@@ -52,3 +52,9 @@ ordered by date.
 
 > Question K: Will Herbst's argument for the diagonals of a rhombus work in this
 > context? If not, where does it fail?
+
+## September 22
+
+> **Question L:** How does Scheidecker's definition for H interact with Nieman's
+> construction for 2.2? In particular, what statement is needed (if any) to
+> close the gap? Make a conjecture! Or explain why everything is fine.
