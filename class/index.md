@@ -58,3 +58,12 @@ ordered by date.
 > **Question L:** How does Scheidecker's definition for H interact with Nieman's
 > construction for 2.2? In particular, what statement is needed (if any) to
 > close the gap? Make a conjecture! Or explain why everything is fine.
+
+
+## September 29
+
+> **Question M:** What is an "interior angle"? an "exterior angle?"
+
+> **Question N:** What is the "inside" of a polygon?
+
+> **Question O:** Is the hourglass a quadrilateral? or a hexagon? or two triangles? WTH?
