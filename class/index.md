@@ -67,3 +67,11 @@ ordered by date.
 > **Question N:** What is the "inside" of a polygon?
 
 > **Question O:** Is the hourglass a quadrilateral? or a hexagon? or two triangles? WTH?
+
+## October 3
+
+> **Problem P:** Mr Hawkins both proves 3.4 and makes a counterexample to
+> disprove 3.4. Figure out what is going on and resolve this.
+
+> **Question Q:** Why is Miss Herbst's theorem insufficient to disprove 2.4?
+> What do we need to fill in the gap?
