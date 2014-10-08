@@ -38,7 +38,7 @@ ordered by date.
 > **Question G:** (Bieber) How is it possible to construct a point C not lying on
 > a given segment AB so that angle ACB is not a right angle?
 
-## September 17
+### September 17
 
 > **Question H:** What should this phrase mean?
 > "Points A and B lie on the same side (or on opposite sides) of line segment CD."
@@ -48,19 +48,25 @@ ordered by date.
 > **Challenge J:** Find a workable definition of the phrase "the interior angle
 > of a quadrilateral ABCD at the vertex A."
 
-## September 19
+### September 19
 
 > Question K: Will Herbst's argument for the diagonals of a rhombus work in this
 > context? If not, where does it fail?
 
-## September 22
+Added later, since the context is not clear from the above: This has to do with
+Mr Hawkins' theorem for Conjecture 3.3. He proves that *if* the diagonals of a
+rectangle meet, then that point of intersection is the midpoint of both
+diagonals. But how do we know that those diagonals meet?
+
+
+### September 22
 
 > **Question L:** How does Scheidecker's definition for H interact with Nieman's
 > construction for 2.2? In particular, what statement is needed (if any) to
 > close the gap? Make a conjecture! Or explain why everything is fine.
 
 
-## September 29
+### September 29
 
 > **Question M:** What is an "interior angle"? an "exterior angle?"
 
@@ -68,7 +74,7 @@ ordered by date.
 
 > **Question O:** Is the hourglass a quadrilateral? or a hexagon? or two triangles? WTH?
 
-## October 3
+### October 3
 
 > **Problem P:** Mr Hawkins both proves 3.4 and makes a counterexample to
 > disprove 3.4. Figure out what is going on and resolve this.
