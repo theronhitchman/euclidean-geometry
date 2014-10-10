@@ -21,8 +21,8 @@ the [page about writing][writing].
 
 ## Issues of the Class Journal
 
-- [Issue #1 Week 3]({{site.baseurl}}/journal/2014F/issue01/TEG01.pdf)
-- Issue #2 Week 5
+- [Issue #1 Week 4]({{site.baseurl}}/journal/2014F/issue01/TEG01.pdf)
+- [Issue #2 Week 7]({{site.baseurl}}/journal/2014F/issue02/TEG02.pdf)
 - Issue #3 Week 7
 - Issue #4 Week 9
 - Issue #5 Week 11
