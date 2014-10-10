@@ -81,3 +81,12 @@ diagonals. But how do we know that those diagonals meet?
 
 > **Question Q:** Why is Miss Herbst's theorem insufficient to disprove 2.4?
 > What do we need to fill in the gap?
+
+#### October 8
+
+> **Conjecture R:** Let P be a polygon and let X be a point not lying on one of the sides
+> of P. Given a ray r with initial point X which does not pass through a vertex of P,
+> let \\(n(r)\\) be the number of sides of P which meet r.
+>
+> If \\(n(r)\\) is even (odd) for some ray r, then it is even (respectively odd) for
+> every allowed ray r.
