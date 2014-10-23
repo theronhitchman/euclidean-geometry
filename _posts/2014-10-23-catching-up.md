@@ -3,6 +3,10 @@ layout: post
 title: Catching up&colon; Oct 15, 17, 20 &amp; 22
 ---
 
+This blog is several meetings behind our class schedule. So here I will summarize
+four different meetings and get caught up.
+
+
 ## October 15, 2014
 
 This was our midterm examination day.
