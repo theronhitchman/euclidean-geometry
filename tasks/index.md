@@ -32,7 +32,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
   <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -40,7 +40,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
   <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
