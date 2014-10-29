@@ -32,7 +32,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
   <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
