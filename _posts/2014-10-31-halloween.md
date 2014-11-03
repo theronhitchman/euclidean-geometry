@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Mr Griffen's scary Halloween
 date: 2014-10-31
 ---
