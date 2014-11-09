@@ -29,27 +29,27 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" />TBA</a>
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
+  <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Eight:<br class="visible-xs" />TBA</a>
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
+  <span class="glyphicon glyphicon-new-window"></span> Eight:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" />TBA</a>
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
+  <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
