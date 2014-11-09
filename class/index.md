@@ -99,3 +99,9 @@ diagonals. But how do we know that those diagonals meet?
 
 > **Conjecture T:** Let P be a simple \(n\)-gon. Then it is possible to divide
 > P into \( n-2 \) non-overlapping triangles by inserting diagonals of P.
+
+#### November 5
+
+> **Conjecture U:** (Dvorak) Let ABC and DEF be triangles so that angle BAC is congruent
+> to angle EDF and both are obtuse, AB is congruent to DE and BC is congruent to EF.
+> Then triangle ABC is congruent to triangle DEF.
