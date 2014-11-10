@@ -52,7 +52,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main10.pdf">
   <span class="glyphicon glyphicon-new-window"></span> Ten:<br class="visible-xs" />TBA</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
