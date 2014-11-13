@@ -57,7 +57,7 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main11.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> construction</a>
+  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> constructs</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
