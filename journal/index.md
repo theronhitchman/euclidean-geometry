@@ -25,4 +25,5 @@ the [page about writing][writing].
 - [Issue #2 Week 7]({{site.baseurl}}/journal/2014F/issue02/TEG02.pdf)
 - [Issue #3 Week 10]({{site.baseurl}}/journal/2014F/issue03/TEG03.pdf)
 - [Issue #4 Week 12]({{site.baseurl}}/journal/2014F/issue04/TEG04.pdf)
-- Issue #5 Week xx
+- [Issue #5 Week 13]({{site.baseurl}}/journal/2014F/issue05/TEG05.pdf)
+- Issue #6 Week xx
