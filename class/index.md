@@ -113,5 +113,6 @@ diagonals. But how do we know that those diagonals meet?
 
 #### November 21
 
-> **Challenge W: (Nieman)** Given a circle $\mathcal{C}$ and a point $X$ not lying on
-> $\mathcal{C}$, construct a circle $\mathcal{D}$ centered at $X$ and tangent to $\mathcal{C}$.
+> **Challenge W: (Nieman)** Given a circle \\(\mathcal{C}\\) and a point X not lying on
+> \\(\mathcal{C}\\), construct a circle \\(\mathcal{D}\\) centered at X and tangent to
+> \\(\mathcal{C}\\).
