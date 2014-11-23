@@ -57,15 +57,15 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main11.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> constructs</a>
+  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Twelve:<br class="visible-xs" />Challanges!</a>
+  <span class="glyphicon glyphicon-new-window"></span> Twelve:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main13.pdf">
-  <span class="glyphicon glyphicon-new-window"></span> Thirteen:<br class="visible-xs" />"Content"</a>
+  <span class="glyphicon glyphicon-new-window"></span> Thirteen:<br class="visible-xs" /> Area, I</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
