@@ -93,12 +93,12 @@ diagonals. But how do we know that those diagonals meet?
 
 #### October 20
 
-> **Conjecture S:** In the situation of Goodmundson's theorem: \( T = n-2 \).
+> **Conjecture S:** In the situation of Goodmundson's theorem: \\( T = n-2 \\).
 
 #### October 22
 
-> **Conjecture T:** Let P be a simple \(n\)-gon. Then it is possible to divide
-> P into \( n-2 \) non-overlapping triangles by inserting diagonals of P.
+> **Conjecture T:** Let P be a simple \\(n\\)-gon. Then it is possible to divide
+> P into \\( n-2 \\) non-overlapping triangles by inserting diagonals of P.
 
 #### November 5
 
