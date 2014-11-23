@@ -15,3 +15,15 @@ Mr Nieman discussed his work on Challenge 11.7, which we will not call complete,
 > $\mathcal{C}$, construct a circle $\mathcal{D}$ centered at $X$ and tangent to $\mathcal{C}$.
 
 Then Mr Hawkins discussed some progress toward 10.3. This work is not, yet, complete.
+
+----
+
+Open Problems List:
+
+4.2, 6.7, R, U, V, W, 9.4 (second half), 10.2 -- 10.7, 11.6, 11.7.
+
+----
+
+Because I like to make sure you have plenty to think about, I will post sections 12
+and 13 of the task sequence in a few minutes. Part 12 has "advanced" constructions
+in it. Part 13 begins our work on the "theory of content."
