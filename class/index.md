@@ -116,3 +116,8 @@ diagonals. But how do we know that those diagonals meet?
 > **Challenge W: (Nieman)** Given a circle \\(\mathcal{C}\\) and a point X not lying on
 > \\(\mathcal{C}\\), construct a circle \\(\mathcal{D}\\) centered at X and tangent to
 > \\(\mathcal{C}\\).
+
+#### December 5
+
+> ** Question X: (Nieman) What proportion of the content of the isosceles right
+> triangle is covered by the inscribed square with a side lying along the hypotenuse?
