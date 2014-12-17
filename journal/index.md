@@ -28,4 +28,4 @@ the [page about writing][writing].
 - [Issue #5 Week 13]({{site.baseurl}}/journal/2014F/issue05/TEG05.pdf)
 - [Issue #6 Week 15]({{site.baseurl}}/journal/2014F/issue06/TEG06.pdf)
 - [Issue #7 Week 15]({{site.baseurl}}/journal/2014F/issue06/TEG07.pdf)
-- [Issue #8 Finals Week]({{site.baseurl}}/journal/2014/issue08/TEG08.pdf)
+- [Issue #8 Finals Week]({{site.baseurl}}/journal/2014F/issue08/TEG08.pdf)
