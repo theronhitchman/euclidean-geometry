@@ -4,7 +4,7 @@ layout: default
 ---
 
 *Euclidean Geometry*<br />
-*Math 3600, Fall 2014*
+*Math 3600, Spring 2015*
 
 
 ##Course Description:
