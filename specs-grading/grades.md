@@ -9,7 +9,7 @@ The table below indicates the minimum number of acceptable (passing) items of ea
 type that a student must include in a properly formatted portfolio at the end of
 the term.
 
-| Grade |   | Published Papers + Exam Problems |   | Papers Refereed |   | Self-Assessments |   | Essays |
+| Grade | \ | Published Papers + Exam Problems | \ | Papers Refereed | \ | Self-Assessments | \ | Essays |
 |:-----:|---|:--------------------------------:|---|:---------------:|---|:----------------:|---|:------:|
 |   A   |   |               7 + 4              |   |        4        |   |         3        |   |    3   |
 |   A-  |   |          6 + 4 or 7 + 3          |   |        3        |   |         3        |   |    3   |
