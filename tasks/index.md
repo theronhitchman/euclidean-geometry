@@ -72,7 +72,7 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> 15:<br class="visible-xs" /> reg., II</a>
+  <span class="glyphicon glyphicon-new-window"></span> 15:<br class="visible-xs" /> regularity II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
