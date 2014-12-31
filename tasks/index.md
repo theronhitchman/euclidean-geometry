@@ -68,23 +68,31 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Fourteen:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Fourteen:<br class="visible-xs" />Area, II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Fifteen:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Fifteen:<br class="visible-xs" />regularity, II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Sixteen:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Sixteen:<br class="visible-xs" />Pentagon</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Seventeen:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Seventeen:<br class="visible-xs" />Triangles, II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Eighteen:<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Eighteen:<br class="visible-xs" />Nine-Point</a>
+</div>
+<div class="col-xs-6 col-sm-4 col-lg-3 text-center">
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Nineteen:<br class="visible-xs" />experimental</a>
+</div>
+<div class="col-xs-6 col-sm-4 col-lg-3 text-center">
+  <a class="btn btn-default btn-lg btn-block" href="#">
+  <span class="glyphicon glyphicon-new-window"></span> Trigonometry!<br class="visible-xs" />TBA</a>
 </div>
 </div>
 
