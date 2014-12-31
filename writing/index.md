@@ -22,7 +22,7 @@ I have arranged with a service called _Overleaf_ to provide you with a simple
 online template for writing papers. You can find a fresh copy by clicking the
 link below:
 
-[The Overleaf.COM TEMPLATE FOR WRITING PAPERS][template]
+[THE OVERLEAF.COM TEMPLATE FOR WRITING PAPERS][template]
 
 
 _To submit a paper_, send an email to the address **theron.hitchman@uni.edu**

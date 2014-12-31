@@ -9,8 +9,8 @@ the TEG homepage, as this will include all of the relevant styling and structure
 
 ## How to Start a Document:
 
-Navigate a web browser to the “Class Journal” page of our course web site.
-Follow the link “The Overleaf.COM TEMPLATE FOR WRITING PAPERS.”
+Navigate a web browser to the “Writing” page of our course web site.
+Follow the link “THE OVERLEAF.COM TEMPLATE FOR WRITING PAPERS.”
 
 When the document comes up, note the url of the web page you are at. This url
 has a random string at the end which serves as Overleaf.com’s identifier for
