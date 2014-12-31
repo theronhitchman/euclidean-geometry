@@ -30,7 +30,7 @@ questions.
 
 - Instructor: 		Theron J Hitchman
 - Office: 		327 Wright Hall
-- Office Hours: 	MWF  2-3 pm.  
+- Office Hours: 	MWF  10-11 am and 2-3 pm.  
   To meet at another time, contact me by email to make an appointment.
 - contact info:
   <address>
