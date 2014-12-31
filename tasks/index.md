@@ -8,15 +8,14 @@ layout: default
 <div class="text-center">
   <a class="btn btn-lg btn-primary btn-block" href="{{site.baseurl}}/class/" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span>
-    Spring 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions
- TBA</a>
+    Spring 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions</a>
 </div>
 
 ### The Official Task Sequence
 
 <div class="row">
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> One:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
