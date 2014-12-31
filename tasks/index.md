@@ -16,83 +16,83 @@ layout: default
 <div class="row">
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
-    <span class="glyphicon glyphicon-new-window"></span> One:<br class="visible-xs" /> rhombi</a>
+    <span class="glyphicon glyphicon-new-window"></span> 1:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
-    <span class="glyphicon glyphicon-new-window"></span> Two:<br class="visible-xs" /> kites</a>
+    <span class="glyphicon glyphicon-new-window"></span> 2:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
-  <span class="glyphicon glyphicon-new-window"></span> Three:<br class="visible-xs" /> rectangles</a>  
+  <span class="glyphicon glyphicon-new-window"></span> 3:<br class="visible-xs" /> rectangles</a>  
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> skepticism</a>
+  <span class="glyphicon glyphicon-new-window"></span> 4:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" /> polygons</a>
+  <span class="glyphicon glyphicon-new-window"></span> 5:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" /> regularity</a>
+  <span class="glyphicon glyphicon-new-window"></span> 6:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" /> triangles</a>
+  <span class="glyphicon glyphicon-new-window"></span> 7:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Eight:<br class="visible-xs" /> centers</a>
+  <span class="glyphicon glyphicon-new-window"></span> 8:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" /> circles</a>
+  <span class="glyphicon glyphicon-new-window"></span> 9:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Ten:<br class="visible-xs" /> circles, II</a>
+  <span class="glyphicon glyphicon-new-window"></span> 10:<br class="visible-xs" /> circles II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> Golf?</a>
+  <span class="glyphicon glyphicon-new-window"></span> 11:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Twelve:<br class="visible-xs" /> Golf!</a>
+  <span class="glyphicon glyphicon-new-window"></span> 12:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Thirteen:<br class="visible-xs" /> Area, I</a>
+  <span class="glyphicon glyphicon-new-window"></span> 13:<br class="visible-xs" /> Area I</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Fourteen:<br class="visible-xs" />Area, II</a>
+  <span class="glyphicon glyphicon-new-window"></span> 14:<br class="visible-xs" /> Area II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Fifteen:<br class="visible-xs" />regularity, II</a>
+  <span class="glyphicon glyphicon-new-window"></span> 15:<br class="visible-xs" /> reg., II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Sixteen:<br class="visible-xs" />Pentagon</a>
+  <span class="glyphicon glyphicon-new-window"></span> 16:<br class="visible-xs" /> pentagon</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Seventeen:<br class="visible-xs" />Triangles, II</a>
+  <span class="glyphicon glyphicon-new-window"></span> 17:<br class="visible-xs" /> centers II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Eighteen:<br class="visible-xs" />Nine-Point</a>
+  <span class="glyphicon glyphicon-new-window"></span> 18:<br class="visible-xs" /> NPC</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Nineteen:<br class="visible-xs" />experimental</a>
+  <span class="glyphicon glyphicon-new-window"></span> 19:<br class="visible-xs" /> experimental</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Trigonometry!<br class="visible-xs" />TBA</a>
+  <span class="glyphicon glyphicon-new-window"></span> Trigonometry!</a>
 </div>
 </div>
 
