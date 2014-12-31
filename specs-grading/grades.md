@@ -9,17 +9,17 @@ The table below indicates the minimum number of acceptable (passing) items of ea
 type that a student must include in a properly formatted portfolio at the end of
 the term.
 
-| Grade |                      Published Papers and Exam Problems                     | Papers Refereed | Self-Assessments | Essays |
-|:-----:|:---------------------------------------------------------------------------:|:---------------:|:----------------:|:------:|
-|   A   |                            7 published and 4 exam                           |        4        |         3        |    3   |
-|   A-  |               6 published and 4 exam or 7 published and 3 exam              |        3        |         3        |    3   |
-|   B+  |               6 published and 3 exam or 5 published and 4 exam              |        2        |         3        |    3   |
-|   B   |                            5 published and 3 exam                           |        2        |         3        |    2   |
-|   B-  |  5 published and 2 exam or 4 published and 3 exam or 3 published and 4 exam |        2        |         3        |    2   |
-|   C+  |               4 published and 2 exam or 3 published and 3 exam              |        1        |         3        |    2   |
-|   C   |                            3 published and 2 exam                           |        1        |         3        |    1   |
-|   C-  | 3 published and 1 exam or 2 published and 2 exam or 1 published and 3+ exam |        0        |         3        |    1   |
-|   D+  |               2 published and 1 exam or 1 published and 1 exam              |        0        |         3        |    1   |
-|   D   |                            1 published and 1 exam                           |        0        |         3        |    0   |
-|   D-  |                            1 published and 1 exam                           |        0        |         0        |    0   |
-|   F   |                              fail to meet the                               |   requirements  |       for a      |   D-   |
+| Grade | Published Papers + Exam Problems | Papers Refereed | Self-Assessments | Essays |
+|:-----:|:--------------------------------:|:---------------:|:----------------:|:------:|
+|   A   |               7 + 4              |        4        |         3        |    3   |
+|   A-  |          6 + 4 or 7 + 3          |        3        |         3        |    3   |
+|   B+  |          6 + 3 or 5 + 4          |        2        |         3        |    3   |
+|   B   |               5 + 3              |        2        |         3        |    2   |
+|   B-  |      5 + 2 or 4 + 3 or 3 + 4     |        2        |         3        |    2   |
+|   C+  |          4 + 2 or 3 + 3          |        1        |         3        |    2   |
+|   C   |               3 + 2              |        1        |         3        |    1   |
+|   C-  |      3 + 1 or 2 + 2 or 1 + 3     |        0        |         3        |    1   |
+|   D+  |          2 + 1 or 1 + 2          |        0        |         3        |    1   |
+|   D   |               1 + 1              |        0        |         3        |    0   |
+|   D-  |      1 published and 1 exam      |        0        |         0        |    0   |
+|   F   |   fail to meet the requirements  |       for       |         a        |   D-   |
