@@ -90,6 +90,6 @@ If you feel uncertain about your progress in the course at any time, please cont
   call (319) 273-6023 for more information or to set up an appointment.  
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
-[sba]: {{site.baseurl}}/specs-grading/
+[specs]: {{site.baseurl}}/specs-grading/
 [ggb]: www.geogebra.org
 [IBL]: http://theronhitchman.github.io/euclidean-geometry/inquiry-based-learning/
