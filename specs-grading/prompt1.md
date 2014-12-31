@@ -22,3 +22,15 @@ keep?
 What parts of your process were ineffective, in that you can see no benefit at
 all from working that way? What have you learned about how you have done
 mathematics that you need to discard?
+
+
+### Specifications
+
+To qualify as a passing, your document must:
+
+- Conform to basic standards for English grammar, usage and spelling, with minimal errors.
+- Be typed.
+- Address the prompt above.
+- Focus on critical self-assessment, rather than attempt to convince the reader of
+your awesomeness.
+- Be submitted before or during your interview appointment with Prof. Hitchman
