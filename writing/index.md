@@ -64,4 +64,4 @@ be helpful.
 [style]: {{site.baseurl}}/writing/style-guide.html
 [technical-manual]: {{site.baseurl}}/writing/tech-manual.html
 [referee]: {{site.baseurl}}/writing/instructions-for-referees.html
-[latex]: https://www.overleaf.com/templates/a-quick-guide-to-latex/fghqpfgnxggz#.U9F4_4BdVqp
+[latex]: https://www.overleaf.com/latex/templates/a-quick-guide-to-latex/fghqpfgnxggz#.VKRdl4rF99o
