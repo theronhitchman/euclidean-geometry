@@ -51,15 +51,26 @@ I recommend a “modern compass” that may be fixed at a given radius.
 
 ## Assessment:
 
-I will be using a “standards based assessment” scheme for this course. See the
-[relevant handout][sba] for more detailed information. Grades in this course are based
-on the following assessments, with emphasis on the first item:
+I will be using a "specifications grading" scheme for this course. See the
+[relevant handout][specs] for more detailed information. Grades in this course are based
+on the following assessments, with emphasis on the first two items:
 
-- In-class participation, focusing on finding and presenting arguments
-- a midterm examination, (date: Oct 15)
+- in-class participation, focusing on finding and presenting arguments, and publishing in the class journal
+- work as a referee for the class journal
+- three reflective self-assessments
+- several short essays
 - a week-long, take-home, final examination
 
 If you feel uncertain about your progress in the course at any time, please contact me.
+
+## Dates to Observe:
+
+- Thursday, January 29 and Thursday, February 5: First self-assessment conferences
+- Thursday, February 26: Second self-assessment conferences
+- Wednesday, March 4: Midterm formative assessment, in class
+- Thursday, April 9: Third self-assessment conference, portfolio check-in
+- Friday, May 1: Final class meeting. Final Examination distributed
+- Thursday, May 7: Final Exam and Portfolio due at 5pm
 
 ---
 
@@ -79,6 +90,6 @@ If you feel uncertain about your progress in the course at any time, please cont
   call (319) 273-6023 for more information or to set up an appointment.  
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
-[sba]: {{site.baseurl}}/standards-based-assessment
+[sba]: {{site.baseurl}}/specs-grading/
 [ggb]: www.geogebra.org
 [IBL]: http://theronhitchman.github.io/euclidean-geometry/inquiry-based-learning/
