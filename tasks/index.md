@@ -6,7 +6,7 @@ layout: default
 ### Our Conjectures and Questions:
 
 <div class="text-center">
-  <a class="btn btn-lg btn-primary btn-block" href="{{site.baseurl}}/class/" target="_blank">
+  <a class="btn btn-lg btn-info btn-block" href="{{site.baseurl}}/class/" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span>
     Spring 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions</a>
 </div>
