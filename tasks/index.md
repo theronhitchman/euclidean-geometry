@@ -8,7 +8,7 @@ layout: default
 <div class="text-center">
   <a class="btn btn-lg btn-primary btn-block" href="{{site.baseurl}}/class/" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span>
-    Fall 2014 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions
+    Spring 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions
  TBA</a>
 </div>
 
@@ -20,51 +20,51 @@ layout: default
     <span class="glyphicon glyphicon-new-window"></span> One:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
+  <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> Two:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
+  <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
   <span class="glyphicon glyphicon-new-window"></span> Three:<br class="visible-xs" /> rectangles</a>  
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Four:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Five:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Six:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Seven:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Eight:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Nine:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main10.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Ten:<br class="visible-xs" /> circles, II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main11.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Eleven:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Twelve:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main13.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> Thirteen:<br class="visible-xs" /> Area, I</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
