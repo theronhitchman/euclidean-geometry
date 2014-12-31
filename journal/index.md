@@ -14,6 +14,10 @@ the [page about writing][writing].
 
 [writing]: {{site.baseurl}}/writing/
 
+You may find it helpful to have an example of what a finished paper will look like.
+This is an [interesting paper by W. W. Rouse Ball][ball] that you should read through.
+
+[ball]: {{site.baseurl}}/Ball-Fallacy.pdf
 
 <div class="row">
 </div>
