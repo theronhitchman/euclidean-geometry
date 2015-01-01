@@ -48,7 +48,7 @@ acceptable work.
 ### The Portfolio Assignment
 
 The grading specifications for the portfolio assignment are discussed
-[here][{{site.baseurl}}/specs-grading/portfolio.html].
+[here]({{site.baseurl}}/specs-grading/portfolio.html).
 
 ### Published Papers
 
@@ -57,13 +57,13 @@ class journal. Specifications for this work are as follows:
 
 - The mathematics presented must be complete, correct, and clearly presented.
 - The article should follow conventions for mathematical writing as detailed in
-the [Style Guide for the journal][{{site.baseurl}}/writing/style-guide.html].
+the [Style Guide for the journal]({{site.baseurl}}/writing/style-guide.html).
 
 ### Referee Work
 
 As part of the journal process, you will serve as a referee for the work of other
 students. The specifications for referee reports are listed in the
-[Instructions for Referees document][{{site.baseurl}}/writing/instructions-for-referees.html].
+[Instructions for Referees document]({{site.baseurl}}/writing/instructions-for-referees.html).
 
 ### Reflections & Conferences
 
