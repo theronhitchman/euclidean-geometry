@@ -6,6 +6,8 @@ layout: default
 To help potential authors produce the best work they can, TEG has some style
 requirements for articles. Please adhere to these when writing.
 
+- Articles should adhere to standard English usage, grammar, and spelling.
+
 - Mathematics is written in present tense. It is eternal and enduring.
 
 - Mathematics is not a personal narrative. Do not choose the personal pronoun
@@ -33,9 +35,13 @@ simple visual aid can go a long way toward making an argument understandable.
 But authors are cautioned that a figure is not an argument, just a supplement.
 Write as if there is no figure, but include one anyway.
 
-TEG strives for a classical feel, so authors are discouraged from using
+_Transactions in Euclidean Geometry_ strives for a classical feel, so authors
+are discouraged from using
 mathematical symbols when words will do. English prose is easier to read than
 long strings of strange glyphs.
 
 > For example: The sentence "Triangle ABC is congruent to triangle XYZ." is
 > preferable to the sentence "\\(\triangle ABC \cong \triangle XYZ \\)."
+
+- Authors are **strongly** discouraged from using mathematical symbols to start
+sentences. This makes a paper jarring to read, and can lead to confusion.

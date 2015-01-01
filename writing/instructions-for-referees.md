@@ -3,6 +3,9 @@ title: Instructions for Referees
 layout: default
 ---
 
+**Important: Referees should save a copy of the original submission of a paper they
+review. It will be necessary to include this in your portfolio assignment.**
+
 ### A note about the proper tone: ###
 
 The peer review process is important for improving the quality of written

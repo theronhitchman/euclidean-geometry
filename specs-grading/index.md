@@ -8,8 +8,8 @@ This is a bit of an experiment, but I hope that it leads to a better way
 to provide you with useful feedback about your progress, and to clearer
 communication about my expectations of your work and how I will set grades.
 
-To get a sense of the main idea, start with this document I wrote when I started
-thinking about "standards based grading." It does a reasonable job of explaining
+To get a sense of the main idea, start with this document I used when I experimented
+with "standards based grading." It does a reasonable job of explaining
 what my goals are:
 
 [Euclidean Geometry Standards for Assessment Fall 2014][standards]
@@ -37,7 +37,6 @@ I will use the following things to assess your work this term:
 - Published papers derived from your work and class presentations.
 - Reports you write while serving the class journal as a referee.
 - Reflective self-assessments you write at conference times.
-- Essays you write for this class.
 
 At the end of the semester, you will collect all of these things into a portfolio.
 I will use the contents of your portfolio to set your semester grade.
@@ -46,17 +45,25 @@ Each individual item you produce is graded on a pass/fail basis. I will make
 available detailed and clear <strong>specifications</strong> for what constitutes
 acceptable work.
 
+### The Portfolio Assignment
+
+The grading specifications for the portfolio assignment are discussed
+[here][{{site.baseurl}}/specs-grading/portfolio.html].
+
 ### Published Papers
 
 The normal mode of work for this class leads to publication of your work in the
-class journal. Specifications for this work is detailed in the "Style Guide" for
-the journal.
+class journal. Specifications for this work are as follows:
+
+- The mathematics presented must be complete, correct, and clearly presented.
+- The article should follow conventions for mathematical writing as detailed in
+the [Style Guide for the journal][{{site.baseurl}}/writing/style-guide.html].
 
 ### Referee Work
 
 As part of the journal process, you will serve as a referee for the work of other
-students. The specifications for referee reports are listed in the "Instructions for
-Referees" document.
+students. The specifications for referee reports are listed in the
+[Instructions for Referees document][{{site.baseurl}}/writing/instructions-for-referees.html].
 
 ### Reflections & Conferences
 
@@ -81,6 +88,7 @@ when they become relevant.
 Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
 
+<!-- This is put on hold for now. I want to change just one thing "Add the portfolio & specs"
 ### Essays
 
 There are three essay assignments. The specifications for these are listed with
@@ -89,7 +97,7 @@ the writing prompts.
 - [Essay #1: topic A][essay1]
 - [Essay #2: topic B][essay2]
 - [Essay #3: topic C][essay3]
-
+-->
 
 ### Grading Table
 
@@ -101,7 +109,9 @@ The method for turning a final portfolio into a final grade is summarized in the
 [prompt1]: {{site.baseurl}}/specs-grading/prompt1.html
 [prompt2]: {{site.baseurl}}/specs-grading/prompt2.html
 [prompt3]: {{site.baseurl}}/specs-grading/prompt3.html
+<!--
 [essay1]: {{site.baseurl}}/specs-grading/essay1.html
 [essay2]: {{site.baseurl}}/specs-grading/essay2.html
 [essay3]: {{site.baseurl}}/specs-grading/essay3.html
+-->
 [grades]: {{site.baseurl}}/specs-grading/grades.html
