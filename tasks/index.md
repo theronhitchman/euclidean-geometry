@@ -92,7 +92,7 @@ layout: default
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
   <a class="btn btn-default btn-lg btn-block" href="#">
-  <span class="glyphicon glyphicon-new-window"></span> Supp:<br class="visible-xs" /> Trigonometry!</a>
+  <span class="glyphicon glyphicon-new-window"></span> Supp:<br class="visible-xs" /> Trig!</a>
 </div>
 </div>
 
