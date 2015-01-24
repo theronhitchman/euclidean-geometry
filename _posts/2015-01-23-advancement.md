@@ -8,7 +8,7 @@ the highlights:
 
 Miss King presented on 1.7.
 
-> ** Theorem:** (King-Van Nevele) Let ABCD be a rhombus and suppose that the diagonals
+> **Theorem:** (King-Van Nevele) Let ABCD be a rhombus and suppose that the diagonals
 > AC and BD meet at a point X. Then angle ABX is a right angle.
 
 Mr Baker presented on 1.4.
