@@ -2,27 +2,38 @@
 
 <!-- Begin page content -->
 <div class="container">
-  <ul class="pager">
-    {% if page.previous.url %}
-      <li class="previous"><a href="{{page.previous.url | prepend: site.baseurl}}"
-        title="Previous: {{page.previous.title}}">
-    {% else %}
-      <li class="previous disabled"><a href="#">
-    {% endif %}
-    &larr; Previous</a></li>
-    <li><a href="{{site.baseurl}}/blog">All</a></li>
-    {% if page.next.url %}
-      <li class="next"><a href="{{page.next.url | prepend: site.baseurl}}"
-        title="Next: {{page.next.title}}">
-    {% else %}
-      <li class="next disabled"><a href="#">
-    {% endif %}
-    Next &rarr;</a></li>
-  </ul>
-  <div class="page-header">
-    <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-lg-9">
+      <ul class="pager">
+        {% if page.previous.url %}
+          <li class="previous"><a href="{{page.previous.url | prepend: site.baseurl}}"
+            title="Previous: {{page.previous.title}}">
+        {% else %}
+          <li class="previous disabled"><a href="#">
+        {% endif %}
+        &larr; Previous</a></li>
+        <li><a href="{{site.baseurl}}/blog">All</a></li>
+        {% if page.next.url %}
+          <li class="next"><a href="{{page.next.url | prepend: site.baseurl}}"
+            title="Next: {{page.next.title}}">
+        {% else %}
+          <li class="next disabled"><a href="#">
+        {% endif %}
+        Next &rarr;</a></li>
+      </ul>
+      <div class="page-header">
+        <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
+      </div>
+      {{ content }}
+      <div class="visible-xs visible-sm">
+        <p><br />
+        </p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-4 col-lg-3">
+      {% include sidebar.html %}
+    </div>
   </div>
-  {{ content }}
 </div>
 
 {% include footer.html %}
