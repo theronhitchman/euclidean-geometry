@@ -2,6 +2,9 @@
 
 <!-- Begin page content -->
 <div class="container">
+  <div class="page-header">
+    <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
+  </div>
   <div class="row">
     <div class="col-xs-12 col-md-8 col-lg-9">
       <ul class="pager">
@@ -21,9 +24,7 @@
         {% endif %}
         Next &rarr;</a></li>
       </ul>
-      <div class="page-header">
-        <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
-      </div>
+
       {{ content }}
       <div class="visible-xs visible-sm">
         <p><br />
