@@ -18,3 +18,8 @@ ordered by date.
 
 > **Question C:** (Maggert) Is it true that statments 1 and 2 are equivalent? That is,
 > we have a proof that 2 implies 1. Is it possible to use statement 1 to prove statement 2?
+
+#### January 26
+
+> **Conjecture D:** (Rehnstrom) If ABCD is a kite but not a rhombus, then ABCD is
+> not a parallelogram.
