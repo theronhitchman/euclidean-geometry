@@ -23,3 +23,17 @@ ordered by date.
 
 > **Conjecture D:** (Rehnstrom) If ABCD is a kite but not a rhombus, then ABCD is
 > not a parallelogram.
+
+#### January 28
+
+> **Conjecture E:** Given a segment AB, Mr Baker's construction produces
+> exactly one rhombus, up to congruence.
+
+> **Question F:** Is it possible to use Brandenburg's construction and specify
+> an arbitrary angle of the rhombus? (Is any angle possible?)
+
+> **Question G:** Do any pairs of choices of point C in Brandenburg's
+> construction lead to congruent rhombi?
+
+> **Conjecture H:** Let ABC be an isosceles triangle. Let X be the foot of the
+> perpendicular line from A to BC. Then X is the midpoint of BC.
