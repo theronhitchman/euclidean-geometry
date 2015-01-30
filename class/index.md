@@ -37,3 +37,8 @@ ordered by date.
 
 > **Conjecture H:** Let ABC be an isosceles triangle. Let X be the foot of the
 > perpendicular line from A to BC. Then X is the midpoint of BC.
+
+#### January 30
+
+> **Question I:** How flexible or rigid is Mr Stuhr's construction? Find some
+> theorems and prove them.
