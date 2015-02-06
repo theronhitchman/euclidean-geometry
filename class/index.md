@@ -42,3 +42,9 @@ ordered by date.
 
 > **Question I:** How flexible or rigid is Mr Stuhr's construction? Find some
 > theorems and prove them.
+
+#### February 6
+
+> **Question J:** Revisit Theorem 2.2 with Rehnstrom's kite in view, and see
+> what is different about the argument from rhombus to kite. Can we make a
+> counterexample to 2.2? Where is the subtlety here?
