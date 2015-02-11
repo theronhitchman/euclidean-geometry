@@ -48,3 +48,9 @@ ordered by date.
 > **Question J:** Revisit Theorem 2.2 with Rehnstrom's kite in view, and see
 > what is different about the argument from rhombus to kite. Can we make a
 > counterexample to 2.2? Where is the subtlety here?
+
+#### February 11
+
+> **Conjecture K:** (Rosie Brandenburg) These are the only ways to get
+>congruent rhombi out of the construction.
+
