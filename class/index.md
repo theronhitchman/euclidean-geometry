@@ -54,3 +54,15 @@ ordered by date.
 > **Conjecture K:** (Rosie Brandenburg) These are the only ways to get
 >congruent rhombi out of the construction.
 
+#### February 20
+
+> **Question L:** Find a good definition of "interior angle."
+
+> **Question M:** Find a good definition of "convex pentagon."
+
+> **Question N:** Find a good definition of "point X lies inside polygon P."
+
+
+#### February 23
+
+> **Question O:** Are the two definitions of a point lying outside a polygon equivalent?
