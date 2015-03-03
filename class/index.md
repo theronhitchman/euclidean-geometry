@@ -80,6 +80,6 @@ Miss Jacob's Refinements of Question J:
 #### March 2
 
 > **Challenge P**: Find, state carefully, and prove conjectures about these new terms
->     * same/opposite side of a line
->     * convex
-> focus on things that seems obvious or important.
+> (1) same/opposite side of a line; and
+> (2) convex.
+> Focus on things that seems obvious or important.
