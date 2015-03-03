@@ -66,3 +66,20 @@ ordered by date.
 #### February 23
 
 > **Question O:** Are the two definitions of a point lying outside a polygon equivalent?
+
+#### February 27
+
+Miss Jacob's Refinements of Question J:
+
+> **Claim J1**: It is possible to construct a non-convex kite.
+
+> **Claim J2**: If a kite is not convex, then its diagonals do not cross.
+
+> **Claim J3**: If a kite is convex, then its diagonals cross.
+
+#### March 2
+
+> **Challenge P**: Find, state carefully, and prove conjectures about these new terms
+>     * same/opposite side of a line
+>     * convex
+> focus on things that seems obvious or important.
