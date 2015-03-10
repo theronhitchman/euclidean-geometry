@@ -10,6 +10,7 @@ before our meeting starts.
 
 
 Consider the list of standards for learning that I announced for this course.
+(They are available here: [Euclidean Geometry Standards for Assessment Fall 2014][standards])
 For each category, reflect upon your progress.
 
 - What are you doing well?
@@ -31,3 +32,6 @@ To qualify as a passing, your document must:
 - Focus on critical self-assessment, rather than attempt to convince the reader of
 your awesomeness.
 - Be submitted before or during your interview appointment with Prof. Hitchman
+
+
+[standards]: {{site.baseurl}}/specs-grading/the-standards.html
