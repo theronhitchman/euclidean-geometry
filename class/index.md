@@ -83,3 +83,9 @@ Miss Jacob's Refinements of Question J:
 > (1) same/opposite side of a line; and
 > (2) convex.
 > Focus on things that seems obvious or important.
+
+#### March 23
+
+> **Conjecture Q:** (Baker) Let L be a line and let X and Y be points lying on the same
+> side of L. If Z is a point on the segment XY, then X and Z lie on the same side
+> of line L.
