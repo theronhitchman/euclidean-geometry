@@ -89,3 +89,8 @@ Miss Jacob's Refinements of Question J:
 > **Conjecture Q:** (Baker) Let L be a line and let X and Y be points lying on the same
 > side of L. If Z is a point on the segment XY, then X and Z lie on the same side
 > of line L.
+
+#### March 25
+
+> **Question R:** How do you know that any pair of angle bisectors of a
+> triangle must actually meet?
