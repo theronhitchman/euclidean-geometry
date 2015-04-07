@@ -43,11 +43,11 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 7:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 8:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warnig btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 9:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -55,11 +55,11 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 10:<br class="visible-xs" /> circles II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main11.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 11:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 12:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
