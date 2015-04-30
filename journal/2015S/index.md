@@ -1,0 +1,104 @@
+---
+layout: default
+title: Spring 2015 Paper Repository
+---
+
+## These are the finished papers from Spring 2015
+
+| Sequence Item | Links                                                   | Authors                                      |
+|---------------|---------------------------------------------------------|----------------------------------------------|
+| 1.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+|               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | Hegewald, Manternach, Stuhr  |
+| 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
+| 2.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
+| 2.3           | <a href="{{site.baseurl}}/journal/2015S/stuhr-kite.pdf">paper</a> |        Stuhr                       |
+| 2.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 2.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.1           | <a href="{{site.baseurl}}/journal/2015S/rectangles-parallelograms.pdf">paper</a> |     Gebel           |
+| 3.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.3           | <a href="{{site.baseurl}}/journal/2015S/diagonals-rectangle.pdf">paper</a> |  Freking                  |
+| 3.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.5           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-3-5.pdf">paper</a> |    Jacobs                          |
+| 3.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
+| 5.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 6.1           | <a href="{{site.baseurl}}/journal/2015S/equliateral-triangles.pdf">paper</a> |    Hegewald             |
+| 6.2           | <a href="{{site.baseurl}}/journal/2015S/regular-rhombus.pdf">paper</a> |    Freking                    |
+| 6.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 6.4           | <a href="{{site.baseurl}}/journal/2015S/equliateral-ptagons.pdf">paper</a> |  Hegewald                 |
+| 6.5           | <a href="{{site.baseurl}}/journal/2015S/stuhr-6-5.pdf">paper</a> |        Stuhr                        |
+| 6.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 6.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 7.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 7.2           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles.pdf">paper</a> | Freking                   |
+| 7.3           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles-1.pdf">paper</a> | Freking                 |
+| 7.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 7.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.1           | <a href="{{site.baseurl}}/journal/2015S/stuhr-9-1.pdf">paper</a> |    Stuhr                            |
+| 9.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-perpendicular-line-2.pdf">paper</a> |   Gebel, Jacobs     |
+| 11.4          | <a href="{{site.baseurl}}/journal/2015S/Stuhr-11-4.pdf">paper</a> |         Stuhr                      |
+| 11.5          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-5.pdf">paper</a> |  Gebel, Jacobs                    |
+| 11.6          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-6.pdf">paper</a> |  Gebel, Jacobs                    |
+| 11.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.8          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 12.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.8          | <a href="{{site.baseurl}}/journal/2015S/equal-content-construction.pdf">paper</a> |  Freking           |
+| A             | <a href="{{site.baseurl}}/journal/2015S/adjacent-angles-rhombus.pdf">paper</a> |   Freking             |
+| B             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| C             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| D             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| E             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| F             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| G             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| H             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| I             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| J             | <a href="{{site.baseurl}}/journal/2015S/Jacobs-J.pdf">paper</a> |    Jacobs                            |
+| K             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| L             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| M             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| N             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| O             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| P             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| Q             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| R             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
