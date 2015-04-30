@@ -5,7 +5,7 @@ title: Spring 2015 Paper Repository
 
 ## These are the finished papers from Spring 2015
 
-| Sequence Item | Links                                                   | Authors                                      |
+|: Sequence Item | :Links                                                :| Authors                                     :|
 |---------------|---------------------------------------------------------|----------------------------------------------|
 | 1.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 |               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | Hegewald, Manternach, Stuhr  |
