@@ -19,13 +19,13 @@ title: Spring 2015 Paper Repository
 | 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
 | 2.3           | <a href="{{site.baseurl}}/journal/2015S/stuhr-kite.pdf">paper</a> |        Stuhr                       |
 | 2.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 2.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 2.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-2-5.pdf">paper</a> |  Schulte                         |
 | 3.1           | <a href="{{site.baseurl}}/journal/2015S/rectangles-parallelograms.pdf">paper</a> |     Gebel           |
 | 3.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 3.3           | <a href="{{site.baseurl}}/journal/2015S/diagonals-rectangle.pdf">paper</a> |  Freking                  |
 | 3.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 3.5           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-3-5.pdf">paper</a> |    Jacobs                          |
-| 3.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-3-6.pdf">paper</a> |  Schulte                         |
 | 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -38,7 +38,7 @@ title: Spring 2015 Paper Repository
 | 6.3           | <a href="{{site.baseurl}}/journal/2015S/irregular-rhombus.pdf">paper</a> |       Brandenburg           |
 | 6.4           | <a href="{{site.baseurl}}/journal/2015S/equliateral-ptagons.pdf">paper</a> |  Hegewald                 |
 | 6.5           | <a href="{{site.baseurl}}/journal/2015S/stuhr-6-5.pdf">paper</a> |        Stuhr                        |
-| 6.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 6.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-6-6.pdf">paper</a> |  Schulte                         |
 | 6.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 7.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 7.2           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles.pdf">paper</a> | Freking                   |
@@ -53,9 +53,9 @@ title: Spring 2015 Paper Repository
 | 9.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 9.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 9.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 9.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 10.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 10.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-9-5.pdf">paper</a> |  Schulte                         |
+| 10.1          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-1.pdf">paper</a> | Schulte                         |
+| 10.2          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-2.pdf">paper</a> | Schulte                         |
 | 10.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
