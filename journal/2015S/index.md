@@ -53,7 +53,7 @@ title: Spring 2015 Paper Repository
 | 9.1           | <a href="{{site.baseurl}}/journal/2015S/stuhr-9-1.pdf">paper</a> |    Stuhr                            |
 | 9.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 9.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 9.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.4           | <a href="{{site.baseurl}}/journal/2015S/cyclic-quadrilaterals.pdf">paper</a> |  Brandenburg            |
 | 9.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-9-5.pdf">paper</a> |  Schulte                         |
 | 10.1          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-1.pdf">paper</a> | Schulte                         |
 | 10.2          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-2.pdf">paper</a> | Schulte                         |
@@ -66,7 +66,7 @@ title: Spring 2015 Paper Repository
 | 11.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-perpendicular-line-2.pdf">paper</a> |   Gebel, Jacobs     |
 | 11.4          | <a href="{{site.baseurl}}/journal/2015S/stuhr-11-4.pdf">paper</a> |         Stuhr                      |
-| 11.5          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-5.pdf">paper</a> |  Gebel, Jacobs                    |
+| 11.5          | <a href="{{site.baseurl}}/journal/2015S/constructing-congruent-angle.pdf">paper</a> |  Brandenburg                    |
 | 11.6          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-6.pdf">paper</a> |  Gebel, Jacobs                    |
 | 11.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.8          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
