@@ -33,10 +33,10 @@ title: Spring 2015 Paper Repository
 | 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
 | 5.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 6.1           | <a href="{{site.baseurl}}/journal/2015S/equliateral-triangles.pdf">paper</a> |    Hegewald             |
+| 6.1           | <a href="{{site.baseurl}}/journal/2015S/equilateral-triangles.pdf">paper</a> |    Hegewald             |
 | 6.2           | <a href="{{site.baseurl}}/journal/2015S/regular-rhombus.pdf">paper</a> |    Freking                    |
 | 6.3           | <a href="{{site.baseurl}}/journal/2015S/irregular-rhombus.pdf">paper</a> |       Brandenburg           |
-| 6.4           | <a href="{{site.baseurl}}/journal/2015S/equliateral-ptagons.pdf">paper</a> |  Hegewald                 |
+| 6.4           | <a href="{{site.baseurl}}/journal/2015S/equilateral-ptagons.pdf">paper</a> |  Hegewald                 |
 | 6.5           | <a href="{{site.baseurl}}/journal/2015S/stuhr-6-5.pdf">paper</a> |        Stuhr                        |
 | 6.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-6-6.pdf">paper</a> |  Schulte                         |
 | 6.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -64,7 +64,7 @@ title: Spring 2015 Paper Repository
 | 11.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-perpendicular-line-2.pdf">paper</a> |   Gebel, Jacobs     |
-| 11.4          | <a href="{{site.baseurl}}/journal/2015S/Stuhr-11-4.pdf">paper</a> |         Stuhr                      |
+| 11.4          | <a href="{{site.baseurl}}/journal/2015S/stuhr-11-4.pdf">paper</a> |         Stuhr                      |
 | 11.5          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-5.pdf">paper</a> |  Gebel, Jacobs                    |
 | 11.6          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-6.pdf">paper</a> |  Gebel, Jacobs                    |
 | 11.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
