@@ -19,7 +19,7 @@ title: Spring 2015 Paper Repository
 | 2.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
 | 2.3           | <a href="{{site.baseurl}}/journal/2015S/stuhr-kite.pdf">paper</a> |        Stuhr                       |
-| 2.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 2.4           | <a href="{{site.baseurl}}/journal/2015S/Manternach-2-4.pdf">paper</a> |  Manternach                    |
 | 2.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-2-5.pdf">paper</a> |  Schulte                         |
 | 3.1           | <a href="{{site.baseurl}}/journal/2015S/rectangles-parallelograms.pdf">paper</a> |     Gebel           |
 | 3.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -41,7 +41,7 @@ title: Spring 2015 Paper Repository
 | 6.5           | <a href="{{site.baseurl}}/journal/2015S/stuhr-6-5.pdf">paper</a> |        Stuhr                        |
 | 6.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-6-6.pdf">paper</a> |  Schulte                         |
 | 6.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 7.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 7.1           | <a href="{{site.baseurl}}/journal/2015S/Manternach-7-7.pdf">paper</a> |  Manternach                    |
 | 7.2           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles.pdf">paper</a> | Freking                   |
 | 7.3           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles-1.pdf">paper</a> | Freking                 |
 | 7.4           | <a href="{{site.baseurl}}/journal/2015S/Baker-7-4.pdf">paper</a> |   Baker                             |
@@ -77,7 +77,7 @@ title: Spring 2015 Paper Repository
 | 12.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 12.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 12.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 13.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 13.1          | <a href="{{site.baseurl}}/journal/2015S/Manternach-13-1.pdf">paper</a> |   Manternach                  |
 | 13.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 13.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 13.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -102,4 +102,4 @@ title: Spring 2015 Paper Repository
 | O             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | P             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | Q             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| R             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| R             | <a href="{{site.baseurl}}/journal/2015S/Manternach-Conjecture-R.pdf">paper</a> |     Manternach        |
