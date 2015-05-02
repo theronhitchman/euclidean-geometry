@@ -12,6 +12,7 @@ title: Spring 2015 Paper Repository
 | 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.4           | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
+|               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker
 | 1.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
@@ -23,13 +24,13 @@ title: Spring 2015 Paper Repository
 | 3.1           | <a href="{{site.baseurl}}/journal/2015S/rectangles-parallelograms.pdf">paper</a> |     Gebel           |
 | 3.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 3.3           | <a href="{{site.baseurl}}/journal/2015S/diagonals-rectangle.pdf">paper</a> |  Freking                  |
-| 3.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.4           | <a href="{{site.baseurl}}/journal/2015S/Baker-3-4.pdf">paper</a> |       Baker                         |
 | 3.5           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-3-5.pdf">paper</a> |    Jacobs                          |
 | 3.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-3-6.pdf">paper</a> |  Schulte                         |
 | 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 4.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                                         |
 | 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
 | 5.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -43,8 +44,8 @@ title: Spring 2015 Paper Repository
 | 7.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 7.2           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles.pdf">paper</a> | Freking                   |
 | 7.3           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles-1.pdf">paper</a> | Freking                 |
-| 7.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 7.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 7.4           | <a href="{{site.baseurl}}/journal/2015S/Baker-7-4.pdf">paper</a> |   Baker                             |
+| 7.5           | <a href="{{site.baseurl}}/journal/2015S/Baker-7-5.pdf">paper</a> |   Baker                             |
 | 8.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 8.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 8.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -58,7 +59,7 @@ title: Spring 2015 Paper Repository
 | 10.2          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-2.pdf">paper</a> | Schulte                         |
 | 10.3          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 10.5          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.5          | <a href="{{site.baseurl}}/journal/2015S/Baker-10-5.pdf">paper</a> |  Baker                             |
 | 10.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -89,7 +90,7 @@ title: Spring 2015 Paper Repository
 | C             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | D             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | E             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| F             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| F             | <a href="{{site.baseurl}}/journal/2015S/Baker-F.pdf">paper</a> |  Baker                                |
 | G             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | H             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | I             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
