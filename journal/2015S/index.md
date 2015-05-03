@@ -7,13 +7,14 @@ title: Spring 2015 Paper Repository
 
 | Sequence Item | Links                                                  | Authors                                      |
 |:--------------|:-------------------------------------------------------:|---------------------------------------------:|
-| 1.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.1           | <a href="{{site.baseurl}}/journal/2015S/opposite-angles-theorem.pdf">paper</a> |    Bulic, Maggert     |
 |               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | Hegewald, Manternach, Stuhr  |
 | 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.4           | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
 |               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker                               |
 | 1.5           | <a href="{{site.baseurl}}/journal/2015S/flexibility-rigidness-construction.pdf">paper</a> | Gebel      |
+|               | <a href="{{site.baseurl}}/journal/2015S/congruent-rhombi-theorem.pdf">paper</a>  | Maggert             |
 | 1.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
 | 2.1           | <a href="{{site.baseurl}}/journal/2015S/kite-angle-congruence.pdf">paper</a> |  Hegewald               |
@@ -30,7 +31,7 @@ title: Spring 2015 Paper Repository
 | 3.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-3-6.pdf">paper</a> |  Schulte                         |
 | 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 4.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.2           | <a href="{{site.baseurl}}/journal/2015S/completion-euclid-i.pdf">paper</a> |  Maggert                  |
 | 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                           |
 | 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
@@ -49,7 +50,7 @@ title: Spring 2015 Paper Repository
 | 7.5           | <a href="{{site.baseurl}}/journal/2015S/Baker-7-5.pdf">paper</a> |   Baker                             |
 | 8.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 8.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 8.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.3           | <a href="{{site.baseurl}}/journal/2015S/perpendicular-bisector-intersection.pdf">paper</a> | Maggert   |
 | 8.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 9.1           | <a href="{{site.baseurl}}/journal/2015S/stuhr-9-1.pdf">paper</a> |    Stuhr                            |
 | 9.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -69,7 +70,8 @@ title: Spring 2015 Paper Repository
 | 11.4          | <a href="{{site.baseurl}}/journal/2015S/stuhr-11-4.pdf">paper</a> |         Stuhr                      |
 | 11.5          | <a href="{{site.baseurl}}/journal/2015S/constructing-congruent-angle.pdf">paper</a> |  Brandenburg                    |
 | 11.6          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-6.pdf">paper</a> |  Gebel, Jacobs                    |
-| 11.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+|               | <a href="{{site.baseurl}}/journal/2015S/construction-perpendicular-line.pdf">paper</a> |  Maggert      |
+| 11.7          | <a href="{{site.baseurl}}/journal/2015S/locating-center-circle.pdf">paper</a> |    Maggert             |
 | 11.8          | <a href="{{site.baseurl}}/journal/2015S/constructing-tangent-line.pdf">paper</a> |  Henry              |
 | 12.1          | <a href="{{site.baseurl}}/journal/2015S/incircle-construction.pdf">paper</a> |       Brandenburg       |
 | 12.2          | <a href="{{site.baseurl}}/journal/2015S/constructing-circumcircle.pdf">paper</a> |  Brandenburg        |
@@ -91,7 +93,8 @@ title: Spring 2015 Paper Repository
 | C             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | D             | <a href="{{site.baseurl}}/journal/2015S/kite-rhombus-parallelogram.pdf">paper</a> | Jacobs             |
 | E             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| F             | <a href="{{site.baseurl}}/journal/2015S/Baker-F.pdf">paper</a> |  Baker                                |
+| F             | <a href="{{site.baseurl}}/journal/2015S/arbitrary-rhombus-construction.pdf">paper</a> | Maggert        |
+|               | <a href="{{site.baseurl}}/journal/2015S/Baker-F.pdf">paper</a> |  Baker                                |
 | G             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | H             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | I             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
