@@ -15,7 +15,7 @@ title: Spring 2015 Paper Repository
 |               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker                               |
 | 1.5           | <a href="{{site.baseurl}}/journal/2015S/flexibility-rigidness-construction.pdf">paper</a> | Gebel      |
 |               | <a href="{{site.baseurl}}/journal/2015S/congruent-rhombi-theorem.pdf">paper</a>  | Maggert             |
-| 1.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.6           | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-1-6.pdf">paper</a> |  Rehnstrom                      |
 | 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
 | 2.1           | <a href="{{site.baseurl}}/journal/2015S/kite-angle-congruence.pdf">paper</a> |  Hegewald               |
 | 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
@@ -30,11 +30,12 @@ title: Spring 2015 Paper Repository
 | 3.5           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-3-5.pdf">paper</a> |    Jacobs                          |
 | 3.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-3-6.pdf">paper</a> |  Schulte                         |
 | 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 4.1           | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-4-1.pdf">paper</a> |           Rehnstrom             |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/completion-euclid-i.pdf">paper</a> |  Maggert                  |
 | 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                           |
 | 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
+|               | <a href="{{site.baseurl}}/journal/2015S/VanNevele-Rehnstrom.pdf">paper</a>  |  Rehnstrom, Van Nevele   |
 | 5.3           | <a href="{{site.baseurl}}/journal/2015S/convex-polygon-angles.pdf">paper</a> |   Hegewald              |
 | 6.1           | <a href="{{site.baseurl}}/journal/2015S/equilateral-triangles.pdf">paper</a> |    Hegewald             |
 | 6.2           | <a href="{{site.baseurl}}/journal/2015S/regular-rhombus.pdf">paper</a> |    Freking                    |
@@ -63,8 +64,8 @@ title: Spring 2015 Paper Repository
 | 10.4          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.5          | <a href="{{site.baseurl}}/journal/2015S/Baker-10-5.pdf">paper</a> |  Baker                             |
 | 10.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 10.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 11.1          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 10.7          | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-10-7.pdf">paper</a> |  Rehnstrom                      |
+| 11.1          | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-11-1.pdf">paper</a> | Rehnstrom               |
 | 11.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 11.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-perpendicular-line-2.pdf">paper</a> |   Gebel, Jacobs     |
 | 11.4          | <a href="{{site.baseurl}}/journal/2015S/stuhr-11-4.pdf">paper</a> |         Stuhr                      |
@@ -95,9 +96,9 @@ title: Spring 2015 Paper Repository
 | E             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | F             | <a href="{{site.baseurl}}/journal/2015S/arbitrary-rhombus-construction.pdf">paper</a> | Maggert        |
 |               | <a href="{{site.baseurl}}/journal/2015S/Baker-F.pdf">paper</a> |  Baker                                |
-| G             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| G             | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-G.pdf">paper</a> |   Rehnstrom                         |
 | H             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| I             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| I             | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-I.pdf">paper</a> |  Rehnstrom                       |
 | J             | <a href="{{site.baseurl}}/journal/2015S/Jacobs-J.pdf">paper</a> |    Jacobs                            |
 | K             | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
 | L             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
