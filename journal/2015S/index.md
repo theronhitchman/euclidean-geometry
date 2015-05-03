@@ -12,11 +12,11 @@ title: Spring 2015 Paper Repository
 | 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.4           | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
-|               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker
-| 1.5           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+|               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker                               |
+| 1.5           | <a href="{{site.baseurl}}/journal/2015S/flexibility-rigidness-construction.pdf">paper</a> | Gebel      |
 | 1.6           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
-| 2.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 2.1           | <a href="{{site.baseurl}}/journal/2015S/kite-angle-congruence.pdf">paper</a> |  Hegewald               |
 | 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
 | 2.3           | <a href="{{site.baseurl}}/journal/2015S/stuhr-kite.pdf">paper</a> |        Stuhr                       |
 | 2.4           | <a href="{{site.baseurl}}/journal/2015S/Manternach-2-4.pdf">paper</a> |  Manternach                    |
@@ -30,10 +30,10 @@ title: Spring 2015 Paper Repository
 | 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                                         |
+| 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                           |
 | 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
-| 5.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 5.3           | <a href="{{site.baseurl}}/journal/2015S/convex-polygon-angles.pdf">paper</a> |   Hegewald              |
 | 6.1           | <a href="{{site.baseurl}}/journal/2015S/equilateral-triangles.pdf">paper</a> |    Hegewald             |
 | 6.2           | <a href="{{site.baseurl}}/journal/2015S/regular-rhombus.pdf">paper</a> |    Freking                    |
 | 6.3           | <a href="{{site.baseurl}}/journal/2015S/irregular-rhombus.pdf">paper</a> |       Brandenburg           |
@@ -88,7 +88,7 @@ title: Spring 2015 Paper Repository
 | A             | <a href="{{site.baseurl}}/journal/2015S/adjacent-angles-rhombus.pdf">paper</a> |   Freking             |
 | B             | <a href="{{site.baseurl}}/journal/2015S/interior-angles-rhombus.pdf">paper</a> |        Brandenburg    |
 | C             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| D             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| D             | <a href="{{site.baseurl}}/journal/2015S/kite-rhombus-parallelogram.pdf">paper</a> | Jacobs             |
 | E             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | F             | <a href="{{site.baseurl}}/journal/2015S/Baker-F.pdf">paper</a> |  Baker                                |
 | G             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
@@ -97,7 +97,7 @@ title: Spring 2015 Paper Repository
 | J             | <a href="{{site.baseurl}}/journal/2015S/Jacobs-J.pdf">paper</a> |    Jacobs                            |
 | K             | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
 | L             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| M             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| M             | <a href="{{site.baseurl}}/journal/2015S/definition-convex-pentagon.pdf">paper</a> |  Jacobs            |
 | N             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | O             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | P             | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
