@@ -8,7 +8,7 @@ title: Spring 2015 Paper Repository
 | Sequence Item | Links                                                  | Authors                                      |
 |:--------------|:-------------------------------------------------------:|---------------------------------------------:|
 | 1.1           | <a href="{{site.baseurl}}/journal/2015S/opposite-angles-theorem.pdf">paper</a> |    Bulic, Maggert     |
-|               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | Hegewald, Manternach, Stuhr  |
+|               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | &nbsp; Hegewald, Manternach, Stuhr  |
 | 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.4           | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
