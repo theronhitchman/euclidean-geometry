@@ -30,7 +30,7 @@ title: Spring 2015 Paper Repository
 | 3.4           | <a href="{{site.baseurl}}/journal/2015S/Baker-3-4.pdf">paper</a> |       Baker                         |
 | 3.5           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-3-5.pdf">paper</a> |    Jacobs                          |
 | 3.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-3-6.pdf">paper</a> |  Schulte                         |
-| 3.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 3.7           | <a href="{{site.baseurl}}/journal/2015S/Bulic-3-7.pdf">paper</a> |  Bulic                                            |
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-4-1.pdf">paper</a> |           Rehnstrom             |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/completion-euclid-i.pdf">paper</a> |  Maggert                  |
 | 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                           |
@@ -53,10 +53,10 @@ title: Spring 2015 Paper Repository
 | 8.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 8.2           | <a href="{{site.baseurl}}/journal/2015S/8-2.pdf">paper</a> |  Van Nevele                               |
 | 8.3           | <a href="{{site.baseurl}}/journal/2015S/perpendicular-bisector-intersection.pdf">paper</a> | Maggert   |
-| 8.4           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 8.4           | <a href="{{site.baseurl}}/journal/2015S/Bulic-8-4.pdf">paper</a> |       Bulic                                       |
 | 9.1           | <a href="{{site.baseurl}}/journal/2015S/stuhr-9-1.pdf">paper</a> |    Stuhr                            |
 | 9.2           | <a href="{{site.baseurl}}/journal/2015S/9-2.pdf">paper</a> |   Van Nevele                              |
-| 9.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 9.3           | <a href="{{site.baseurl}}/journal/2015S/Bulic-9-3.pdf">paper</a> | Bulic                                             |
 | 9.4           | <a href="{{site.baseurl}}/journal/2015S/cyclic-quadrilaterals.pdf">paper</a> |  Brandenburg            |
 | 9.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-9-5.pdf">paper</a> |  Schulte                         |
 | 10.1          | <a href="{{site.baseurl}}/journal/2015S/CSchulte-10-1.pdf">paper</a> | Schulte                         |
@@ -67,7 +67,7 @@ title: Spring 2015 Paper Repository
 | 10.6          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 10.7          | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-10-7.pdf">paper</a> |  Rehnstrom                      |
 | 11.1          | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-11-1.pdf">paper</a> | Rehnstrom               |
-| 11.2          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.2          | <a href="{{site.baseurl}}/journal/2015S/Bulic-King-11-2.pdf">paper</a> |  Bulic, King                       |
 | 11.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-perpendicular-line-2.pdf">paper</a> |   Gebel, Jacobs     |
 | 11.4          | <a href="{{site.baseurl}}/journal/2015S/stuhr-11-4.pdf">paper</a> |         Stuhr                      |
 | 11.5          | <a href="{{site.baseurl}}/journal/2015S/constructing-congruent-angle.pdf">paper</a> |  Brandenburg                    |
