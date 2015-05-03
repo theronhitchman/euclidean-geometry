@@ -18,6 +18,7 @@ title: Spring 2015 Paper Repository
 | 1.7           | <a href="{{site.baseurl}}/journal/2015S/hegewald-theorem-rhombus.pdf">paper</a> | Hegewald             |
 | 2.1           | <a href="{{site.baseurl}}/journal/2015S/kite-angle-congruence.pdf">paper</a> |  Hegewald               |
 | 2.2           | <a href="{{site.baseurl}}/journal/2015S/Jacobs-extended-diagonals.pdf">paper</a> | Jacobs              |
+|               | <a href="{{site.baseurl}}/journal/2015S/diagonals-kite-theorem.pdf">paper</a>  | Henry                 |
 | 2.3           | <a href="{{site.baseurl}}/journal/2015S/stuhr-kite.pdf">paper</a> |        Stuhr                       |
 | 2.4           | <a href="{{site.baseurl}}/journal/2015S/Manternach-2-4.pdf">paper</a> |  Manternach                    |
 | 2.5           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-2-5.pdf">paper</a> |  Schulte                         |
@@ -69,7 +70,7 @@ title: Spring 2015 Paper Repository
 | 11.5          | <a href="{{site.baseurl}}/journal/2015S/constructing-congruent-angle.pdf">paper</a> |  Brandenburg                    |
 | 11.6          | <a href="{{site.baseurl}}/journal/2015S/Jacobs-11-6.pdf">paper</a> |  Gebel, Jacobs                    |
 | 11.7          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
-| 11.8          | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 11.8          | <a href="{{site.baseurl}}/journal/2015S/constructing-tangent-line.pdf">paper</a> |  Henry              |
 | 12.1          | <a href="{{site.baseurl}}/journal/2015S/incircle-construction.pdf">paper</a> |       Brandenburg       |
 | 12.2          | <a href="{{site.baseurl}}/journal/2015S/constructing-circumcircle.pdf">paper</a> |  Brandenburg        |
 | 12.3          | <a href="{{site.baseurl}}/journal/2015S/constructing-congruent-line.pdf">paper</a> |   Brandenburg     |
