@@ -5,11 +5,11 @@ title: Spring 2015 Paper Repository
 
 ## These are the finished papers from Spring 2015
 
-| Sequence Item | Links                                                  | Authors                                      |
+| Sequence Item | Links                                                   | Authors                                      |
 |:--------------|:-------------------------------------------------------:|---------------------------------------------:|
 | 1.1           | <a href="{{site.baseurl}}/journal/2015S/opposite-angles-theorem.pdf">paper</a> |    Bulic, Maggert     |
 |               | <a href="{{site.baseurl}}/journal/2015S/hegewald-manternach-stuhr.pdf">paper</a> | &nbsp; Hegewald, Manternach, Stuhr  |
-| 1.2           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 1.2           | <a href="{{site.baseurl}}/journal/2015S/Bulic-1-2.pdf">paper</a> |  Bulic                              |
 | 1.3           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
 | 1.4           | <a href="{{site.baseurl}}/journal/2015S/construction-rhombus.pdf">paper</a> |   Brandenburg            |
 |               | <a href="{{site.baseurl}}/journal/2015S/Baker-1-4.pdf">paper</a> | Baker                               |
@@ -34,7 +34,7 @@ title: Spring 2015 Paper Repository
 | 4.1           | <a href="{{site.baseurl}}/journal/2015S/Rehnstrom-4-1.pdf">paper</a> |           Rehnstrom             |
 | 4.2           | <a href="{{site.baseurl}}/journal/2015S/completion-euclid-i.pdf">paper</a> |  Maggert                  |
 | 4.3           | <a href="{{site.baseurl}}/journal/2015S/Baker-4-3.pdf">paper</a> |     Baker                           |
-| 5.1           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 5.1           | <a href="{{site.baseurl}}/journal/2015S/Barbaresso-5-1.pdf">paper</a> |   Barbaresso                   |
 | 5.2           | <a href="{{site.baseurl}}/journal/2015S/convex-pentagon-angles.pdf">paper</a> |   Hegewald             |
 |               | <a href="{{site.baseurl}}/journal/2015S/VanNevele-Rehnstrom.pdf">paper</a>  |  Rehnstrom, Van Nevele   |
 | 5.3           | <a href="{{site.baseurl}}/journal/2015S/convex-polygon-angles.pdf">paper</a> |   Hegewald              |
@@ -44,7 +44,7 @@ title: Spring 2015 Paper Repository
 | 6.4           | <a href="{{site.baseurl}}/journal/2015S/equilateral-ptagons.pdf">paper</a> |  Hegewald                 |
 | 6.5           | <a href="{{site.baseurl}}/journal/2015S/stuhr-6-5.pdf">paper</a> |        Stuhr                        |
 | 6.6           | <a href="{{site.baseurl}}/journal/2015S/CSchulte-6-6.pdf">paper</a> |  Schulte                         |
-| 6.7           | <a href="{{site.baseurl}}/journal/2015S/.pdf">paper</a> |                                              |
+| 6.7           | <a href="{{site.baseurl}}/journal/2015S/Barbaresso-6-7.pdf">paper</a> |   Barbaresso                   |
 | 7.1           | <a href="{{site.baseurl}}/journal/2015S/Manternach-7-7.pdf">paper</a> |  Manternach                    |
 | 7.2           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles.pdf">paper</a> | Freking                   |
 | 7.3           | <a href="{{site.baseurl}}/journal/2015S/congruent-triangles-1.pdf">paper</a> | Freking                 |
