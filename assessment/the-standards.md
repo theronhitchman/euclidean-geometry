@@ -19,12 +19,13 @@ There are several difficulties with this, which are probably apparent to you:
 3. It has no formal feedback mechanism.
 4. Students do not necessarily identify the same things as important that I do.
 
-I can not see any way around problem (1). Even the traditional “points
-accumulation” process requires this. I choose not to deal with item (2). In
+I can not see any way around problem (1). Even the traditional "points
+accumulation" process requires this. I choose not to deal with item (2). In
 fact, I am deliberately leaving it mixed up so that I can help you all as much
 as possible. But items (3) and (4) are about clear communication of expectations
-and of perceived progress. That I can do something about. I choose this semester
-to use a communication scheme called “Standards Based Assessment.”
+and of perceived progress. That I can do something about. I choose to use a
+communication scheme inspired by things called "Standards Based
+Assessment," and "Specifications Grading."
 
 So, in what follows I will set out some description of those things I deem as
 important for the students in this class to improve upon. This makes clear the
