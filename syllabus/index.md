@@ -4,7 +4,7 @@ layout: default
 ---
 
 *Euclidean Geometry*<br />
-*Math 3600, Spring 2015*
+*Math 3600, Fall 2015*
 
 
 ##Course Description:
@@ -51,15 +51,17 @@ I recommend a “modern compass” that may be fixed at a given radius.
 
 ## Assessment:
 
-I will be using a "specifications grading" scheme for this course. See the
-[relevant handout][specs] for more detailed information. Grades in this course are based
-on the following assessments, with emphasis on the first two items:
+Grades in this course are determined by the instructor's evaluation of student progress
+towards stated course goals. Evidence will be collected throughout the term in a
+variety of assessments, with emphasis on the first two items:
 
-- in-class participation, focusing on finding and presenting arguments, and publishing in the class journal
+- class participation, focusing on finding and presenting arguments, and publishing in the class journal
 - work as a referee for the class journal
 - three reflective self-assessments
-- several short essays
 - a week-long, take-home, final examination
+
+More details and an uncomfortable amount of discussion is available at the course
+web page under [assessment][assessment].
 
 If you feel uncertain about your progress in the course at any time, please contact me.
 
@@ -90,6 +92,6 @@ If you feel uncertain about your progress in the course at any time, please cont
   call (319) 273-6023 for more information or to set up an appointment.  
 
 [GreenLionPress]: http://www.greenlion.com/euclid.html
-[specs]: {{site.baseurl}}/specs-grading/
+[assessment]: {{site.baseurl}}/assessment/
 [ggb]: www.geogebra.org
 [IBL]: http://theronhitchman.github.io/euclidean-geometry/inquiry-based-learning/
