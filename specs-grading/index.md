@@ -12,7 +12,7 @@ To get a sense of the main idea, start with this document I used when I experime
 with "standards based grading." It does a reasonable job of explaining
 what my goals are:
 
-[Euclidean Geometry Standards for Assessment Fall 2014][standards]
+[Euclidean Geometry Standards for Assessment Fall 2015][standards]
 
 Specifications Grading is implemented a bit differently that the Standards Based
 Assessment, but my goals are the same: clearer communication.
@@ -97,13 +97,12 @@ the writing prompts.
 - [Essay #1: topic A][essay1]
 - [Essay #2: topic B][essay2]
 - [Essay #3: topic C][essay3]
--->
 
 ### Grading Table
 
 The method for turning a final portfolio into a final grade is summarized in the
 [grading conversion document][grades].
-
+-->
 
 [standards]: {{site.baseurl}}/specs-grading/the-standards.html
 [prompt1]: {{site.baseurl}}/specs-grading/prompt1.html

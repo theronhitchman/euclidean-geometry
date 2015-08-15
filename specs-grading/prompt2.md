@@ -10,7 +10,7 @@ before our meeting starts.
 
 
 Consider the list of standards for learning that I announced for this course.
-(They are available here: [Euclidean Geometry Standards for Assessment Fall 2014][standards])
+(They are available here: [Euclidean Geometry Standards for Assessment Fall 2015][standards])
 For each category, reflect upon your progress.
 
 - What are you doing well?

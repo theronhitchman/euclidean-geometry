@@ -12,11 +12,18 @@ To be considered for credit, a portfolio must:
 
 - Have a short cover letter (a page or less, typed) which explains what grade
 the student is applying for, and indexes what documents are in the portfolio.
+
 - Be organized into sections, in this order:
-  * Published Papers and ``works submitted'', in chronological order
+
+  * Published Papers and "works submitted", in chronological order
+
   * Papers Refereed: A copy of each original submission and the referee report generated,
   in chronological order
+
   * Reflective Self-Assessments
+
   * Final Examination Tasks
+
 - Contain only items that have been deemed credit worthy.
+
 - Be bound together in a reasonable fashion.
