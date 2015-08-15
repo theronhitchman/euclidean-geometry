@@ -8,7 +8,7 @@ layout: default
 <div class="text-center">
   <a class="btn btn-lg btn-info btn-block" href="{{site.baseurl}}/class/" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span>
-    Spring 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions</a>
+    Fall 2015 Euclidean Geometry<br class="visible-xs" /> Class Conjectures and Questions</a>
 </div>
 
 ### The Official Task Sequence
@@ -35,7 +35,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 5:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 6:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -51,7 +51,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 9:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main10.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main10.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 10:<br class="visible-xs" /> circles II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -59,7 +59,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 11:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 12:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
