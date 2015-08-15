@@ -19,51 +19,51 @@ layout: default
     <span class="glyphicon glyphicon-new-window"></span> 1:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
+  <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> 2:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
+  <a class="btn btn-default btn-lg btn-block" href="#" target="_blank">
   <span class="glyphicon glyphicon-new-window"></span> 3:<br class="visible-xs" /> rectangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 4:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 5:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 6:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 7:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 8:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 9:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main10.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 10:<br class="visible-xs" /> circles II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main11.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 11:<br class="visible-xs" /> Golf?</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main12.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 12:<br class="visible-xs" /> Golf!</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/EG_main13.pdf">
+  <a class="btn btn-default btn-lg btn-block" href="#">
   <span class="glyphicon glyphicon-new-window"></span> 13:<br class="visible-xs" /> Area I</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -103,36 +103,3 @@ layout: default
     </p>
   </div>
 </div>
-
-
-<!--<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Section One: Rhombi</li>
-        <li>Section Two: kites</li>
-        <li>Section Three: rectangles</li>
-        <li>Section Four: healthy skepticism</li>
-        <li>Section Five: polygons</li>
-        <li>Section Six: regular figures, warm-up</li>
-        <li>Section Seven: deeper into triangles</li>
-        <li>Section Eight: triangle centers</li>
-        <li>Section Nine: circles</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Section Ten: more about circles</li>
-        <li>Section Eleven: constructions</li>
-        <li>Section Twelve: advanced constructions</li>
-        <li>Section Thirteen: the theory of content</li>
-        <li>Section Fourteen: more about content</li>
-        <li>Section Fifteen: regular figures</li>
-        <li>Section Sixteen: the regular pentagon, redux</li>
-        <li>Section Seventeen: more triangle centers</li>
-        <li>Section Eighteen: the nine-point circle</li>
-      </ul>
-    </td>
-  </tr>
-</table>
--->
