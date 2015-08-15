@@ -30,7 +30,7 @@ questions.
 
 - Instructor: 		Theron J Hitchman
 - Office: 		327 Wright Hall
-- Office Hours: 	MWF  10-11 am and 2-3 pm.  
+- Office Hours: 	weekdays 2-3 pm.  
   To meet at another time, contact me by email to make an appointment.
 - contact info:
   <address>
@@ -67,12 +67,12 @@ If you feel uncertain about your progress in the course at any time, please cont
 
 ## Dates to Observe:
 
-- Thursday, January 29 and Thursday, February 5: First self-assessment conferences
-- Thursday, February 26: Second self-assessment conferences
-- Wednesday, March 4: Midterm formative assessment, in class
-- Thursday, April 9: Third self-assessment conference, portfolio check-in
-- Friday, May 1: Final class meeting. Final Examination distributed
-- Thursday, May 7: Final Exam and Portfolio due at 5pm
+- Week of September 7 - 11: First self-assessment conferences
+- Week of October 5 - 9: Second self-assessment conferences
+- Wednesday, October 14: Midterm formative assessment, in class
+- Week of November 9 - 13: Third self-assessment conference, portfolio check-in
+- Friday, December 11: Final class meeting. Final Examination distributed
+- Thursday, December 17: Final Exam and Portfolio due at 5pm
 
 ---
 
