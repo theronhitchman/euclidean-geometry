@@ -34,16 +34,16 @@ nebulous, as we are working on the kinds of qualities and habits you need to be
 a competent mathematical professional. We will refer to the items in this list
 as the standards.
 
-
-<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/the-standards.html">The Standards</a>
-
+<center>
+<a class="btn btn-lg btn-block" href="{{site.baseurl}}/assessment/the-standards.html">The Standards</a>
+</center>
 
 Also, I will describe a scheme for documentation and communication of your
 demonstrated proficiency on the standards, and a little bit about how I will try
 to use this information to assign a grade at the end of the term.
 
 <center>
-<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/the-process.html">The Process</a>
+<a class="btn btn-lg btn-block" href="{{site.baseurl}}/assessment/the-process.html">The Process</a>
 </center>
 
 Of course, this scheme is as likely to have failures as another, but I hope that
@@ -53,7 +53,7 @@ your grade, you would be doing exactly the kinds of things I wanted you to do,
 and improving your abilities as a mathematician. That is, after all, my only goal.
 
 <center>
-<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/whats-typical.html">What does an A look like?</a>
+<a class="btn btn-lg btn-block" href="{{site.baseurl}}/assessment/whats-typical.html">What does an A look like?</a>
 </center>
 
 At any point in the semester, if you would like more detailed discussion of my
