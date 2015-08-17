@@ -3,7 +3,7 @@ title: Reflection Prompt Three
 layout: default
 ---
 
-Before our scheduled meeting during the third or fourth week of class, please
+Before our scheduled meeting during the twelfth week of class, please
 write a one page reflection as indicated below. I expect you to bring this
 document with you to our meeting, or to email or share it with me electronically
 before our meeting starts.

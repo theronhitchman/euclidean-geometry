@@ -3,7 +3,6 @@ title: Standards for Assessment
 layout: default
 ---
 
-<center><h2>The Standards</h2></center>
 
 Every one of these points is the conclusion to a sentence which begins:
     Students will demonstrate that they can...

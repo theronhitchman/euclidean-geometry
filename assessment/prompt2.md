@@ -34,4 +34,4 @@ your awesomeness.
 - Be submitted before or during your interview appointment with Prof. Hitchman
 
 
-[standards]: {{site.baseurl}}/specs-grading/the-standards.html
+[standards]: {{site.baseurl}}/assessment/the-standards.html
