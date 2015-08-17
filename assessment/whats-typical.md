@@ -1,5 +1,5 @@
 ---
-title: Assessment: What's Typical
+title: Assessment&colon; What's Typical
 layout: default
 ---
 

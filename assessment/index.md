@@ -34,9 +34,9 @@ nebulous, as we are working on the kinds of qualities and habits you need to be
 a competent mathematical professional. We will refer to the items in this list
 as the standards.
 
-<center>
+
 <a btn btn-lg btn-block href="{{site.baseurl}}/assessment/the-standards.html">The Standards</a>
-</center>
+
 
 Also, I will describe a scheme for documentation and communication of your
 demonstrated proficiency on the standards, and a little bit about how I will try
