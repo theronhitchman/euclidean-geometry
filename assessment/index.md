@@ -1,116 +1,61 @@
 ---
-title: Specifications Grading
+title: Assessment
 layout: default
 ---
 
-I will use a <strong>Specifications Grading</strong> mechanism this semester.
-This is a bit of an experiment, but I hope that it leads to a better way
-to provide you with useful feedback about your progress, and to clearer
-communication about my expectations of your work and how I will set grades.
+The structure and aims of Math 3600:01 are so radically different from a
+traditional “computation based” mathematics course that I find the general
+structure of assigning grades from an accumulation of points on homework,
+quizzes, and exams to be completely unworkable. If I could get away with it,
+I would not assign grades at all, and focus all of my energy on helping you develop.
+However, the registrar demands that I assign grades.
 
-To get a sense of the main idea, start with this document I used when I experimented
-with "standards based grading." It does a reasonable job of explaining
-what my goals are:
+I can usually sort out a reasonable “grade” for each student by the end of the
+semester by some sort of mysterious process of watching and listening in class.
+There are several difficulties with this, which are probably apparent to you:
 
-[Euclidean Geometry Standards for Assessment Fall 2015][standards]
+1. It requires that you trust me and my professionalism.
+2. It mixes up formative assessment and summative assessment pretty badly.
+3. It has no formal feedback mechanism.
+4. Students do not necessarily identify the same things as important that I do.
 
-Specifications Grading is implemented a bit differently that the Standards Based
-Assessment, but my goals are the same: clearer communication.
+I can not see any way around problem (1). Even the traditional "points
+accumulation" process requires this. I choose not to deal with item (2). In
+fact, I am deliberately leaving it mixed up so that I can help you all as much
+as possible. But items (3) and (4) are about clear communication of expectations
+and of perceived progress. That I can do something about. I choose to use a
+communication scheme inspired by things called "Standards Based
+Assessment," and "Specifications Grading."
 
-## Feedback on your Work
+So, I will set out some description of those things I deem as
+important for the students in this class to improve upon. This makes clear the
+kinds of things I really hope you are working on this term. These are somewhat
+nebulous, as we are working on the kinds of qualities and habits you need to be
+a competent mathematical professional. We will refer to the items in this list
+as the standards.
 
-I will be keeping track of what goes on during class to the best of my ability.
-After each presentation, the class will have a conversation about your work:
-this is your primary source of feedback. Sometimes, I may send an email
-with some extra comments about your progress. I think of this mostly as a
-_formative_ assessment. It is a way for me to gauge your progress and help you
-focus on improving your work.
+<center>
+<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/the-standards.html">The Standards</a>
+</center>
 
-Through the portfolio process, I will also see referee reports from the process
-of writing for the journal. These are the equivalent type of feedback on your
-written work.
+Also, I will describe a scheme for documentation and communication of your
+demonstrated proficiency on the standards, and a little bit about how I will try
+to use this information to assign a grade at the end of the term.
 
-## How Assessment Works
+<center>
+<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/the-process.html">The Process</a>
+</center>
 
-I will use the following things to assess your work this term:
+Of course, this scheme is as likely to have failures as another, but I hope that
+it won’t distort incentives and cloud communication in the way that traditional
+grades do. It is my belief that if you tried to “game the system” to improve
+your grade, you would be doing exactly the kinds of things I wanted you to do,
+and improving your abilities as a mathematician. That is, after all, my only goal.
 
-- Published papers derived from your work and class presentations.
-- Reports you write while serving the class journal as a referee.
-- Reflective self-assessments you write at conference times.
+<center>
+<a btn btn-lg btn-block href="{{site.baseurl}}/assessment/whats-typical.html">What does an A look like?</a>
+</center>
 
-At the end of the semester, you will collect all of these things into a portfolio.
-I will use the contents of your portfolio to set your semester grade.
-
-Each individual item you produce is graded on a pass/fail basis. I will make
-available detailed and clear <strong>specifications</strong> for what constitutes
-acceptable work.
-
-### The Portfolio Assignment
-
-The grading specifications for the portfolio assignment are discussed
-[here]({{site.baseurl}}/specs-grading/portfolio.html).
-
-### Published Papers
-
-The normal mode of work for this class leads to publication of your work in the
-class journal. Specifications for this work are as follows:
-
-- The mathematics presented must be complete, correct, and clearly presented.
-- The article should follow conventions for mathematical writing as detailed in
-the [Style Guide for the journal]({{site.baseurl}}/writing/style-guide.html).
-
-### Referee Work
-
-As part of the journal process, you will serve as a referee for the work of other
-students. The specifications for referee reports are listed in the
-[Instructions for Referees document]({{site.baseurl}}/writing/instructions-for-referees.html).
-
-### Reflections & Conferences
-
-To facilitate the communication process, we will schedule regular conferences
-to discuss your progress. You will meet with me for a ten or twenty minute appointment
-at three points during the term. The first meeting is the longest, and that is
-too much work for me to really get done in a single week, so I will divide the
-class into two parts. The first group will meet with me during weeks 3, the second
-group will meet with me during week 4. I will meet with the whole class during each of
-weeks 7 and 12.
-
-To give these meetings some substance, I require that you write a one page
-reflection and either bring it to our meeting or email it to me beforehand. The
-point of these reflections is for you to engage in an honest self-assessment. This
-is an important part of learning and growing! The links below will become live
-when they become relevant.
-
-- [Reflection Prompt #1][prompt1] (weeks 3 and 4)
-- [Reflection Prompt #2][prompt2] (week 7)
-- [Reflection Prompt #3][prompt3] (week 12)
-
-Of course, you are welcome to come by and talk about mathematics, or your
-progress in the course, at any time I am available.
-
-<!-- This is put on hold for now. I want to change just one thing "Add the portfolio & specs"
-### Essays
-
-There are three essay assignments. The specifications for these are listed with
-the writing prompts.
-
-- [Essay #1: topic A][essay1]
-- [Essay #2: topic B][essay2]
-- [Essay #3: topic C][essay3]
-
-### Grading Table
-
-The method for turning a final portfolio into a final grade is summarized in the
-[grading conversion document][grades].
--->
-
-[standards]: {{site.baseurl}}/specs-grading/the-standards.html
-[prompt1]: {{site.baseurl}}/specs-grading/prompt1.html
-[prompt2]: {{site.baseurl}}/specs-grading/prompt2.html
-[prompt3]: {{site.baseurl}}/specs-grading/prompt3.html
-<!--
-[essay1]: {{site.baseurl}}/specs-grading/essay1.html
-[essay2]: {{site.baseurl}}/specs-grading/essay2.html
-[essay3]: {{site.baseurl}}/specs-grading/essay3.html
--->
-[grades]: {{site.baseurl}}/specs-grading/grades.html
+At any point in the semester, if you would like more detailed discussion of my
+view of your mathematical skills and how you can work to improve them (i.e. your
+grade), please come talk with me.
