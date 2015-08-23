@@ -25,7 +25,7 @@ link below:
 [THE OVERLEAF.COM TEMPLATE FOR WRITING PAPERS][template]
 
 
-_To submit a paper_, send an email to the address **theron.hitchman@uni.edu**
+_To submit a paper_, send an email to the address **transactions.editor.uni@gmail.edu**
 with the subject line in the form **Euclidean Geometry Task ##** where you
 replace the ##'s with the proper identifier for the task. From Overleaf there
 is an option to download a pdf copy of your paper. Please rename it in the form
