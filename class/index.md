@@ -23,3 +23,7 @@ ordered by date.
 
 >  **Conjecture C'' (Sorenson)**: If rhombus ABCD is not a square, then
 >  angle BAC is not congruent to angle BDC.
+
+#### 31 August
+
+> Conjecture C''': Supppose that ABCD is a rhombus but not a square. Then either A and C are obtuse and B and D are acute, or B and D are obtuse and A and C are acute.
