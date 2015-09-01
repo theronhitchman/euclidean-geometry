@@ -49,4 +49,4 @@ it. Documents on Overleaf.com are found by using the proper url, which
 contains a fairly random string as an identifier. If you don’t save that string,
 it will be near impossible to find your work again.
 
-Managing Editor’s Email address for papers: `theron.hitchman@uni.edu`
+Managing Editor’s Email address for papers: `transactions.editor.uni@gmail.com`
