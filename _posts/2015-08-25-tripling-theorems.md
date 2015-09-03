@@ -23,7 +23,7 @@ Miss Kirkpatrick noted that Mr Cowden's construction is quite flexible. I noted
 that mathematicians answer questions by proving theorems, so perhaps we should
 find a conjecture to prove. We ended up with this one.
 
-**Conjecture (Cowden-Kirkpatrick, 1.5)**: Let XYZ be a given angle and AB a given
+**Conjecture D (Cowden-Kirkpatrick, 1.5)**: Let XYZ be a given angle and AB a given
 segment. Then it is possible to construct a rhombus BACD such that angle BAC is
 congruent to angle XYZ using Mr Cowden's method.
 
