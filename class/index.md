@@ -21,8 +21,16 @@ ordered by date.
 >  **Conjecture C' (Spiess)**: Let ABCD be a rhombus. Then angle BAC is not
 >  congruent to angle BDC if and only if ABCD is not a square.
 
->  **Conjecture C'' (Sorenson)**: If rhombus ABCD is not a square, then
+>  **Conjecture C'' (Sorensen)**: If rhombus ABCD is not a square, then
 >  angle BAC is not congruent to angle BDC.
+
+#### 28 August
+
+> **Conjecture D (Cowden-Kirkpatrick, 1.5)**: Let XYZ be a given angle and AB a given
+> segment. Then it is possible to construct a rhombus BACD such that angle BAC is
+> congruent to angle XYZ using Mr Cowden's method.
+
+
 
 #### 31 August
 
