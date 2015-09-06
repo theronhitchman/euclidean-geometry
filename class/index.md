@@ -31,7 +31,21 @@ ordered by date.
 > congruent to angle XYZ using Mr Cowden's method.
 
 
-
 #### 31 August
 
-> Conjecture C''': Supppose that ABCD is a rhombus but not a square. Then either A and C are obtuse and B and D are acute, or B and D are obtuse and A and C are acute.
+> Conjecture C''': Suppose that ABCD is a rhombus but not a square. Then
+> either A and C are obtuse and B and D are acute, or B and D are obtuse
+> and A and C are acute.
+
+#### 4 September
+
+> **Question E (Davis)**: We know by Davis' theorem that the diagonals of a rhombus
+> meet if "produced indefinitely." Must the intersection point X lie on the segments
+> AC and BD?
+
+> **Conjecture F (Bumann)**: There is a kite ABCD with segment AB congruent to
+> segment BC and segment AD congruent to segment DC such that angle ABC is _not_
+> congruent to angle ADC.
+
+> **Conjecture G (Bumann)**: If ABCD is a kite and both pairs of opposite angles
+> are pairs of congruent angles, then ABCD is a rhombus.
