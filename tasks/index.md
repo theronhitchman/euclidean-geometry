@@ -27,7 +27,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 3:<br class="visible-xs" /> rectangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 4:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
