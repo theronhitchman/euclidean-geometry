@@ -49,3 +49,13 @@ ordered by date.
 
 > **Conjecture G (Bumann)**: If ABCD is a kite and both pairs of opposite angles
 > are pairs of congruent angles, then ABCD is a rhombus.
+
+#### 9 September
+
+> **Conjecture H (??)**: Let ABCD be a kite with AB congruent to BC. Then
+> diagonal BD is an angle bisector of both angle B and angle D.
+
+#### 18 September
+
+> **Conjecture I (Sorensen)**: A parallelogram is a rectangle if and only if
+> its diagonals are congruent.
