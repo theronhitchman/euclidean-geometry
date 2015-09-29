@@ -59,3 +59,12 @@ ordered by date.
 
 > **Conjecture I (Sorensen)**: A parallelogram is a rectangle if and only if
 > its diagonals are congruent.
+
+#### 28 September
+
+> **Task J**: Clean up the definition of _polygon_ to exclude those we
+> dislike and include those we want.
+
+> **Task K**: Mr Cowden's argument for 5.2 will work easily for some types
+> of polygons, but less easily (not at all?) for others. Figure out how to
+> describe which pentagons will work here and make a definition.
