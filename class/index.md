@@ -68,3 +68,10 @@ ordered by date.
 > **Task K**: Mr Cowden's argument for 5.2 will work easily for some types
 > of polygons, but less easily (not at all?) for others. Figure out how to
 > describe which pentagons will work here and make a definition.
+
+#### 30 September
+
+> **Task L**: Come up with a good definition of the word _interior angle_ for
+> polygons.
+
+> **Task M**: Come up with a definition for _the point X lies inside the polygon P_.
