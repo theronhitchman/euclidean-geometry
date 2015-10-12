@@ -75,3 +75,7 @@ ordered by date.
 > polygons.
 
 > **Task M**: Come up with a definition for _the point X lies inside the polygon P_.
+
+#### 12 October
+
+> Conjecture N (Kirkpatrick): A convex polygon is a simple polygon.
