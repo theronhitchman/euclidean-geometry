@@ -78,7 +78,7 @@ ordered by date.
 
 #### 12 October
 
-> Conjecture N (Kirkpatrick): A convex polygon is a simple polygon.
+> **Conjecture N (Kirkpatrick)**: A convex polygon is a simple polygon.
 
 #### 16 October
 
@@ -88,7 +88,7 @@ ordered by date.
 > **Conjecture P (Bumann)**: Let ABC be a triangle with AB congruent to BC. Let
 > M be the midpoint of AC. Then angle AMB and angle CMB are right angles.
 
-> Conjecture Q (Kirkpatrick)**: Let ABC be a triangle. Then ABC is isosceles with
+> **Conjecture Q (Kirkpatrick)**: Let ABC be a triangle. Then ABC is isosceles with
 > AB congruent to BC if and only if any two of the following coincide:
 >   - The angle bisector at B
 >   - The median from B
