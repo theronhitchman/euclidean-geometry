@@ -27,7 +27,7 @@ neighborhood.
 Both of these are now theorems due to Miss Bumann. Miss Bumann, I suggest a single
 paper with both arguments in it.
 
-> Conjecture Q (Kirkpatrick)**: Let ABC be a triangle. Then ABC is isosceles with
+> **Conjecture Q (Kirkpatrick)**: Let ABC be a triangle. Then ABC is isosceles with
 > AB congruent to BC if and only if any two of the following coincide:
 >   - The angle bisector at B
 >   - The median from B
