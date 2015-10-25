@@ -15,31 +15,31 @@ layout: default
 
 <div class="row">
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main01.pdf" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> 1:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> 2:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
   <span class="glyphicon glyphicon-new-window"></span> 3:<br class="visible-xs" /> rectangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 4:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main05.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 5:<br class="visible-xs" /> polygons</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main06.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 6:<br class="visible-xs" /> regularity</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main07.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 7:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
