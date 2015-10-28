@@ -97,3 +97,8 @@ ordered by date.
 
 > **Conjecture R (Rundall)**: Let ABC be a triangle. Then ABC is isosceles with AB
 > congruent to BC if and only if the medians from A and C are congruent.
+
+#### 28 October
+
+> **Task T**: Find a good definition for the phrases "points A and B lie on
+the same side of line l", and "points A and B lie on opposite sides of line l."

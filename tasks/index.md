@@ -43,7 +43,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 7:<br class="visible-xs" /> triangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main08.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 8:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
