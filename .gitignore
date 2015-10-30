@@ -1,7 +1,8 @@
 .DS_Store
-_site/
+_site/*
 
 # sage stuff
 *.sage-chat
 *.sage-backup
 *.sage-history
+.jekyll-metadata
