@@ -33,7 +33,7 @@ ordered by date.
 
 #### 31 August
 
-> Conjecture C''': Suppose that ABCD is a rhombus but not a square. Then
+> **Conjecture C'''**: Suppose that ABCD is a rhombus but not a square. Then
 > either A and C are obtuse and B and D are acute, or B and D are obtuse
 > and A and C are acute.
 
@@ -97,6 +97,10 @@ ordered by date.
 
 > **Conjecture R (Rundall)**: Let ABC be a triangle. Then ABC is isosceles with AB
 > congruent to BC if and only if the medians from A and C are congruent.
+
+#### 26 October
+
+> **Conjecture S (Spiess)**: something about a circle-line intersection property.
 
 #### 28 October
 
