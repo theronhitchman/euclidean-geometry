@@ -106,3 +106,9 @@ ordered by date.
 
 > **Task T**: Find a good definition for the phrases "points A and B lie on
 the same side of line l", and "points A and B lie on opposite sides of line l."
+
+#### 18 November
+
+> **Conjecture U (Hitchman):** The following definition is equivalent to our current
+one:  "A polygon P is called _convex_ when for each pair of consecutive vertices
+X and Y, all the other vertices of P lie on the same side of the line XY."
