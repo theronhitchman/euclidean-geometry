@@ -41,3 +41,6 @@
 
 # Mac
 .DS_Store
+
+# Jekyll stuff
+.jekyll-metadata
