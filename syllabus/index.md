@@ -4,7 +4,7 @@ layout: default
 ---
 
 *Euclidean Geometry*<br />
-*Math 3600, Fall 2015*
+*Math 3600, Fall 2016*
 
 
 ##Course Description:
@@ -67,12 +67,12 @@ If you feel uncertain about your progress in the course at any time, please cont
 
 ## Dates to Observe:
 
-- Week of September 7 - 11: First self-assessment conferences
-- Week of October 5 - 9: Second self-assessment conferences
-- Wednesday, October 14: Midterm formative assessment, in class
-- Week of November 9 - 13: Third self-assessment conference, portfolio check-in
-- Friday, December 11: Final class meeting. Final Examination distributed
-- Thursday, December 17: Final Exam and Portfolio due at 5pm
+- Week of September 5 - 9: First self-assessment conferences
+- Friday, September 30: Midterm formative assessment, in class
+- Week of October 10 - 14: Second self-assessment conferences
+- Week of November 7 - 11: Third self-assessment conference, portfolio check-in
+- Friday, December 0: Final class meeting. Final Examination distributed
+- Thursday, December 15: Final Exam and Portfolio due at 5pm
 
 ---
 
