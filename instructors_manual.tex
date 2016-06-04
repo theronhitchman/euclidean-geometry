@@ -15,6 +15,7 @@
 \usepackage{multicol}
 \usepackage{pdfpages}
 \usepackage{paralist}
+\usepackage{fourier}
 
 %%%% Theorem Environments
 \theoremstyle{definition}
@@ -638,6 +639,8 @@ This is false, but in an interesting way. Sometimes students will explore what t
 If $AB$ is the diameter of a circle and $C$ lies on the circle, then angle $\angle ACB$ is a right angle.
 \end{conjecture}
 
+This is pretty easy, but it uses the common technique of drawing some key thing not originally in the figure. At this point I pause to point out how useful that is as a general technique in classical geometry, and suggest that they might try it on any outstanding open problems where they feel stuck. If appropriate, I then add, ``Hint. Hint. Conjecture \ref{conj:rhombus-diagonals}.''
+
 \begin{conjecture}
 \label{conj:thales2}
 If $\angle ACB$ is a right angle, then $C$ lies on the circle with diameter $AB$.
@@ -655,11 +658,149 @@ I always stop the class and have a short conversation about
 the idea of an ``if and only if`` statement. It is important to dispel the mystery of which part is which. I also share 
 that some prefer the terms ``necessary and sufficient`` and discuss what those mean in context.
 
+\clearpage
+\setcounter{section}{8}
+\setcounter{problem}{0}
+\section{The Center of a Triangle}
+
+
+\begin{conjecture}\label{conj:angle-bisectors-concurrent}
+Let $ABC$ be a triangle, with rays $r$ and $s$ the angle bisectors at $A$ and $B$, respectively. Suppose that $r$ and $s$ meet at the point $I$ which lies inside the triangle. Draw lines $l$ and $m$ through $I$ that are perpendicular to $AC$ and $BC$ respectively. If $l$ meets $AC$ at point $X$ and $m$ meets $BC$ at $Y$, then triangle $IXC$ is congruent to triangle $IYC$.
+\end{conjecture}
 
 
 
+\begin{definition}\label{defn:concurrent}
+Three segments (or lines or rays) are called \emph{concurrent} if they all pass through a common point.
+\end{definition}
+
+\begin{conjecture}\label{conj:incenter-concurrent}
+The three angle bisectors of a triangle are concurrent.
+\end{conjecture}
+
+There are two subtle points here to discuss with the students. Following on from Conjecture \ref{conj:angle-bisectors-concurrent}, Conjecture \ref{conj:incenter-concurrent} feels like a quick corollary. But this relies on
+the fact that two angle bisectors must actually meet so that we are in a situation to apply Conjecture \ref{conj:angle-bisectors-concurrent}. I prefer that the students notice it, of course, but I always make sure we discuss it and set an extra class-made task if the students have not included this step in their work. Also, the typical proof uses the idea that segment $IC$ has the property of an angle bisector at $C$, so it must be (part of) the angle bisector. That requires that the angle bisector of a given angle is \emph{unique}. Depending on time constraints, I might set this as a task for the students to prove, or I might just discuss it with them and sketch a proof briefly.
+
+In either case, I always stop to point out the special nature of the configure and how we get an inscribed triangle whose center is a special point.
+
+\begin{definition}\label{defn:incenter}
+The point just discovered is called the \emph{incenter} of the triangle.
+\end{definition}
+
+\begin{conjecture}\label{conj:meeting-perp-bisectors}
+Let $T$ be a triangle. For any pair of sides of $T$, the perpendicular bisectors of those sides meet. (That is, they are not parallel.)
+\end{conjecture}
+
+The typical argument here uses a proof by contradiction and the fifth postulate. It is a bit tricky to line everything up, so make the students go slowly.
+
+\begin{conjecture}\label{conj:circumcenter}
+The three perpendicular bisectors of any triangle are concurrent.
+\end{conjecture}
+
+Again, the expected argument relies upon a uniqueness claim in a subtle way.
+
+\begin{definition}\label{defn:circumcenter}
+The point where the three perpendicular bisectors of a triangle meet is called the \emph{circumcenter} of the triangle.
+\end{definition}
+
+Again, I pause to discuss how this shows a triangle has a circumscribed circle whose center is at an interesting point.
+
+I often to ask students if they explored examples. It can be nice to use GeoGebra to see that the notions of a triangle being acute, right, or obtuse correspond to the location of the circumcenter relative to the triangle. If need be, I will open GeoGebra and make a quick demonstration.
 
 
+If the mood strikes me, I might also point the students toward a web search for ``Triangle Center'' so that they may see the page at the url \url{http://faculty.evansville.edu/ck6/tcenters/}.
+
+
+\clearpage
+\setcounter{section}{9}
+\setcounter{problem}{0}
+\section{Circles}
+
+It is finally time to have the students read more of Euclid, now in Book III. I ask them to read the parts that do not use any theory of area. 
+
+\begin{conjecture}\label{conj:tangents-to-circle}
+Let $AB$ and $AC$ be two tangent lines from a point $A$ outside a circle. Then $AB$ is congruent to $AC$.
+\end{conjecture}
+
+This is a simple consequence of the hypotenuse-leg theorem (Conjecture \ref{conj:RASS}). I reserve it for students who need a presentation.
+
+\begin{definition}\label{defn:circles-perp}
+We say that two circles \emph{meet at right angles} if the radii of the two circles to a point of intersection make a right angle.
+\end{definition}
+
+\begin{conjecture}\label{conj:perp-circles}
+Let $\Gamma$ and $\Omega$ be two circles with centers $G$ and $O$, respectively. Suppose that these circles meet at two points $A$ and $B$. If $GAO$ is a right angle, then $GBO$ is a right angle.
+\end{conjecture}
+
+Again, this is a simple triangle congruence argument that I reserve for students who need a success. Depending on the time constraints of the semester, I may challenge the students to come up with a definition for the angle between two circles in general.
+
+\begin{definition}\label{defn:cyclic-quad}
+A quadrilateral $ABCD$ is said to be a \emph{cyclic quadrilateral} if there is a circle $\Gamma$ such that the four vertices $A,B,C$ and $D$ lie on $\Gamma$.
+\end{definition}
+
+\begin{conjecture}\label{conj:rect-cyclic}
+A rectangle is always a cyclic quadrilateral.
+\end{conjecture}
+
+Depending on how well the students handled the material on rectangles this might be easy. If so, it is a good item for a student in need of a success.
+
+\begin{conjecture}[Cyclic Quadrilateral Theorem]\label{conj:angles-cyclic-quad}
+Let $A,B,C$ and $D$ be four points. The quadrilateral $ABCD$ is cyclic if and only if angle $DAC$ is congruent to $DBC$.
+\end{conjecture}
+
+This bi-conditional statement often gets proved in pieces, with different parts being proved by different students, since it naturally involves two theorems. If the students have continued on with my rather generous definition of polygon, this is false as stated. A non-simple cyclic quadrilateral has slightly different behavior. But that is interesting, too. I urge the students to set their own questions and conjectures and we add them to the class list.
+
+
+\begin{conjecture}\label{conj:tangent-to-two-circles}
+Let two circles be tangent at a point $A$. If two lines are drawn through $A$ meeting one circle at further points $B$ and $C$ and meeting the other circle at points $D$ and $E$, then $BC$ is parallel to $DE$.
+\end{conjecture}
+
+This is an application of Euclid III.32. If the students do not find III.32, this might take a while to resolve.
+
+\clearpage
+\setcounter{section}{10}
+\setcounter{problem}{0}
+\section{Circles, Coming 'Round Again}
+
+This entire section consists of more challenging results about circles that may be omitted if you are running out of time and want to get to other material. In an ideal situation, one can encourage students who need more challenging material to work on these while their classmates
+work on the last section.
+
+\begin{conjecture}
+Let $\Gamma$ be a circle with center $O$. Let $X$ be a point in the interior of the circle, and suppose that two lines $\ell$ and $m$ intersect at $X$ so that $\ell$ meets $\Gamma$ at points $A$ and $A'$ and $m$ meets $\Gamma$ at $B$ and $B'$.
+Then twice angle $AXB$ is congruent to angle $AOB$ and angle $A'OB'$ taken together.
+\end{conjecture}
+
+\begin{question}
+Consider the situation from the last conjecture, but instead assume that $X$ lies outside $\Gamma$. What happens here? Formulate a conjecture.
+\end{question}
+
+
+\begin{conjecture}
+If two chords of a circle subtend different acute angles at points of a circle, then the smaller angle belongs to the shorter chord.
+\end{conjecture}
+
+\begin{conjecture}
+If a triangle has two different angles, then the smaller angle has the longer angle bisector (measured from the vertex to the opposite side).
+\end{conjecture}
+
+\begin{conjecture}[Steiner-Lehmus]
+If a triangle has two angle bisectors which are congruent (measured from the vertex to the opposite side), then the triangle is isosceles.
+\end{conjecture}
+
+\begin{conjecture}
+Let $BC$ be a chord of circle $\mathcal{C}$, let $\widearc{BC}$ be the arc of $\mathcal{C}$ which is bounded by $B$ and $C$ and does not contain the center of $\mathcal{C}$.
+Let $M$ be the midpoint of $\widearc{BC}$.
+For a point $A$ on the arc $\widearc{BC}$, show that as $A$ moves along the arc from $B$ to $M$, the sums $AB+AC$ increase.
+\end{conjecture}
+
+
+The next theorem is very pretty, and is commonly attributed to Archimedes.
+
+\begin{conjecture}[Archimedes' Theorem of the Broken Chord] Let $AB$ and $BC$ be two chords of a circle $\mathcal{C}$, where $BC$ is greater than $AB$.
+(Such a configuration is sometimes called a ``broken chord.'')
+Let $M$ be the midpoint of arc ${ABC}$ and $F$ the foot of the perpendicular from $M$ to chord $BC$.
+Then $F$ is the midpoint of the broken chord, that is, $AB$ and $BF$ taken together are congruent to $FC$.
+\end{conjecture}
 
 
 
