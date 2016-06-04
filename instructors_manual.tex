@@ -31,8 +31,8 @@
 %%%%%
 
 
-\title{Euclidean Geometry}
-\author[Instructor's Manual]{Instructor's Manual}
+\title{Euclidean Geometry: Instructor's Manual}
+\author[Hitchman]{Theron J Hitchman}
 \date{Spring 2016} 
 
 \begin{document}
@@ -54,7 +54,9 @@ More experienced instructors will know what to ignore and adapt things to their 
 I hope newcomers to IBL will appreciate specific instructions about how I run a class from these notes.
 
 Below the reader will find discussion of all of the major components of the course, and how I run the critically important first day.
-Then I give some contextual notes for each item in the script, section-by-section.
+Then I give some contextual notes for each item in the script, section-by-section. These are much heavier at the beginning of the sequence, where things are probably less certain for a new instructor and more guidance would be helpful, and lighter at the end, where I hope other users of these notes will have picked up the feel of things.
+
+
 
 \subsection{The Nature of this Course, and How it Came to Be}
 
@@ -62,7 +64,11 @@ idea of course: situational factors, big idea, main goals. idea of flexibility. 
 
 general non-sense goes here. philosophical advice. aims of the course. orientation stuff.  replace this later.\\
 
-include Tim McNichol reference and idea
+include Tim McNichol reference and idea. the coppin mahavier et al book\\
+
+talk about Hartshorne.
+
+ed parker, gary richter and t kyle petersen. mike starbird and carol schumacher
 
 \subsection{Class Materials}
 
@@ -87,7 +93,7 @@ When I am certain that the class is all present, I introduce myself briefly and 
 I tell them that they should just use whatever they think they recall from high school geometry.\\[.1in]
 
 \item[\textbf{Phase II}] Now I give the students time to work in pairs.
-As they work, I go take the time to introduce myself to them and learn their names one pair at a time.
+As they work, I walk about and introduce myself to them and learn their names one pair at a time.
 Along the way I have to take a couple of questions about mathematics, but mostly I am trying (1) to put faces to names on the roster and (2) to make myself more approachable.\\[.1in]
 
 \item[\textbf{Phase III}] After about twenty five minutes, someone has an argument for at least part of Conjecture 1.1.
@@ -102,12 +108,14 @@ The presenter's job is to convince the class, but everyone else is trying to sta
 We take ten to fifteen minutes to give the presentation and discuss it.\\[.1in]
 
 Sometimes, the first presenter has a gap in their argument. 
-In which case, it is important to do two things: (1) very clearly locate the error, and (2) find something of mathematical value in the presentation for which I can praise the student.
+In this case, it is important to do two things: (1) very clearly locate the error, and (2) find something of mathematical value in the presentation for which I can praise the student.
 It is best if the class locates the error.
 I try to do no more than ask if we are all in agreement.
 Finding the praiseworthy aspect of a poor presentation is sometimes challenging, but you \emph{must} authentically praise an effort at the beginning of the course for something.
 Then I bring up a second person.
-When we have a completed argument, we thank the speakers with applause.\\[.1in]
+When we have a completed argument, we thank the speakers with applause.
+Often it is the case that some students have noticed that the second claim in Conjecture 1.1 is false. If there is time, I will try to pull out of them a firm statement and argument for that claim. But sometimes this just needs to be pushed off to the beginning of the second meeting.
+\\[.1in]
 
 \item[\textbf{Phase IV}] After the speaker, I explain that this is how we shall spend all of our class time.
 I hand out the student's preface and the first section of problems (on the rhombus).
@@ -162,7 +170,6 @@ This is the challenging part of the exam: to notice the error, prove it is an er
 If I have a question if a student deserves an A, quality work on this problem can change my mind.
 An example exam is at the end of this guide.
 
-\subsection{Advanced Students}
 
 \subsection{Course Web Site \& The Class Blog}
 
@@ -663,6 +670,8 @@ that some prefer the terms ``necessary and sufficient`` and discuss what those m
 \setcounter{problem}{0}
 \section{The Center of a Triangle}
 
+At this point, the tasks pivot a little. Fewer tasks are used as set-up to get the students conjecturing and making definitions. Usually, there are many student-devised conjectures and questions still to answer, and it is easy enough to allow the students time and space to sort those out. There are still a couple of obviously and deliberately open-ended items, but now the students have taken ownership of the material and the process and it is more appropriate to just ask them questions and see what they do with them.
+
 
 \begin{conjecture}\label{conj:angle-bisectors-concurrent}
 Let $ABC$ be a triangle, with rays $r$ and $s$ the angle bisectors at $A$ and $B$, respectively. Suppose that $r$ and $s$ meet at the point $I$ which lies inside the triangle. Draw lines $l$ and $m$ through $I$ that are perpendicular to $AC$ and $BC$ respectively. If $l$ meets $AC$ at point $X$ and $m$ meets $BC$ at $Y$, then triangle $IXC$ is congruent to triangle $IYC$.
@@ -770,14 +779,20 @@ Let $\Gamma$ be a circle with center $O$. Let $X$ be a point in the interior of 
 Then twice angle $AXB$ is congruent to angle $AOB$ and angle $A'OB'$ taken together.
 \end{conjecture}
 
+This is not truly hard, but it is challenging simply for the large number of things one must keep track of. The figures get messy and it takes patience and calm to get through.
+
 \begin{question}
 Consider the situation from the last conjecture, but instead assume that $X$ lies outside $\Gamma$. What happens here? Formulate a conjecture.
 \end{question}
+
+This can be investigated with GeoGebra to discover the truth of the matter. After that, the argument is not much harder than the last item.
+
 
 
 \begin{conjecture}
 If two chords of a circle subtend different acute angles at points of a circle, then the smaller angle belongs to the shorter chord.
 \end{conjecture}
+
 
 \begin{conjecture}
 If a triangle has two different angles, then the smaller angle has the longer angle bisector (measured from the vertex to the opposite side).
@@ -787,6 +802,8 @@ If a triangle has two different angles, then the smaller angle has the longer an
 If a triangle has two angle bisectors which are congruent (measured from the vertex to the opposite side), then the triangle is isosceles.
 \end{conjecture}
 
+These three items together outline an approach to the very challenging Steiner-Lehmus theorem. The hardest step remaining now is to figure out where to draw the circle.
+
 \begin{conjecture}
 Let $BC$ be a chord of circle $\mathcal{C}$, let $\widearc{BC}$ be the arc of $\mathcal{C}$ which is bounded by $B$ and $C$ and does not contain the center of $\mathcal{C}$.
 Let $M$ be the midpoint of $\widearc{BC}$.
@@ -794,20 +811,318 @@ For a point $A$ on the arc $\widearc{BC}$, show that as $A$ moves along the arc 
 \end{conjecture}
 
 
-The next theorem is very pretty, and is commonly attributed to Archimedes.
-
 \begin{conjecture}[Archimedes' Theorem of the Broken Chord] Let $AB$ and $BC$ be two chords of a circle $\mathcal{C}$, where $BC$ is greater than $AB$.
 (Such a configuration is sometimes called a ``broken chord.'')
 Let $M$ be the midpoint of arc ${ABC}$ and $F$ the foot of the perpendicular from $M$ to chord $BC$.
 Then $F$ is the midpoint of the broken chord, that is, $AB$ and $BF$ taken together are congruent to $FC$.
 \end{conjecture}
 
+\clearpage
+\setcounter{section}{11}
+\setcounter{problem}{0}
+\section{Construction Problems}
+
+When I make this section available, I discuss the rules of the ``construction challenge game,'' including how one counts steps. Then when students present some of the material, I recount it again. The idea of a ``fixable compass'' requires several rounds of explanation for some students. In the end, it is just allowing the students to do all of the work of Euclid Proposition I.2 in one step. Most modern compasses have a little screw top that allows the drafter to fix a radius, and we just try to mimic that.
+
+I also explain to the students that Euclid has many of these constructions. (They know, they have already read them.) But we are up to a slightly different task. Euclid arranges his work to optimize the logical presentation. We will instead try to minimize the number of pencil strokes required, which might complicate the proofs.
+
+Again, each of these requires a construction recipe, an enumeration of drawing steps, and a proof that the construction works. 
+
+These are largely taken from the excellent Hartshorne \cite{Hartshorne}.
+
+\begin{challenge}\label{chal:angle-bisector}
+Given an angle, construct the angle bisector. (par 4)
+\end{challenge}
+
+\begin{challenge}\label{chal:midpoint}
+Given a segment, find the midpoint. (par 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:perp-pt-not-on-line}
+Given a line $\ell$ and a point $A$ not lying on $\ell$, construct a line perpendicular to $\ell$ through $A$. (par 4, possible in 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:perp-pt-on-line}
+Given a line $\ell$ and a point $A$ lying on $\ell$, construct a line perpendicular to $\ell$ through $A$. (par 4, possible in 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:copy-angle}
+Given an angle at a point $A$ and given a ray emanating from a point $B$, construct an angle at $B$ congruent to the angle at $A$ having the given ray as a side. (par 4)
+\end{challenge}
+
+\begin{challenge}\label{chal:parallel}
+Given a line $\ell$ and a point $A$ not lying on $\ell$, construct a line parallel to $\ell$ which passes through $A$. (par 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:circle-center}
+Given the circumference of a circle, find the center of the circle. (par 5)
+\end{challenge}
+
+\begin{challenge}\label{chal:tangent-circle-point}
+Given a circle with center $O$, and given a point $A$ outside the circle, construct a line $\ell$ through $A$ which is tangent to the circle. (par 6)
+\end{challenge}
+
+\clearpage
+\setcounter{section}{12}
+\setcounter{problem}{0}
+\section{More Advanced Constructions}
+
+\begin{definition}\label{defn:circumscribed}
+A circle is said to be \emph{circumscribed} about a figure if the figure lies in the interior of the circle, except for the vertices which lie on the circle.
+
+A circle is said to be \emph{inscribed} in a figure if the circle lies in the interior of the figure and is tangent to each of the sides of the figure.
+\end{definition}
+
+\begin{challenge}\label{chal:triangle-inscribe-circle}
+Construct a circle inscribed in a given triangle $ABC$. (par 13)
+\end{challenge}
+
+\begin{challenge}\label{chal:triangle-circumscribe-circle}
+Construct a circle circumscribed about a given triangle $ABC$. (par 7)
+\end{challenge}
+
+It is possible to omit the rest of the challenges from this section if pressed for time. They are fun to do, but not crucial.
+
+\begin{challenge}\label{chal:cut-segment-by-circle}
+Given a line $\ell$, a line segment $d$ and a point $O$, construct a circle with center $O$ that cuts off a segment from line $\ell$ which is congruent to $d$.
+\end{challenge}
+
+
+
+\begin{challenge}\label{chal:three-perp-circles}
+Construct three circles such that each pair meets at right angles. (par 10)
+\end{challenge}
+
+\begin{challenge}\label{chal:cut-circle-by-segment}
+Given a segment $d$, a circle with center $O$ and a point $P$ inside the circle, construct a line through $P$ on which the circle cuts off a segment congruent to $d$.
+
+When exactly is this construction possible?
+\end{challenge}
+
+
+\begin{challenge}\label{chal:triangle-problem}
+Given a segment $AB$ and an angle $\alpha$ and given another segment $d$, construct a triangle $ABC$ with base equal to $AB$, angle $\alpha$ at $C$ and such that $AC + CB = d$.
+
+Exactly how often is this construction possible? How many ways can the conditions be met?
+\end{challenge}
+
+
+\begin{challenge}\label{chal:double-tangent}
+Given two circles $\Gamma$ and $\Gamma'$ with centers $O, O'$, respectively, construct a line tangent to both circles.
+
+How many such lines are there?
+\end{challenge}
+
+\clearpage
+\setcounter{section}{13}
+\setcounter{problem}{0}
+\section{The Theory of Content}
+
+The student version of this section has a long introduction to the ideas of how Euclid treats area. This is a big intellectual shift for the students, and the class will certainly slow down as the students try to find firm footing again. The long introduction is something I do in class, too. I find it helps the students immensely to spend five minutes on an orientation session when this section is distributed. I begin by pointing out that we are still using the axiomatic method, but we have a new meaning of ``equality'' for figures. I explain that though Euclid makes the switch without further comment, I have chosen the term ``equal content'' to help separate out the ideas. If appropriate, it might help to point out that this is just a different equivalence relation. Of course, the axioms written down as a guide are really just the familiar common notions recast.
+
+When and if it seems appropriate, I encourage students to come up with a notation for equal content that is different from the traditional equal sign. This smoothes out presentations.
+
+
+\begin{problem}\label{prob:present-pythagoras} 
+Prepare a presentation of Euclid's beautiful proof of Proposition I.47.
+\end{problem}
+
+This is an odd task. Unlike all the other tasks, the student is not required to do any new mathematics. But I want a chance to marvel at this argument. Usually I reserve this item for a student that needs a presentation. And when the presentation is complete I talk with the class about how the wonderment in this result is lost since they all had to memorize $a^2 + b^2 = c^2$ without seeing why. I point out that this is clearly the goal towards which Euclid aimed all of Book I. I ask them to look through all of the first four books and see that each has this kind of beautiful theorem near the end.
+
+\begin{conjecture}\label{conj:false-area}
+Let $ABC$ and $DEF$ be triangles. Let $X$ be the midpoint of $DE$, $Y$ the midpoint of $BC$. If $AB$ is congruent to $DX$ and $EF$ is congruent to $BY$, then $ABC$ and $DEF$ have equal content.
+\end{conjecture}
+
+This is false.
+
+\begin{problem}\label{prob:expand-false-area}
+Expand on the statement of the last conjecture--find some theorems and prove them.
+\end{problem}
+
+After the last one is settled, this allows students to exercise some creativity.
+
+\begin{problem}\label{prob:RASS-area} 
+The \emph{hypotenuse-leg} Theorem 7.2 can be proved using the theory of equal content. Find such a proof.
+\end{problem}
+
+Now it is finally time to bring out the Pythagorean theorem. Note that such an argument will require also showing that two squares of equal content must have sides which are congruent. Students often miss this point at first.
+
+\begin{question}
+There are two ways to inscribe a square in an isosceles right triangle. Which one has the greater content?
+\end{question}
+
+One way has a vertex at the right angle of the triangle. The other way has a side lying on the hypotenuse of the triangle. Of course, a satisfactory answer to the question comes with an explanation.
+
+\begin{conjecture}[The Parallelogram Law]\label{conj:parallelogram-law}
+Let $ABCD$ be a parallelogram. Then the squares on the diagonals taken together have equal content with the squares on the four sides taken together.
+\end{conjecture}
+
+This is challenging because of its length and the large number of terms to juggle around. The cleanest argument I know uses both versions of the law of cosines hiding in Book II after dissecting the parallelogram along each of its diagonals.
+
+I often pause here to discuss how Euclid is doing the work of solving certain quadratic equations in various parts of Book II, but by considering each product as an area. I then point out that it is a long time between Euclid and the modern concept of number, and the invention of a convenient notation to do algebra.\\
+
+
+The next two items require no new mathematics to be done, but they do require a student to synthesize all of the material in Book II. 
+
+
+\begin{problem}\label{prob:rectify-triangle}
+Given a triangle $ABC$ and a segment $DE$, construct a rectangle with equal content to $ABC$ and with $DE$ as one side.
+\end{problem}
+
+
+\begin{problem}\label{prob:quadrature-of-rectangle}
+Given a rectangle, construct a square of equal content.
+\end{problem}
+
+\clearpage
+\setcounter{section}{14}
+\setcounter{problem}{0}
+\section{More Content}
+
+The first two items of this section are things I always keep, but the rest can be left out if there is a time constraint.
+
+\begin{problem}\label{prob:subtract-rect}
+Given two rectangles, $P$ and $R$, construct a square $S$ so that, when taken together the content of $R$ and $S$ is equal to the content of $P$.
+\end{problem}
+
+This is a bit of a twist on the kinds of things Euclid does, but requires no new technology. One could conceivably just quote results from Book II to finish this task without any work at all, but the directness of the question and the concreteness of the rectangles and squares encourages students to put things together nicely.
+
+\begin{problem} \label{conj:parallel-in-triangle} Use the theory of content to give a new proof of the midline theorem, Theorem 3.6.
+\end{problem}
+
+Here is another bridge to similar triangles. I pause at this point and talk to the students about how Euclid develops proportions in Book V just so he can handle similar figures in Book VI, and this result is a way to connect things.
+
+\begin{challenge}\label{chal:circle-given-two-points-tangent}
+Given a line $\ell$ and given two points $A$ and $B$ not lying on $\ell$, construct a circle passing through $A$ and $B$ and tangent to $\ell$.
+\end{challenge}
+
+Students often struggle to see the connection between this result and the concept of area. It helps to remind them to read the end of Book III, where the ideas of equal content are discussed in the context of circles.
+
+
+\begin{challenge}\label{chal:circle-point-two-tangents}
+Given two lines $\ell$ and $m$ and a point $P$ not on either line, construct a circle through $P$ and tangent to both $\ell$ and $m$.
+\end{challenge}
+
+The comments from the last challenge apply here, too.
+
+
+\begin{conjecture}\label{conj:content-triangle}
+Let $ABC$ be a triangle, $DE$ a line parallel to the base $BC$, and $F$ the midpoint of segment $DE$, where $D$ lies on ray $AB$ and $E$ lies on ray $AC$. Let $AF$ meet $BC$ at $G$. Then $G$ is the midpoint of $BC$.
+\end{conjecture}
+
+Again, encourage the struggling student to find a connection to the ideas of equal content. 
+
+\begin{conjecture}\label{conj:content-circle}
+Let $\Gamma$ be a circle with center $O$. Let $A$ be a point outside the circle, and $AB$ and $AC$ tangents to $\Gamma$ from $A$, with $B, C$ lying on $\Gamma$. Let $BC$ meet $OA$ at $D$. Then the rectangle on $OA$ and $OD$ has equal content with the square on $OB$.
+\end{conjecture}
+
+This is a version of the straightedge and compass construction of \emph{inversion in a circle}.
+
+\begin{conjecture}\label{conj:right-triangle-similarity}
+Let $ABC$ be a right triangle with right angle at $A$. Let $AD$ be the altitude from $A$ to side $BC$. The square on side $AD$ has equal content with the rectangle on $BD$ and $DC$.
+\end{conjecture}
+
+This is related to the extraction of a square root. If the figure is constructed so that $BD$ is a unit segment, and $DC$ is some given segment, the segment $AD$ will be the square root of $DC$.
+
+
+\begin{conjecture}\label{conj:divide-triangle}
+Let $ABC$ be a triangle and $D$ a point on side $BC$. Let $E$ be the midpoint of $BC$ and draw the parallel to $AD$ through $E$. Let this new line meet the union of $AB$ and $AC$ at a point $F$. Then the segment $DF$ cuts the triangle into two polygons of equal content.
+\end{conjecture}
+
+This is challenging. 
+
+\clearpage
+\setcounter{section}{15}
+\setcounter{problem}{0}
+\section{Regular Figures, especially the Pentagon}
+
+Now we push on to a big finale: the construction of a regular pentagon. I tell the students that this gem of a result has been my goal all semester and ask them to work hard to get there. If time is an issue, only use the first four tasks.
+
+\begin{problem}\label{prob:GSP-reg-pentagon}
+Prepare a presentation of Euclid's construction of a regular pentagon.
+\end{problem}
+
+Again, this is a task for a struggling student, but still an interesting one.
+
+\begin{problem}\label{prob:circle-inscribe-triangle} Given a circle, but not its center, construct an inscribed equilateral triangle in as few steps as possible. (par 7)
+\end{problem}
+
+\begin{problem}\label{prob:square}
+Construct a square in as few steps as possible. (par 9)
+\end{problem}
+
+\begin{problem}\label{prob:side-reg-pent}
+Given a line segment $AB$, construct a regular pentagon having $AB$ as a side. (par 11)
+\end{problem}
+
+This requires re-organizing the information from Euclid to streamline the construction rather than the proof. ``Say, have you finished Problem \ref{prob:circle-inscribe-triangle}?''
+
+\begin{problem}\label{prob:circle-three-tangent-circles}
+Given a circle $\Gamma$ and its center $O$, construct inside $\Gamma$ three equal circles, each one tangent to $\Gamma$ and to the other two. (par 13)
+\end{problem}
+
+The first observation to make is that a symmetric solution would be nice. That might involve an equilateral triangle.
+
+\begin{problem}\label{prob:inscribed-circle-content}
+Let $ABC$ be an equilateral triangle inscribed in a circle. Let $D$ and $E$ be the midpoints of two sides, and extend segment $DE$ to meet the circle at $F$ so that $E$ lies between $D$ and $F$. Show that the rectangle on $EF$ and $DF$ has the same content as the square on $DE$.
+\end{problem}
+
+\begin{challenge}\label{chal:hexagon}
+Construct a regular hexagon in as few steps as possible. What should the par value be?
+\end{challenge}
+
+\clearpage
+\setcounter{section}{16}
+\setcounter{problem}{0}
+
+\section{The Regular Pentagon Rides Again}
+
+
+The next three tasks concern the following construction template for inscribing a regular pentagon in a circle. 
+
+\vspace{.5in}
+
+Given a circle with center $O$,
+\begin{compactenum}
+\item Draw any line through $O$; get $A$ and $B$.
+\item Draw $\odot AB$.
+\item Draw $\odot BA$, get $C$ as intersection of last two circles.
+\item Draw line $OC$, get $D$ between $O$, $C$ as intersection with given circle.
+\item Draw $\odot DO$, get $E, F$ as intersections with given circle.
+\item Draw $EF$, get $G$ as intersection with $OC$.
+\item Draw circle $\odot GA$, get point $H$ as intersection with ray $DO$.
+\item Draw circle $\odot A(OH)$, get points $I, J$ as intersections with given circle.
+\item Draw circle $\odot B(IJ)$, get points $K, L$ as intersections with the given circle.
+\item (five steps) Draw segments $BK, KJ, JI, IL, LB$.
+\end{compactenum}
+\marginnote[-60pt]{The notation $\odot A(BC)$ means a circle with center $A$ and radius congruent to segment $BC$.}
+
+
+\begin{conjecture}\label{conj:pentagon-1}
+Triangle $OAI$ is isosceles and its base angles are twice the angle at $O$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:pentagon-2}
+Triangle $BJI$ is isosceles and its base angles are twice the angle at $B$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:pentagon-3}
+Show that $BKJIL$ is a regular pentagon.
+\end{conjecture}
+
+I pause and challenge the students to give the reasons for the particular steps in this construction. It can help to step back and remember that each of these things has a reason for being there.
+
+Once, I had an extra day and cooperative weather, so I took the students outside to work this construction. They worked in pairs with long bits of string and sidewalk chalk, and we drew pentagons inscribed in circles outside the math department building. (The string is good enough to serve as both straightedge and compass.) It was a fun way to celebrate all we had learned.
 
 
 \clearpage
 \section{Appendix: Supplementary Documents}
 
 syllabus, student conjectures list from fall 2015, exams from fall 2015, reflective writing prompts, specs/standards docs, writing info docs, conclusion handout
+
+
+
+
 
 \end{document}
 
