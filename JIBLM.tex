@@ -1,0 +1,159 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%JIBLM Formatting Package%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%Version 1.2: August, 2008%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%Author: Paul J. Kapitza, Berry College%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[oneside]{book}
+%%%%%%%%%%%%%journal additions%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{time}%make system time available
+\usepackage{enumerate}%extended enumeration package
+%%%%%%%%%%%%%Symbol libraries%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{latexsym}
+\usepackage{amsthm}%extended ams-theorem environment
+
+\usepackage{lettrine}%Drop-caps for Masthead
+\usepackage{mathptmx}%Times Roman type package for both math and text
+
+
+\usepackage{endnotes}%Footnotes to the instructor.
+   
+   
+   
+   
+%%%%%%%%%%%%%Header Customization%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fancyhdr}%Header customization
+\pagestyle{fancy}
+%%%%%%%%%%%%%Chapter headings%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\chaptermark}[1] {\markboth{#1}{}}%
+
+%%%%%%%%%%%%%Page Formatting%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\oddsidemargin}{63pt}%%%%%One-sided printing values for 10pt. text-Remove for two sided print
+\setlength{\evensidemargin}{63pt}%%%%%One-sided printing values for 10pt. text-Remove for two sided print
+
+\setlength{\parskip}{1mm}
+\setlength{\textwidth}{5.0in}
+\setlength{\textheight}{8.0in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%AUTHOR MASTHEAD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\authormasthead}{
+\begin{flushleft}
+\hspace{4.4mm}
+\rule{0.3\linewidth}{0.3mm}
+\lettrine[lines=2]{J}{ournal of Inquiry-Based Learning in Mathematics}
+\rule{0.3\linewidth}{0.3mm}
+%\hspace{1mm} Issue~\textbf{#1}, Volume #2        Issue 1 (August, 2007)
+\vspace{0.2in}
+\end{flushleft}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%AUTHOR MASTHEAD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%TIMESTAMP%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%Uses the ``time" package to stamp the time-Editing Feature
+\newcommand{\timestamp}{{Edited: \texttt{\now , \today}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%TIMESTAMP%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\let\affiliation\date
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% TITLEPAGE%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\makeatletter
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \timestamp
+  \authormasthead
+  %\vfill
+  \normalfont
+  \vspace{2in}
+\begin{center}\leavevmode
+{\Huge \@title\par}%
+\vspace{20mm}
+{\Large \@author\par}%
+\vspace{5mm}
+{\Large \@date\par}% pass affiliation
+{\Large \ }
+\end{center}
+  \vfill
+  \null
+  \cleardoublepage
+ \let\newauthor\@author%transfer to footer line
+ }%
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% END OF TITLEPAGE%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Customized headers and footers- replace authorname with register
+\lhead{ \leftmark} \chead{} \rhead{\thepage}
+\lfoot{\newauthor} \cfoot{} \rfoot{\emph{www.jiblm.org}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Annotation Environment %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{comment}
+\newcommand{\InstructorVersion}{\includecomment{annotation}}
+\newcommand{\StudentVersion}{\excludecomment{annotation}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% END OF Annotation Environment%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Begin--Sectioning Redefines%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+\vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \huge \@chapapp\space \thechapter                
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \LARGE\bfseries  #1\par\nobreak                        
+    \vskip 40\p@
+  }}
+
+
+\renewcommand{\@makeschapterhead}[1]{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE\bfseries  #1\par\nobreak                      
+    \vskip 40\p@
+  }}
+
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% End--Sectioning Redefines%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%%%%%%%%%%Theorem Environments%%%%%%%%%%%%%%%%%%%%%%%%
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgment}[theorem]{Acknowledgment}
+\newtheorem{algorithm}[theorem]{Algorithm}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+%%%%%%%%%%Theorem Environments%%%%%%%%%%%%%%%%%%%%%%%%
