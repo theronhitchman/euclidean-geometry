@@ -2,9 +2,11 @@
 \include{JIBLM}
 \usepackage{graphicx}
 \usepackage{url}
+\usepackage{fourier}
 \newtheorem{question}[theorem]{Question}
 \newtheorem{challenge}[theorem]{Challenge}
 \newtheorem*{postulate}{Postulate}
+\newtheorem*{unthm}{Theorem}
 %
 %%%%%%%%%%%%%%%%%%%%% Annotation Environment Switch%%%%%%%%%%%%
 %\StudentVersion
@@ -36,7 +38,7 @@ I hope newcomers to inquiry-based learning will appreciate specific instructions
 Below the reader will find discussion of all of the major components of the course, and how I run the critically important first day.
 Then I give some contextual notes for each item in the script, section-by-section. These are much heavier at the beginning of the sequence, where things are probably less certain for a new instructor and more guidance would be helpful, and lighter at the end, where I hope the user will have picked up the feel of things.
 
-Please note that the introduction to the student version of the notes is completely different, as is the commentary text between tasks. The student version is written in my voice as advice to the students, and another instructor might want to adjust bits that feel alien.
+The student version is written in my voice as advice to the students, and another instructor might want to adjust bits that feel alien.
 
 \section*{The Nature of this Course, and How it Came to Be}
 
@@ -263,16 +265,1072 @@ Finally, I thank them for a good semester, ask them to preserve the experience f
 
 \chapter{To the Student}
 
+We have two goals this semester:
+First and foremost, we shall learn to do mathematics independently.
+Also, we shall study planar Euclidean geometry.
+Euclidean geometry has been used throughout recorded history as a way to learn to do mathematics and as a way to sharpen thinking skills like problem solving and making logical arguments.
+We shall join the tradition.\footnote{Euclid's \emph{Elements} is the world's oldest surviving textbook, and still one of the best, so we shall study it.}
+
+\subsection*{About the Mathematics}
+The general plan of mathematical work has a recurring structure.
+It starts when somehow, some way, a person has had an idea about a bit of mathematics and has asked a \emph{Question}.
+Perhaps, this person even believes that he or she knows the correct answer and is brave enough to share it publicly, and then we have a \emph{Conjecture}.
+Now we have a job to do in two parts.
+First, we must decide what we believe the answer is.
+This is a lot of hard work where you look at examples, draw pictures, use your imagination and any other tools at your disposal to make up your mind.
+Second, you must find an argument supporting your answer.
+This argument is called a \emph{proof}.
+We will spend almost all of our time on proofs this term. We will think them up, share them with others and argue over their correctness.
+When we as a community agree that a proof is correct, then the statement we started with will be called a \emph{Theorem}.
+To restart the cycle, we collect observations and ask new questions based on what we have just accomplished.\footnote{\dots Or \emph{failed} to accomplish.}
+
+\emph{The Elements} is full of theorems and proofs.\footnote{In fact, it has little else in it.}
+ You can use these as examples and guides for how a proof should look, but keep in mind that Euclid lived a long time ago.
+ What we have now is translated from ancient Greek to English, and the translator did his job about a century ago, so the language is a bit odd.
+I want you to write your proofs in standard English prose.
+So, look at Euclid's first theorem and its proof as given by Heath's translation of Euclid's original, and compare it to this update that I'll write to show how one might do it today.
+Note that the descriptions given are pretty clear and match the figure.
+Generally, one should write as if there is no diagram, and then draw one for the reader anyway.
+
+\begin{quotation}
+\begin{unthm}[Proposition One]
+If $AB$ is a line segment, then there exists an equilateral triangle $ABC$ having $AB$ as one of its sides.
+\end{unthm}
+
+\begin{proof}
+What we really need is a very special point $C$.
+The idea is to find the required point as the intersection of two circles.
+
+By Postulate 3, there exists a circle $\odot AB$ with center $A$ which passes through $B$, and also a circle $\odot BA$ with center $B$ which passes through $A$.
+These two circles intersect twice.
+Choose one of the points of intersection and call it $C$.
+By Postulate 1 we may draw the segments $AC$ and $BC$.
+This forms a triangle $ABC$, by definition of a triangle.
+\begin{figure}[h]
+	\centering
+    \includegraphics[width=.7\textwidth]{Euclid1_1}
+    \caption{Euclid's First Figure}
+\end{figure}
+What remains is to show that the three sides of the triangle are mutually congruent.
+
+Since $C$ and $B$ both lie on circle $\odot AB$, by the definition of a circle, segments $AC$ and $AB$ are congruent.
+Similarly, since $C$ and $A$ both lie on circle $\odot BA$, by the definition of a circle, segments $BC$ and $AB$ are congruent.
+Now, by Common Notion 1, since $AC$ is congruent to $AB$ and $AB$ is congruent to $BC$, we see that $AC$ is congruent to $BC$.
+This means that all three of the sides of triangle $ABC$ are mutually congruent, so $ABC$ is equilateral, by definition.
+This concludes the proof.
+\end{proof}
+\end{quotation}
+
+Note that Euclid phrases his result as a construction problem and the ``proof'' has two parts: the first is a routine for doing the construction and the second is an argument for why it works.
+The more modern view is to see this as an \emph{existence} result with a \emph{constructive proof}.
+
+
+
+Also, note how the proof works.
+Each statement is justified by reference to something we have already agreed upon.
+Since this is our first result, we can only refer to assumptions that we have agreed upon in advance.
+These assumptions are called \emph{Postulates} or \emph{Axioms} or \emph{Common Notions}.
+Also, we have \emph{definitions}, which are shorthands telling us that when we use a certain word, it has exactly some specific meaning.\footnote{We will spend a lot of time thinking about the way mathematical definitions work.}
+Later proofs can (and will) also rely on previously proved theorems to justify some of their steps.
+
+This way of working is called the \emph{Axiomatic Method} and is characteristic of mathematics.
+``Axiomatic Proof'' is what distinguishes mathematics from practically everything else.
+It can feel a bit unnatural at first, but you will get used to it.
+
+Finally, notice that one step really isn't justified.
+Did you see it when reading?
+It is easier to spot in my writing than in Euclid's version.
+If you didn't notice it, go back and try to find it before reading further. 
+
+$\phantom{space}$\\
+\hrule
+$\phantom{space}$\\
+
+
+What is the gap in the proof?
+Euclid just assumes that the two circles $\odot AB$ and $\odot BA$ intersect twice.
+This seems obvious from the picture he draws, but nowhere in his list of Postulates and Common Notions does he say anything about how two circles should intersect!
+What is needed here is another assumption, which I hope you will be willing to believe, called the ``circle-circle intersection property.''
+\begin{postulate}[Circle-Circle Intersection Property]
+If circle $C$ contains a point in the interior of a circle $D$ and also contains a point in the exterior of circle $D$, then circle $C$ and circle $D$ meet at two points.
+\end{postulate}
+
+There are lots of little things like this in Euclid's work.
+It is hard to know how picky one wants to be.
+My feeling is that we should just note what our assumptions are as we go, and to try to keep the list of assumptions relatively short and simple.
+But mathematicians are habitually picky, and you should get in the habit of reading with a very critical eye.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{Advice About Doing Mathematics}
+ It is impossible to summarize all one needs to know to do mathematics successfully, and I don't even pretend to know how to write an exhaustive list.\footnote{I am sure that I have much to learn, still.} But I want to give you some basic advice anyway.
+
+\subsection*{Getting Stuck}
+If you are really working at a level that will help you improve, you will get stuck and confused a lot.
+Being confused is the first step to learning.\footnote{``Suckin' at something is just the first step to being sorta good at something.'' ---Jake the Dog, \emph{Adventure Time}}
+When you feel stuck, come talk to me.
+I like teaching, I like geometry, and I want to help you get through this.
+I am sure that I can nudge you in a productive direction when you get stuck.
+
+\subsection*{Good Work Habits}
+Work every day, at the same time each day if you can.
+Mathematics doesn't happen fast, so you must give yourself time to get to your goal.
+Also, when you have an idea, take notes.
+Most ideas don't work, but some that don't work now might work for another problem later.
+It is a terrible waste of time to ``reinvent the wheel'' for each problem.
+Keep a geometry research notebook.
+
+\subsection*{Collaboration}
+Most mathematicians and students of mathematics find great value in talking to others about mathematics.
+I encourage you to do this, too.
+Getting the most out of a collaboration requires two things:
+\begin{itemize}
+\item Work hard on your own first.\footnote{No one wants a dead weight collaborator.}
+You can't have a conversation if you don't know what is going on and have no ideas to share.
+
+\item Give credit where it is due.
+If you talked to someone about a problem and then you solved it, you should mention that conversation when you give presentations of your work (orally or in writing).\footnote{Selfish people shed collaborators, while generous ones keep them.}
+If you worked together through the whole process, then you should consider \emph{joint authorship} on any written work.
+
+\end{itemize}
+
+
+\subsection*{Expectations}
+The expectations for this class are simple.
+You should come to class every day prepared to discuss the mathematics. First and foremost, this means:
+\begin{quotation}
+\textbf{\emph{You should try to solve every problem}}.\footnote{TRY TO SOLVE EVERY PROBLEM.}
+\end{quotation}
+You must solve several problems by the end of the semester.
+When you solve a problem, write up your arguments before class so that you are ready to present.
+During class when someone else is presenting, pay attention.
+Try to catch  mistakes, both in the mathematics and in the writing.
+
+Finally, doing mathematics is hard work, and presenting to the class is psychologically difficult (especially the first few times).
+I demand that we treat each other with the utmost respect at all times.
+Keep in mind that our differences will be over the content.
+Try to phrase your comments as questions as often as possible.
+The ideal question here starts with the phrase ``Excuse me. I don't understand\dots'' and then ends with something specific like ``\dots how do you use the definition of circle in line five?''
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{What are we up to?}
+
+It is likely that the way this course is conducted is new to you.\footnote{This course is a particular flavor of Inquiry Based Learning known as a Modified Moore Method. Our principal ``modifications'' from R.L. Moore's method are (1) the use of a textbook as reference, and (2) allowing collaboration.}
+Let me share some perspective about what will happen, and why I've arranged things this way.
+
+
+I have three goals for this semester. In order, they are:
+\begin{enumerate}
+\item To help you gain power and strength as a mathematician.
+
+\item To get you engaged in mathematical work, and to help you learn how mathematics is done successfully.
+
+\item To talk about geometry.
+\end{enumerate}
+
+These goals drive all of the choices I make when conducting this class, and they are the main reasons for the structure we use.
+The best way to learn to do mathematics is to engage with the material and \emph{do mathematics}.
+So, everything about our structure is predicated on you and your classmates working in the same way that mathematicians do.
+You will answer questions, prove theorems, make conjectures, and ask questions.
+Generally, you will work to \emph{make sense of things on your own terms.}
+
+Believe it or not, mathematics is a social activity.
+Progress is really made when you have reached a new level of understanding, and can clearly explain your ideas to another who is engaged in the same type of work.
+We will together be a little mathematics research community.
+We will take Euclid's \emph{Elements} as our entire collection of literature, and I will be the grand guru who provides questions to begin our investigations.
+
+So, how will we do things?
+\begin{itemize}
+\item You will work hard to prove theorems.
+You can do this on your own, or in small teams of collaborators.
+Because it is important to develop your own talents, I ask that you use only the \emph{Elements} and no other references.
+
+\item Every class day will be devoted to ``communication.''
+You and your classmates will take turns presenting your arguments, sharing your observations, and helping others to refine their ideas by asking questions.
+\end{itemize}
+
+
+
+Mathematics is difficult to do.\footnote{This is an understatement. But you knew that, didn't you?}
+Everyone makes mistakes, great and small, in large numbers.
+This will undoubtedly happen to each of you ``in public'' at least once (probably repeatedly).
+But making mistakes is an important part of learning, and I don't want you to be afraid of them.
+Accept them and move on.
+
+\subsection*{More about grades}
+The most important thing you can do to achieve a good grade in this course is to get actively involved.\footnote{I have put a significant amount of material on the course web page about this semester's experiment in \emph{Specifications Grading}.}
+Prove things, share you work in presentations and in writing.
+At the end of the semester, I will assign grades in a holistic way.
+We will have a midterm and a final, but these are just another chance for you to make a good impression.
+
+To be clear: In a typical mathematics class, the exams are worth just about everything, and class participation is worth just a little.
+In this class, things are the opposite.
+Your grade depends largely on the quality and quantity of presentations you give and papers you write.
+The midterm and final exam are just extra opportunities for me to check up on your progress.
+
+A student who does not present at all is guaranteed to fail this course.
+In the past, students who earn passing grades have solved, presented and published several solutions.
+Earning an A requires more, both in quality and quantity.
+
+\subsection*{About Sharing Your Work}
+When you have successfully completed a task from our list, you will get a chance to share it with the class.
+The first stage is to present your arguments to the class for evaluation by your peers.
+You should prepare carefully for this, as it is impolite to waste everyone's time with a sloppy and poorly given presentation.
+I advise you to write up your ideas and arguments carefully \emph{before the class where you want to present.}
+Also, try to anticipate some questions that your classmates might ask so that you can handle them.
+
+
+
+
+In the class meeting immediately following your successful presentation, you are required to turn in your work in the form of a paper to be published in our class journal.
+I'm sure you see that mathematical writing is very different from any writing you have been asked to do.
+One of our goals this semester is to get a start on developing a mathematical writing style.
+What should a paper look like?\footnote{The course website has links to both the example and a template.}
+I have written a paper that models the proper output and put it on the internet at our course web page.
+You can use it as a guide for writing your first paper.
+Also, there is a template file you can use to properly format your work in \LaTeX\ .
+
+
+\subsection*{About drawing figures}
+It is very important when working to draw your own figures.
+There is no substitute for it.
+Even when reading Euclid, I suggest that you frequently draw your own diagrams.
+
+How should you do it?
+Well, you could just go freehand.
+This is sufficient for poking around in a general way.
+But sometimes, you really want an accurate representation of what is going on, and then you need tools.
+There are two basic tool sets available.
+\begin{description}
+\item[A physical compass and straightedge set] These are available in many places, like the bookstore.
+\item[A digital compass and straightedge] There are several software packages available that allow you to do geometric constructions.
+My favorite is \emph{GeoGebra}\footnote{\url{http://www.geogebra.org/cms/en/}}.
+This a free, cross-platform, open-source software package for playing with lots of interesting mathematics, including planar geometry.
+It enables you to make constructions and then drag around the inputs to obtain other versions of the same construction.
+This is like making hundreds of example pictures all at once!
+\end{description}
+
+\subsection*{On the Different Types of Arguments}
+As the semester progresses, we will see several different types of arguments.
+Of course, the \emph{Elements} is full of arguments, so you have lots of examples to absorb.
+It is good to have a mental list of argument styles, because one often works to prove a statement without knowing in advance if it really is true.
+After all, that is the point of finding a proof--to be really sure that the statement is true.
+If I am stuck in one attempt, I find it useful to switch styles and see what else I might learn.
+
+With this in mind, here is a short guide to common types of arguments you might try.
+
+\begin{description}
+\item[Direct Proof] Also called a \emph{positive} argument.
+Use a logical chain of deduction to get from the hypothesis to the conclusion.
+
+\item[Indirect Proof] There are two types of proof here, and some mathematicians are picky about the distinction, but they start the same way.
+One assumes that the conclusion is false, and then tries to derive some contradiction, either to the given hypothesis\footnote{proof of the \emph{contrapositive}} or to some other known truth.\footnote{\emph{reductio ad absurdum}}
+I am often sloppy about the distinction and call both of these ``proof by contradiction.''
+
+\item[Counterexample] A given statement about ``all'' objects of a certain type may be false. To disprove the statement, it is enough to give one explicit example of when the statement fails to hold.
+\end{description}
+
+There are other bits of mathematician's jargon I could list here, but this is enough to get going with. So, on to the problems!
 
 
 
 
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \mainmatter
 
-\chapter{}
+\chapter{Beginnings: The Rhombus}\label{section:rhombi}
+
+Read Euclid's \emph{Elements} Book I Propositions 1-34.
+Pay particular attention to the triangle congruence theorems in I.4, I.8 and I.26.
+This material is all of your allowed references.\\
+
+Now we take up our mathematical work. Note that we begin here at the same place we started in class on the first day.
+
+\begin{definition}\label{defn:collinear}
+We say that some set of points is \emph{collinear} when there exists a line passing through all of the given points.\footnote{Here is a block of new terms given by definitions.
+The best way to approach a new definition is to try to make some examples and some non-examples.}
+\end{definition}
+
+
+\begin{definition}\label{defn:quadrilateral}
+A \emph{quadrilateral} is a figure consisting of four points, no three of which are collinear, in a given order and the four line segments joining points next to each other in the list.
+Usually, we specify only the four points, so quadrilateral $ABCD$ consists of the points $A$, $B$, $C$ and $D$, called \emph{vertices} of the quadrilateral and the line segments $AB$, $BC$, $CD$ and $DA$, called the \emph{sides}.
+\end{definition}
+
+\begin{definition}\label{defn:rhombus}
+A \emph{rhombus} is a quadrilateral having all four sides mutually congruent.
+\end{definition}
+
+\begin{conjecture}\label{conj:rhombus-angles}
+Let $ABCD$ be a rhombus. Then angle $ABC$ is congruent to angle $ADC$. Similarly, angle $BAC$ is congruent to angle $BDC$.
+\end{conjecture}
+
+
+
+It is possible your proof uses something about rhombi that is just plain obvious from a picture.\footnote{Each and every step must be justified by something we have already agreed is true.}
+But ``obvious from the picture'' is exactly the sort of thing we are trying to avoid when writing an axiomatic argument.
+So, let's formulate this ``obvious fact'' and try to prove it.
+
+
+\begin{definition}\label{defn:diagonals}
+Let $ABCD$ be a quadrilateral. The \emph{diagonals} of $ABCD$ are the segments $AC$ and $BD$.
+\end{definition}
+
+\begin{conjecture}\label{conj:rhombus-diagonals}
+The diagonals of a rhombus must cross.
+\end{conjecture}
+
+
+
+Do not worry if your argument for Conjecture \ref{conj:rhombus-angles} did not use Conjecture \ref{conj:rhombus-diagonals}, as there is more than one way to approach Conjecture \ref{conj:rhombus-angles}.
+In fact, there is a lot of value in having multiple arguments, as each variant might shed light on some different aspect of the question.
+
+\begin{challenge}\label{conj:rhombus-angles-redo}
+If your argument for Conjecture \ref{conj:rhombus-angles} did not use Conjecture \ref{conj:rhombus-diagonals}, find a new argument that does.
+Conversely, if your argument did use Conjecture \ref{conj:rhombus-diagonals}, find an argument that does not.
+\end{challenge}
+
+
+We have been talking about rhombi, but how are we sure that they even exist?
+If this seems a silly question, keep in mind that a rhombus is just described by a funny definition that I made up.
+It is not necessarily clear that this definition means anything at all.
+So, what is to be done about this awkward situation?
+Well, we could try to construct a rhombus.
+This is a lot like the problem Euclid faced at the beginning of the \emph{Elements}.
+He really needed an equilateral triangle, so he began by proving that one could be found in the first place.
+
+\begin{challenge}\label{prob:rhombus-construct}
+Given a segment $AB$, find a compass and straightedge construction of a rhombus $ABCD$.
+Enumerate your steps and give a proof that the construction works.\footnote{A \emph{step} only counts if you draw something, like a segment or an arc of a circle.}
+\end{challenge}
+
+\begin{question}\label{prob:rhombus-flexible}
+How flexible or rigid is the construction solving the last problem?
+Can one use the construction to create many non-congruent rhombi, or are there only a few options?
+\end{question}
+
+Sometimes, a proof really has more information in it than you think.
+Then we can get a \emph{corollary} by digging a little deeper into the understanding we have gained.
+Can you use these hints to make headway on the next few problems?
+
+\begin{conjecture}\label{conj:rhombus-is-parallelogram}
+If $ABCD$ is a rhombus, then $ABCD$ is a parallelogram.
+\end{conjecture}
+
+
+\begin{conjecture}\label{conj:rhombus-diagonals-angle}
+Let $ABCD$ be a rhombus. Suppose that the diagonals $AC$ and $BD$ meet at a point $X$.
+The angle $AXB$ is a right angle.
+\end{conjecture}
+
+Note that we added the hypothesis that the diagonals cross.
+This is because we recognize that Conjecture \ref{conj:rhombus-diagonals} may not be a theorem by the time we have an argument for Conjecture \ref{conj:rhombus-diagonals-angle}.
+This kind of hypothesis making allows us to go forward in several directions at once.
+Feel free to add hypotheses when the need arises.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{The Geometry of Kites}
+
+Now we turn our attention to a different special class of quadrilaterals: \emph{kites}.
+
+\begin{definition}\label{defn:quad-sides-type}
+Two sides of a quadrilateral are called \emph{adjacent} when they share a vertex and \emph{opposite} if they do not.\footnote{Again, here are some new definitions. To make sense of them, try creating some examples and some ``non-examples.''}
+
+\end{definition}
+
+
+\begin{definition}\label{defn:kite}
+A \emph{kite} is a quadrilateral with two pairs of adjacent and congruent sides.
+\end{definition}
+
+Notice that a rhombus is always a kite.\footnote{This is a theorem (and its proof). Can you write it out so it looks like a formal theorem statment?}
+The reason is that if all four sides are mutually congruent, then we can pick any way we like to divide the sides into adjacent pairs (there are only two ways), and these pairs will consist of congruent sides.
+
+Sometimes a proof has features that can be carried over to other situations.
+In this assignment, you should try to build on the ideas we have developed in studying rhombi in this new situation.
+Each of the below is an adaptation of a statement we have for rhombi.
+
+\begin{conjecture}\label{conj:kite-opp-angles}
+Pairs of opposite angles in a kite are congruent.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:kite-diagonals-cross}
+The diagonals of a kite must cross.
+\end{conjecture}
+
+\begin{problem}\label{prob:construct-kites}
+Give a construction (with proof) of a kite.
+How general is your construction?
+\end{problem}
+
+\begin{conjecture}\label{conj:kite-is-parallelogram}
+If $ABCD$ is a kite, then it is a parallelogram.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:kite-diagonals-perpendicular}
+If the diagonals of a kite meet, then they meet at a right angle.
+\end{conjecture}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{The Geometry of Rectangles}\label{section:rectangles}
+
+Rectangles are probably familiar to you, but to be clear we give a precise definition.
+\begin{definition}\label{defn:rectangle}
+A \emph{rectangle} is a quadrilateral which has all four interior angles that are right angles.
+\end{definition}
+
+Notice that the definition only speaks about angles. There is nothing at all said about the sides.
+But that doesn't mean that the sides have no special properties---it is just that those properties are really theorems.\footnote{This is something many people have to get used to. It is a way in which mathematical definitions differ from common definitions in English.}
+
+\begin{conjecture}\label{conj:rectangle-parallelogram}
+Let $R$ be a rectangle. Then $R$ is a parallelogram.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:rectangle-opp-sides}
+Let $R$ be a rectangle. Then each pair of opposite sides of $R$ is a pair of congruent segments.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:rectangle-diagonals}
+The two diagonals of a rectangle are congruent and bisect each other.
+\end{conjecture}
+
+
+These conjectures describe some qualities that are common to all rectangles. Mathematicians say that these are \emph{necessary conditions} for having a rectangle.
+If a figure is a rectangle, then these properties are ``necessarily'' also true. Now we shall try to go in the opposite direction.
+The following conjectures are possible answers to the question, ``What kind of information does one need to claim that that our figure is a rectangle?''
+Of course, we can use the definition above--that is one of the important roles of a definition, to test when we are allowed to use a word.
+But what we want now are \emph{sufficient conditions}, these are conditions that allow us to conclude that our figure is a rectangle by checking something other than the definition.\footnote{We will later see an example of conditions which are both
+\emph{necessary} and \emph{sufficient} for something, and thus provide an example of an \emph{equivalent statement}.}
+
+
+
+
+\begin{conjecture}\label{conj:opp-congruent-implies-rectangle}
+Let $ABCD$ be a quadrilateral such that angles $\angle ABC$ and $\angle ADC$ are right angles.
+If segments $AB$ and $CD$ are congruent, then $ABCD$ is a rectangle.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:opp-parallel-implies-rectangle}
+Let $ABCD$ be a quadrilateral such that angles $\angle ABC$ and $\angle ADC$ are right angles.
+If segments $AB$ and $CD$ are parallel, then $ABCD$ is a rectangle.
+\end{conjecture}
+
+Notice the importance that pairs of parallel lines play in these statements.
+
+
+
+\begin{conjecture}[Midline Theorem] \label{conj:midline-theorem}
+Let $ABC$ be a triangle, $D$ the midpoint of $AB$ and $E$ the midpoint of $AC$.
+Then the line through $E$ and $D$, called a \emph{midline}, is parallel to the line through $B$ and $C$.\footnote{These results don't \emph{look} to be about rectangles.}
+
+\end{conjecture}
+
+\begin{conjecture}[Varignon's Theorem]\label{conj:Varignon}
+Let $ABCD$ be a quadrilateral. The midpoints of the four sides are the vertices of a parallelogram.
+\end{conjecture}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Developing an Attitude of Skepticism}
+
+I hope you have taken the time to look over the example paper by Professor Ball.
+One of our goals this semester is to develop a mathematician's healthy skepticism.
+This can be a bit unsettling at first, but the basic idea is like a tee-shirt quotation: ``Question Authority."
+Since this might be new to you, let me lead you a bit with the following items.
+
+\begin{problem}\label{prob:Ball}
+Read Professor Ball's argument and figure out what went wrong.
+Recall that you can find it on the course web site under the "Class Journal" tab.
+Pinpoint his error and present it to the class.\footnote{Prof. Ball uses a result he calls the hypotenuse-leg theorem, which states that if two right triangles have two pairs of corresponding sides congruent, and one of the pairs is the hypotenuses, then the triangles are congruent. For now, we grant that this theorem is true, and is not the source of Prof. Ball's error. We'll come back to address this theorem later when we study triangles in detail.}
+\end{problem}
+
+Let's pretend that we overheard a tea-time conversation where a famous mathematician said, ``Sure Euclid's proof of I.7 is bad, but I can fix that.
+It's proposition I.4 I'm worried about!"
+
+\begin{problem}\label{prob:fix-I.7}
+Figure out what is wrong with Euclid's Proposition I.7 and fix it.
+\end{problem}
+
+\begin{problem}\label{prob:fix-I.4}
+Figure out what the problem is with Euclid's Proposition I.4.
+\end{problem}
+
+So far, I have strongly hinted that the arguments for Propositions I.1, I.4 and I.7 are each imperfect in some way.
+Unfortunately, they are not alone.
+
+\begin{problem}[Standing Problem]
+As the semester progresses, we will have occasion to read over a hundred different arguments by Euclid, if any of the others we read have gaps, please consider giving a short presentation about it.
+(Hint: there are several of these to be found.)
+\end{problem}
+
+The big lesson here is that \emph{The Elements} is not perfect, from a modern point of view.
+This worried mathematicians for a long time, and it took two millennia until all of the issues were finally sorted out to the community's general satisfaction.
+Several re-axiomatizations of planar geometry have been proposed, the most famous versions are due to David Hilbert, George Birkhoff, and The School Mathematics Study Group.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Polygons}
+Now it is time to extend our venue to \emph{polygons} with an arbitrary number of sides.
+
+\begin{definition}\label{defn:n-gon}
+Let $n$ be a natural number. An \emph{$n$-gon} is a figure consisting of $n$ points $A_1, A_2, \ldots, A_n$, prescribed in order and called \emph{vertices}, and the $n$ line segments, called \emph{sides}, $A_1A_2, A_2A_3, \ldots, A_{n-1}A_n, A_nA_1$.\\
+A \emph{polygon} is an $n$-gon where $n$ has not been specified.\footnote{Note: Commonly used terminology includes the following: 3-gon = triangle, 4-gon = quadrilateral, 5-gon = pentagon, 6-gon = hexagon.}
+\end{definition}
+
+
+
+\begin{problem}\label{prob:exterior-angle}
+Suppose that $A,B,C$ are three consecutive vertices of a polygon. 
+If at the vertex $B$ we extend one of the two sides through $B$ to a ray, then we create a new angle, called an \emph{exterior angle} to the polygon at $B$.\\
+This construction has a choice in it. 
+In principle, this could be a problem. 
+Describe the problem, then state and prove a theorem that resolves the issue.
+\end{problem}
+
+
+
+
+\begin{conjecture}\label{conj:ext-angles-pentagon}
+The exterior angles of a pentagon, one choice made at each vertex, add up to four right angles.
+\end{conjecture}
+
+
+\begin{question}\label{question-induction}
+What is the sum of the exterior angles of a hexagon? 
+What about a general $n$-gon? 
+Can you find a way to build on our understanding from small values of $n$, to general values of $n$?
+\end{question}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Regular Figures, A Warm-up}
+
+A great part of the allure of geometry is figures with symmetry. Inspired by this, let us study some polygons that have a lot of symmetry.
+
+\begin{definition}\label{defn:regular}
+A polygon is said to be \emph{equilateral} if all of its sides are congruent, \emph{equiangular} if all of its angles are congruent, and \emph{regular} if it is both equilateral and equiangular.
+\end{definition}
+
+\begin{conjecture}\label{conj:equilateral-triangle}
+An equilateral triangle is equiangular, hence regular.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:regular-rhombus}
+Let $ABCD$ be a rhombus. If angle $A$ is congruent to $B$, then $ABCD$ is regular.
+\end{conjecture}
+
+\begin{definition}[reminder]\label{defn:square}
+A regular quadrilateral is called a \emph{square}.
+\end{definition}
+
+
+\begin{problem}\label{prob:equilateral-quad}
+Does Conjecture \ref{conj:regular-rhombus} hold if we replace ``angle $B$'' by ``angle $C$''? State a result and prove it.
+\end{problem}
+
+\begin{conjecture}\label{conj:equilateral-pentagon}
+Let $ABCDE$ be an equilateral pentagon. If angle $A$ is congruent to angle $B$, then $ABCDE$ is regular.
+\end{conjecture}
+
+
+
+\begin{conjecture}\label{conj:regular-pentagon-central-triangle}
+Let $ABCDE$ be a regular pentagon. The triangle $ACD$ is isosceles.
+\end{conjecture}
+
+\begin{problem}\label{prob:reg-pentagon-angles}
+Let $ABCDE$ be a regular pentagon. State the relationship between the angles $CAD$ and $ACD$ that shows how special the triangle is. Prove your observation.
+\end{problem}
+
+\begin{problem}\label{prob:reg-pentagon-types}
+Find experimental evidence for the number of regular pentagons with a given side. (Try using five toothpicks!)\\[.1in]
+\end{problem}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Deeper Into Triangles}
+
+So far, our most useful tools have been facts about triangles. Euclid makes a pretty thorough study of triangles, but he doesn't cover everything he could. 
+Here we shall plug  gaps in Book I with some very useful understanding.
+
+\begin{problem}
+\label{prob:triangle-inequality}
+Show how to construct three segments which are not congruent to the sides of any triangle.
+\end{problem}
+
+
+\begin{definition}
+\label{defn:right-triangles}
+A triangle is said to be \emph{right} if one of its angles is a right angle. 
+The side opposite the right angle is called the \emph{hypotenuse}. 
+The other sides are called \emph{legs}.
+\end{definition}
+
+\begin{conjecture}
+\label{conj:RASS}
+Let $ABC$ and $DEF$ be two right triangles, with the angles at $A$ and $D$ right angles. 
+Suppose that $BC$ is congruent to $EF$ and $AB$ is congruent to $DE$. 
+Then the triangles are congruent.\footnote{This is sometimes called the \emph{hypotenuse-leg} theorem.}
+\end{conjecture}
+
+\begin{conjecture}
+\label{conj:ASS}
+If we weaken the hypothesis of the previous conjecture so that the angles $A$ and $D$ are still congruent but no longer assumed to be right angles, and leave the other hypotheses intact, the conclusion still holds.
+\end{conjecture}
+
+Right triangles are very useful objects. 
+But we need to know when we have a right angle! 
+Here is a wonderful characterization of right angles.
+
+\begin{conjecture}
+\label{conj:thales1}
+If $AB$ is the diameter of a circle and $C$ lies on the circle, then angle $\angle ACB$ is a right angle.
+\end{conjecture}
+
+\begin{conjecture}
+\label{conj:thales2}
+If $\angle ACB$ is a right angle, then $C$ lies on the circle with diameter $AB$.
+\end{conjecture}
+
+Note that, together, Conjectures \ref{conj:thales1} and \ref{conj:thales2} yield this result:
+\begin{unthm}[Thales' Theorem] 
+Let $A, B, C$ be three points. 
+The angle $\angle ACB$ is a right angle if and only if $C$ lies on the circle with diameter $AB$.\footnote{It is mathematical folklore that Thales' theorem is the oldest theorem. 
+That is, this theorem was the first one that was given what would today be called a proof. 
+Thales is thought to be the originator of our axiomatic method of working from assumed statements (axioms or postulates) to prove true statements (theorems) which followed only from logical reasoning. 
+It is also part of the folklore that Thales was so overjoyed at the discovery of this theorem and proof that he sacrificed an ox as thanksgiving. 
+I don't know if this is true--I've also heard such a story associated with the Pythagoreans and their famous triangle theorem, though it was 100 oxen. 
+Euclid's \emph{Elements} is really an ancient Greek textbook. 
+It seems clear that the method of axiomatic work typical of mathematics originated somehow with the Greeks before Euclid--say with Thales or with the Pythagoreans. But all of the literature has been lost to the ages.}
+\end{unthm}
+
+
+
+This is a case of a set of \emph{equivalent conditions}. We have stated it
+here with ``if and only if'' language, but we also could have said ``for angle $\angle ACB$ to be a right angle it is necessary and sufficient that $C$ lies on the circle with diameter $AB$.'' The necessity is in Conjecture \ref{conj:thales2}. The sufficiency is in Conjecture \ref{conj:thales1}.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{The Center of a Triangle}
+
+What might be called the center of a triangle? There have been many proposed answers to this question over the centuries. In this assignment, we study two of them.
+
+\begin{conjecture}\label{conj:angle-bisectors-concurrent}
+Let $ABC$ be a triangle, with rays $r$ and $s$ the angle bisectors at $A$ and $B$, respectively. Suppose that $r$ and $s$ meet at the point $I$ which lies inside the triangle. Draw lines $l$ and $m$ through $I$ that are perpendicular to $AC$ and $BC$ respectively. If $l$ meets $AC$ at point $X$ and $m$ meets $BC$ at $Y$, then triangle $IXC$ is congruent to triangle $IYC$.
+\end{conjecture}
+
+
+\begin{definition}\label{defn:concurrent}
+Three segments (or lines or rays) are called \emph{concurrent} if they all pass through a common point.
+\end{definition}
+
+\begin{conjecture}\label{conj:incenter-concurrent}
+The three angle bisectors of a triangle are concurrent.
+\end{conjecture}
+
+\begin{definition}\label{defn:incenter}
+The point just discovered is called the \emph{incenter} of the triangle.
+\end{definition}
+
+\begin{conjecture}\label{conj:meeting-perp-bisectors}
+Let $T$ be a triangle. For any pair of sides of $T$, the perpendicular bisectors of those sides meet. (That is, they are not parallel.)
+\end{conjecture}
+
+\begin{conjecture}\label{conj:circumcenter}
+The three perpendicular bisectors of any triangle are concurrent.
+\end{conjecture}
+
+\begin{definition}\label{defn:circumcenter}
+The point where the three perpendicular bisectors of a triangle meet is called the \emph{circumcenter} of the triangle.
+\end{definition}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Circles}
+
+We have learned quite a bit about basic polygonal shapes, especially triangles, and various species of quadrilaterals. Now we turn our attention to circles. This is the subject of Book III in Euclid's \emph{Elements}. We already have one beautiful theorem about circles, that of Thales, but we'd like to have more.
+
+
+Read \emph{The Elements} Book III Propositions 1-34.\footnote{Pay special attention to III.16, III.18, III.20, III.21, III.31 and III.32.}
+For the following propositions you should work in the axiomatic style of Euclid using I.1-34,  III.1-34 and any previously proved results.
+
+
+
+\begin{conjecture}\label{conj:tangents-to-circle}
+Let $AB$ and $AC$ be two tangent lines from a point $A$ outside a circle. Then $AB$ is congruent to $AC$.
+\end{conjecture}
+
+\begin{definition}\label{defn:circles-perp}
+We say that two circles \emph{meet at right angles} if the radii of the two circles to a point of intersection make a right angle.
+\end{definition}
+
+\begin{conjecture}\label{conj:perp-circles}
+Let $\Gamma$ and $\Omega$ be two circles with centers $G$ and $O$, respectively. Suppose that these circles meet at two points $A$ and $B$. If $GAO$ is a right angle, then $GBO$ is a right angle.
+\end{conjecture}
+
+
+\begin{definition}\label{defn:cyclic-quad}
+A quadrilateral $ABCD$ is said to be a \emph{cyclic quadrilateral} if there is a circle $\Gamma$ such that the four vertices $A,B,C$ and $D$ lie on $\Gamma$.
+\end{definition}
+
+\begin{conjecture}\label{conj:rect-cyclic}
+A rectangle is always a cyclic quadrilateral.
+\end{conjecture}
+
+\begin{conjecture}[Cyclic Quadrilateral Theorem]\label{conj:angles-cyclic-quad}
+Let $A,B,C$ and $D$ be four points. The quadrilateral $ABCD$ is cyclic if and only if angle $DAC$ is congruent to $DBC$.
+\end{conjecture}
+
+
+\begin{conjecture}\label{conj:tangent-to-two-circles}
+Let two circles be tangent at a point $A$. If two lines are drawn through $A$ meeting one circle at further points $B$ and $C$ and meeting the other circle at points $D$ and $E$, then $BC$ is parallel to $DE$.
+\end{conjecture}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Circles, Coming 'Round Again}
+One of the most useful results about circles is Proposition III.20 which relates an \emph{inscribed} angle in a circle to a \emph{central} angle in that circle.
+Let us try to see what happens when the angle does not sit on the circumference of the circle.
+
+\begin{conjecture}
+Let $\Gamma$ be a circle with center $O$. Let $X$ be a point in the interior of the circle, and suppose that two lines $\ell$ and $m$ intersect at $X$ so that $\ell$ meets $\Gamma$ at points $A$ and $A'$ and $m$ meets $\Gamma$ at $B$ and $B'$.
+Then twice angle $AXB$ is congruent to angle $AOB$ and angle $A'OB'$ taken together.
+\end{conjecture}
+
+\begin{question}
+Consider the situation from the last conjecture, but instead assume that $X$ lies outside $\Gamma$. What happens here? Formulate a conjecture.
+\end{question}
+
+
+\begin{conjecture}
+If two chords of a circle subtend different acute angles at points of a circle, then the smaller angle belongs to the shorter chord.
+\end{conjecture}
+
+\begin{conjecture}
+If a triangle has two different angles, then the smaller angle has the longer angle bisector (measured from the vertex to the opposite side).
+\end{conjecture}
+
+\begin{conjecture}[Steiner-Lehmus]
+If a triangle has two angle bisectors which are congruent (measured from the vertex to the opposite side), then the triangle is isosceles.
+\end{conjecture}
+
+\begin{conjecture}
+Let $BC$ be a chord of circle $\mathcal{C}$, let $\widearc{BC}$ be the arc of $\mathcal{C}$ which is bounded by $B$ and $C$ and does not contain the center of $\mathcal{C}$.
+Let $M$ be the midpoint of $\widearc{BC}$.
+For a point $A$ on the arc $\widearc{BC}$, show that as $A$ moves along the arc from $B$ to $M$, the sums $AB+AC$ increase.
+\end{conjecture}
+
+
+The next theorem is very pretty, and is commonly attributed to Archimedes.
+
+\begin{conjecture}[Archimedes' Theorem of the Broken Chord] Let $AB$ and $BC$ be two chords of a circle $\mathcal{C}$, where $BC$ is greater than $AB$.
+(Such a configuration is sometimes called a ``broken chord.'')
+Let $M$ be the midpoint of arc ${ABC}$ and $F$ the foot of the perpendicular from $M$ to chord $BC$.
+Then $F$ is the midpoint of the broken chord, that is, $AB$ and $BF$ taken together are congruent to $FC$.
+\end{conjecture}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Construction Problems}
+
+The following problems are \underline{construction challenges}. In each case, you are to
+\begin{enumerate}
+\item find a compass and straightedge construction,
+\item enumerate your steps,\footnote{A ``step'' for our counting purposes happens exactly every time you draw something with either the compass or straightedge.
+We count steps using the modern ``fixable compass.''
+This means that you may copy some segment length for the radius of a circle, but place it at a new point for a center all in one step.
+If you like, this collapses the content of Euclid Proposition I.2 in to a single step.} and
+\item prove that your construction works.
+\end{enumerate}
+You may use any parts of the \emph{Elements} Book I.1-34 or Book III.1-34 as part of your reasoning.
+
+
+
+For most challenges, I have included a ``par value" indicating the number of steps an experienced constructor would need.
+Can you meet this or do better?
+
+
+\begin{challenge}\label{chal:angle-bisector}
+Given an angle, construct the angle bisector. (par 4)
+\end{challenge}
+
+\begin{challenge}\label{chal:midpoint}
+Given a segment, find the midpoint. (par 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:perp-pt-not-on-line}
+Given a line $\ell$ and a point $A$ not lying on $\ell$, construct a line perpendicular to $\ell$ through $A$. (par 4, possible in 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:perp-pt-on-line}
+Given a line $\ell$ and a point $A$ lying on $\ell$, construct a line perpendicular to $\ell$ through $A$. (par 4, possible in 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:copy-angle}
+Given an angle at a point $A$ and given a ray emanating from a point $B$, construct an angle at $B$ congruent to the angle at $A$ having the given ray as a side. (par 4)
+\end{challenge}
+
+\begin{challenge}\label{chal:parallel}
+Given a line $\ell$ and a point $A$ not lying on $\ell$, construct a line parallel to $\ell$ which passes through $A$. (par 3)
+\end{challenge}
+
+\begin{challenge}\label{chal:circle-center}
+Given the circumference of a circle, find the center of the circle. (par 5)
+\end{challenge}
+
+\begin{challenge}\label{chal:tangent-circle-point}
+Given a circle with center $O$, and given a point $A$ outside the circle, construct a line $\ell$ through $A$ which is tangent to the circle. (par 6)
+\end{challenge}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{More Advanced Constructions}
+
+\begin{definition}\label{defn:circumscribed}
+A circle is said to be \emph{circumscribed} about a figure if the figure lies in the interior of the circle, except for the vertices which lie on the circle.
+\end{definition}
+
+\begin{definition}A circle is said to be \emph{inscribed} in a figure if the circle lies in the interior of the figure and is tangent to each of the sides of the figure.
+\end{definition}
+
+\begin{challenge}\label{chal:triangle-inscribe-circle}
+Construct a circle inscribed in a given triangle $ABC$. (par 13)
+\end{challenge}
+
+\begin{challenge}\label{chal:triangle-circumscribe-circle}
+Construct a circle circumscribed about a given triangle $ABC$. (par 7)
+\end{challenge}
+
+
+
+\begin{challenge}\label{chal:cut-segment-by-circle}
+Given a line $\ell$, a line segment $d$ and a point $O$, construct a circle with center $O$ that cuts off a segment from line $\ell$ which is congruent to $d$.
+\end{challenge}
+
+
+
+\begin{challenge}\label{chal:three-perp-circles}
+Construct three circles such that each pair meets at right angles. (par 10)
+\end{challenge}
+
+\begin{challenge}\label{chal:cut-circle-by-segment}
+Given a segment $d$, a circle with center $O$ and a point $P$ inside the circle, construct a line through $P$ on which the circle cuts off a segment congruent to $d$.
+When exactly is this construction possible?
+\end{challenge}
+
+
+\begin{challenge}\label{chal:triangle-problem}
+Given a segment $AB$ and an angle $\alpha$ and given another segment $d$, construct a triangle $ABC$ with base equal to $AB$, angle $\alpha$ at $C$ and such that $AC + CB = d$.
+Exactly how often is this construction possible? How many ways can the conditions be met?
+\end{challenge}
+
+
+\begin{challenge}\label{chal:double-tangent}
+Given two circles $\Gamma$ and $\Gamma'$ with centers $O, O'$, respectively, construct a line tangent to both circles.
+How many such lines are there?
+\end{challenge}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{The Theory of Content}
+
+Read the parts of the \emph{Elements} that have to do with the basic theory of area. These are Book I, Propositions 35-48, Book II, and Book III, Propositions 35-37.
+
+Euclid usually calls two planar figures ``equal" without explanation. 
+From the work that he does, it seems that he means equality of area, or something like it, but he never defines an ``area function'' which assigns a (non-negative, real) number to each planar figure. 
+Looking more closely at the text, it appears that Euclid is using a new undefined term and assuming some ``common sense" axioms to control use of the word. 
+For clarity, we try to make things more explicit here.\footnote{This follows the basic structure of axiomatic work. We have a new undefined term, and the axioms are in place to make sure that we have concrete and specific rules for the allowable use of that new term. In this case, the axioms are basically restatements of Euclid's common notions.}
+We introduce a new undefined term \emph{equal content} which satisfies the following axioms:
+\begin{description}
+\item[(EC1)] Congruent figures have equal content.
+\item[(EC2)] If each of two figures each have equal content with a third figure, then the two figures have equal content.
+\item[(EC3)] If pairs of figures with equal content are ``added," in the sense of being joined without overlap to make bigger figures, then these added figures have equal content.
+\item[(EC4)] The same holds for ``subtraction,'' noting that it is immaterial where the equal figures are removed.
+\item[(EC5)] Halves of figures with equal content have equal content, and doubles of figures with equal content have equal content.
+\item[(EC6)] The whole is greater than the part, so if one figure is properly contained in another, then the two figures cannot have equal content.
+\end{description}
+
+\begin{center}\textit{Attention! Attention!}\end{center}
+
+Note that Euclid never uses algebra. (It hadn't been invented, yet.) So there are no equations in his work. We shall not use them either! Writing a ``Euclid-style proof'' demands no equations.
+
+
+For the following tasks, work in the style of Euclid using any result from the first three books.
+
+\begin{problem}\label{prob:present-pythagoras} 
+Prepare a presentation of Euclid's beautiful proof of Proposition I.47.
+\end{problem}
+
+\begin{conjecture}\label{conj:false-area}
+Let $ABC$ and $DEF$ be triangles. Let $X$ be the midpoint of $DE$, $Y$ the midpoint of $BC$. If $AB$ is congruent to $DX$ and $EF$ is congruent to $BY$, then $ABC$ and $DEF$ have equal content.
+\end{conjecture}
+
+
+\begin{problem}\label{prob:expand-false-area}
+Expand on the statement of the last conjecture--find some theorems and prove them.
+\end{problem}
+
+\begin{problem}\label{prob:RASS-area} 
+The \emph{hypotenuse-leg} Theorem 7.2 can be proved using the theory of equal content. Find such a proof.
+\end{problem}
+
+\begin{question}
+There are two ways to inscribe a square in an isosceles right triangle. Which one has the greater content?
+\end{question}
+
+\begin{conjecture}[The Parallelogram Law]\label{conj:parallelogram-law}
+Let $ABCD$ be a parallelogram. Then the squares on the diagonals taken together have equal content with the squares on the four sides taken together.
+\end{conjecture}
+
+
+
+\begin{problem}\label{prob:rectify-triangle}
+Given a triangle $ABC$ and a segment $DE$, construct a rectangle with equal content to $ABC$ and with $DE$ as one side.
+\end{problem}
+
+\begin{problem}\label{prob:quadrature-of-rectangle}
+Given a rectangle, construct a square of equal content.
+\end{problem}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{More Content}
+
+The following are come challenging tasks having to do with the theory of equal content.
+The first two are important to us.
+The rest are opportunities to show off.
+
+\begin{problem}\label{prob:subtract-rect}
+Given two rectangles, $P$ and $R$, construct a square $S$ so that, when taken together the content of $R$ and $S$ is equal to the content of $P$.
+\end{problem}
+
+\begin{problem} \label{conj:parallel-in-triangle} Use the theory of content to give a new proof of the midline theorem, Theorem 3.6.
+\end{problem}
+
+\begin{challenge}\label{chal:circle-given-two-points-tangent}
+Given a line $\ell$ and given two points $A$ and $B$ not lying on $\ell$, construct a circle passing through $A$ and $B$ and tangent to $\ell$.
+\end{challenge}
+
+\begin{challenge}\label{chal:circle-point-two-tangents}
+Given two lines $\ell$ and $m$ and a point $P$ not on either line, construct a circle through $P$ and tangent to both $\ell$ and $m$.
+\end{challenge}
+
+\begin{conjecture}\label{conj:content-triangle}
+Let $ABC$ be a triangle, $DE$ a line parallel to the base $BC$, and $F$ the midpoint of segment $DE$, where $D$ lies on ray $AB$ and $E$ lies on ray $AC$. Let $AF$ meet $BC$ at $G$. Then $G$ is the midpoint of $BC$.
+\end{conjecture}
+
+
+\begin{conjecture}\label{conj:content-circle}
+Let $\Gamma$ be a circle with center $O$. Let $A$ be a point outside the circle, and $AB$ and $AC$ tangents to $\Gamma$ from $A$, with $B, C$ lying on $\Gamma$. Let $BC$ meet $OA$ at $D$. Then the rectangle on $OA$ and $OD$ has equal content with the square on $OB$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:right-triangle-similarity}
+Let $ABC$ be a right triangle with right angle at $A$. Let $AD$ be the altitude from $A$ to side $BC$. The square on side $AD$ has equal content with the rectangle on $BD$ and $DC$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:divide-triangle}
+Let $ABC$ be a triangle and $D$ a point on side $BC$. Let $E$ be the midpoint of $BC$ and draw the parallel to $AD$ through $E$. Let this new line meet the union of $AB$ and $AC$ at a point $F$. Then the segment $DF$ cuts the triangle into two polygons of equal content.
+\end{conjecture}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Regular Figures, especially the Pentagon}
+
+Read Book IV of the \emph{Elements}. Pay particular attention to propositions 10-12.
+
+\begin{problem}\label{prob:GSP-reg-pentagon}
+Prepare a presentation of Euclid's construction of a regular pentagon.
+\end{problem}
+
+\begin{problem}\label{prob:circle-inscribe-triangle} Given a circle, but not its center, construct an inscribed equilateral triangle in as few steps as possible. (par 7)
+\end{problem}
+
+\begin{problem}\label{prob:square}
+Construct a square in as few steps as possible. (par 9)
+\end{problem}
+
+\begin{problem}\label{prob:side-reg-pent}
+Given a line segment $AB$, construct a regular pentagon having $AB$ as a side. (par 11)
+\end{problem}
+
+\begin{problem}\label{prob:circle-three-tangent-circles}
+Given a circle $\Gamma$ and its center $O$, construct inside $\Gamma$ three equal circles, each one tangent to $\Gamma$ and to the other two. (par 13)
+\end{problem}
+
+\begin{problem}\label{prob:inscribed-circle-content}
+Let $ABC$ be an equilateral triangle inscribed in a circle. Let $D$ and $E$ be the midpoints of two sides, and extend segment $DE$ to meet the circle at $F$ so that $E$ lies between $D$ and $F$. Show that the rectangle on $EF$ and $DF$ has the same content as the square on $DE$.
+\end{problem}
+
+%\begin{problem}\label{prob:paper-pentagon}
+%Take a long, thing piece of paper, tie a simple overhand knot in the paper and fold the knot flat. The flat knot makes a regular pentagon. Explain!
+%\end{problem}
+
+\begin{challenge}\label{chal:hexagon}
+Construct a regular hexagon in as few steps as possible. What should the par value be?
+\end{challenge}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{The Regular Pentagon Rides Again}
+
+
+The next three tasks concern the following construction template for inscribing a regular pentagon in a circle. 
+
+
+
+Given a circle with center $O$,
+\begin{enumerate}
+\item Draw any line through $O$; get $A$ and $B$.
+\item Draw $\odot AB$.\footnote{The notation $\odot A(BC)$ means a circle with center $A$ and radius congruent to segment $BC$.}
+\item Draw $\odot BA$, get $C$ as intersection of last two circles.
+\item Draw line $OC$, get $D$ between $O$, $C$ as intersection with given circle.
+\item Draw $\odot DO$, get $E, F$ as intersections with given circle.
+\item Draw $EF$, get $G$ as intersection with $OC$.
+\item Draw circle $\odot GA$, get point $H$ as intersection with ray $DO$.
+\item Draw circle $\odot A(OH)$, get points $I, J$ as intersections with given circle.
+\item Draw circle $\odot B(IJ)$, get points $K, L$ as intersections with the given circle.
+\item (five steps) Draw segments $BK, KJ, JI, IL, LB$.
+\end{enumerate}
+
+
+\begin{conjecture}\label{conj:pentagon-1}
+Triangle $OAI$ is isosceles and its base angles are twice the angle at $O$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:pentagon-2}
+Triangle $BJI$ is isosceles and its base angles are twice the angle at $B$.
+\end{conjecture}
+
+\begin{conjecture}\label{conj:pentagon-3}
+Show that $BKJIL$ is a regular pentagon.
+\end{conjecture}
+
+
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \backmatter
 
