@@ -1,6 +1,7 @@
 
 \include{JIBLM}
 \usepackage{graphicx}
+\usepackage[usenames]{xcolor}
 \usepackage{url}
 \usepackage{fourier}
 \newtheorem{question}[theorem]{Question}
@@ -554,21 +555,68 @@ We say that some set of points is \emph{collinear} when there exists a line pass
 The best way to approach a new definition is to try to make some examples and some non-examples.}
 \end{definition}
 
+\begin{annotation}
+{\color{blue}
+It is not always the case that my students have had instruction in basic set theory, so I try to stay away from the use of the word ``set'' as a formal thing. My students read the word ``set'' here as the common English word.
+}
+\end{annotation}
 
 \begin{definition}\label{defn:quadrilateral}
 A \emph{quadrilateral} is a figure consisting of four points, no three of which are collinear, in a given order and the four line segments joining points next to each other in the list.
 Usually, we specify only the four points, so quadrilateral $ABCD$ consists of the points $A$, $B$, $C$ and $D$, called \emph{vertices} of the quadrilateral and the line segments $AB$, $BC$, $CD$ and $DA$, called the \emph{sides}.
 \end{definition}
 
+\begin{annotation}
+{\color{blue}
+This definition is much closer to a clear and unambiguous technical definition. But it still has intended flaws. 
+First, note that things are really stated twice, once without notation and then again with notation. 
+In the version with notation, the importance of ordering the points is mentioned, but in the version with notation it is not. 
+This will come up as a point of confusion at some time. 
+In my experience, students will not notice the difference between the set of four points $\{A, B, C, D\}$ and the ordered sequence of four points $ABCD$ initially, but will later. 
+When it happens, I use that as an opportunity for the students to clarify what they want and then state their own improved version with notation. 
+This gives them some ownership of the mathematics.
+
+Second, this definition allows for non-convex and even non-simple quadrilaterals. This is intentional. Having a more open definition simplifies some things and complicates others, and foreshadows the conversations about getting definitions sorted out that happens when we discuss the term ``polygon.''
+}
+\end{annotation}
+
+
 \begin{definition}\label{defn:rhombus}
 A \emph{rhombus} is a quadrilateral having all four sides mutually congruent.
 \end{definition}
+
+\begin{annotation}
+{
+\color{blue}
+These first three are required to get through the first day of class! 
+}
+\end{annotation}
 
 \begin{conjecture}\label{conj:rhombus-angles}
 Let $ABCD$ be a rhombus. Then angle $ABC$ is congruent to angle $ADC$. Similarly, angle $BAC$ is congruent to angle $BDC$.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This conjecture is the object of the first day.
+Note that the conjecture has two conclusions.
+The first is true, but the second is false.
+This is for two reasons:
+(1) the figure relevant to the false statement encourages students to draw in the diagonal needed to find a simple proof of the first statement; and
+(2) the point should be made early that not all conjectures in this course will be true.
+Skepticism is important.
 
+It is important that this theorem gets some sort of argument so that the process of presentation and discussion can be modeled before the students leave the first meeting.
+
+Since this item is attempted during class on the first day, the resulting proof often lacks rigor in some key way. The most common way is that students do not quote triangle congruence theorems from Euclid properly, since they have not, yet, started to read it. This is easy enough for students to correct when they try to write the argument down with a copy of \emph{The Elements} at hand. 
+
+Another common way is that students will draw both diagonals of the rhombus and give a proof that assumes these two diagonals meet. Of course, they do, but this will be unjustified, or justified by pointing to the diagram. 
+This is a subtle error. If my students are making it and no 
+one notices, I encourage them to introduce names for things and write up parts of their argument using those names.
+That often helps students to see that a new point has been used without its existence being asserted. If students do not notice after that, I will take the otherwise unusual step of pointing it out. In any case, I help the students repair their work by adding a hypothesis to their theorem. It is important that the first class meeting has a theorem.
+}
+\end{annotation}
 
 It is possible your proof uses something about rhombi that is just plain obvious from a picture.\footnote{Each and every step must be justified by something we have already agreed is true.}
 But ``obvious from the picture'' is exactly the sort of thing we are trying to avoid when writing an axiomatic argument.
@@ -583,7 +631,24 @@ Let $ABCD$ be a quadrilateral. The \emph{diagonals} of $ABCD$ are the segments $
 The diagonals of a rhombus must cross.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This item is very challenging.
+Be careful not to let a weak student spin on it alone for too long, as it can become a trap that destroys their confidence.
+Such a student should be encourage to work on other problems in parallel.
 
+There are two natural arguments students make for this conjecture.
+The first involves picking out a midpoint from one diagonal and proving that it lies on the other diagonal with the help of I.14.
+This requires some creativity, and it doesn't always happen.
+
+The second is a proof by contradiction that quickly splits up into many cases.
+The second proof seems to be more common for my students, but they need help getting things organized.
+This second proof also requires students to wrangle with the ideas behind ``the same side'' and ``opposite sides'' of a line.
+If this is the route your class elects, don't be surprised if this problem is not solved until midterm time.
+Setting up these missing terms from Euclid and proving a few very basic properties takes time and effort. But this kind of work, sorting out technical definitions for visually intuitive terms, is a big part of the work in these notes. This is just one of the concepts that Euclid does not give a satisfactory treatment, and the discomfort students feel about this is a good motivator for the importance of a clear and usable mathematical definition.
+}
+\end{annotation}
 
 Do not worry if your argument for Conjecture \ref{conj:rhombus-angles} did not use Conjecture \ref{conj:rhombus-diagonals}, as there is more than one way to approach Conjecture \ref{conj:rhombus-angles}.
 In fact, there is a lot of value in having multiple arguments, as each variant might shed light on some different aspect of the question.
@@ -592,6 +657,19 @@ In fact, there is a lot of value in having multiple arguments, as each variant m
 If your argument for Conjecture \ref{conj:rhombus-angles} did not use Conjecture \ref{conj:rhombus-diagonals}, find a new argument that does.
 Conversely, if your argument did use Conjecture \ref{conj:rhombus-diagonals}, find an argument that does not.
 \end{challenge}
+
+\begin{annotation}
+{
+\color{blue}
+This is not strictly necessary, of course. 
+Many semesters my students just ignore this item, but
+it is included to make the point that many facts have more than one proof.
+This encourages students to look for different avenues, or possibly to present a second proof of a result that a classmate has hit first.
+I also use this as an opportunity to discuss the process of making extra hypotheses when stuck.
+
+Note that the introductory paragraph in the student notes is phrased the way it is because I hand out the whole first section of tasks at the end of the first meeting, during which the students find a partial resolution to Conjecture \ref{conj:rhombus-angles}. If you use these notes differently, you will want to adjust this.
+}
+\end{annotation}
 
 
 We have been talking about rhombi, but how are we sure that they even exist?
@@ -607,10 +685,30 @@ Given a segment $AB$, find a compass and straightedge construction of a rhombus 
 Enumerate your steps and give a proof that the construction works.\footnote{A \emph{step} only counts if you draw something, like a segment or an arc of a circle.}
 \end{challenge}
 
+\begin{annotation}
+{
+\color{blue}
+This is a straightforward construction task. When some variant of this has been presented successfully, I take control of class for a bit to lead several related conversations: 
+(1) I discuss the change in tone from ancient Greek mathematics (if you can't construct it, it doesn't exist) to the modern constructive existence proof.
+(2) I re-iterate what it means to enumerate steps (only things drawn with a compass or straightedge count), and how the presentation should have both a recipe for construction and a proof that this construction works.
+(3) I lead a conjecture-making brainstorming session focused on the next task. 
+This can all be accomplished in ten to fifteen minutes if done efficiently, but it is okay to allow more time for the important task of conjecture-making.
+}
+\end{annotation}
+
 \begin{question}\label{prob:rhombus-flexible}
 How flexible or rigid is the construction solving the last problem?
 Can one use the construction to create many non-congruent rhombi, or are there only a few options?
 \end{question}
+
+\begin{annotation}
+{
+\color{blue}
+It is often the case that the first solution a class finds for Challenge \ref{prob:rhombus-construct} is just a special case.
+This encourages a discussion which can lead to the general construction of the whole family of rhombi having a given side.
+If students are encouraged, they will often ask good mathematical questions about the results here, and generate lots of official questions and conjectures for the class list. I have included this item in the official task list (rather than just waiting to bring it up in class) to make the point to students that they should start considering this kind of question. Having it here on the list also makes the class conversation after Challenge \ref{prob:rhombus-construct} more fruitful. I do not allow presentations for this item until the meeting after Challenge \ref{prob:rhombus-construct} has been presented successfully.
+}
+\end{annotation}
 
 Sometimes, a proof really has more information in it than you think.
 Then we can get a \emph{corollary} by digging a little deeper into the understanding we have gained.
@@ -620,11 +718,27 @@ Can you use these hints to make headway on the next few problems?
 If $ABCD$ is a rhombus, then $ABCD$ is a parallelogram.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+Students very often come to class believing this is a property of rhombi, and they want to use it on the first day.
+They get disappointed when it is pointed out this property is not part of the definition, so it is unavailable.
+This conjecture lets them shore up their belief in the statement.
+}
+\end{annotation}
+
 
 \begin{conjecture}\label{conj:rhombus-diagonals-angle}
 Let $ABCD$ be a rhombus. Suppose that the diagonals $AC$ and $BD$ meet at a point $X$.
 The angle $AXB$ is a right angle.
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+This result often gets proved very quickly, as it is a simple triangle congruence argument. I always stop things for a short discussion about how making an extra hypothesis can keep us from being stuck: we get to claim progress and we focus attention on what remains to be considered. I encourage them to work this way.
+}
+\end{annotation}
 
 Note that we added the hypothesis that the diagonals cross.
 This is because we recognize that Conjecture \ref{conj:rhombus-diagonals} may not be a theorem by the time we have an argument for Conjecture \ref{conj:rhombus-diagonals-angle}.
