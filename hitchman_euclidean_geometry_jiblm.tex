@@ -1307,6 +1307,13 @@ here with ``if and only if'' language, but we also could have said ``for angle $
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{The Center of a Triangle}
 
+\begin{annotation}
+{
+\color{blue}
+At this point, the tasks pivot a little. Fewer tasks are used as set-up to get the students conjecturing and making definitions. Usually, there are many student-devised conjectures and questions still to answer, and it is easy enough to allow the students time and space to sort those out. There are still a couple of obviously and deliberately open-ended items, but now the students have taken ownership of the material and the process and it is more appropriate to just ask them questions and see what they do with them.
+}
+\end{annotation}
+
 What might be called the center of a triangle? There have been many proposed answers to this question over the centuries. In this assignment, we study two of them.
 
 \begin{conjecture}\label{conj:angle-bisectors-concurrent}
@@ -1322,6 +1329,16 @@ Three segments (or lines or rays) are called \emph{concurrent} if they all pass 
 The three angle bisectors of a triangle are concurrent.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+There are two subtle points here to discuss with the students. Following on from Conjecture \ref{conj:angle-bisectors-concurrent}, Conjecture \ref{conj:incenter-concurrent} feels like a quick corollary. But this relies on
+the fact that two angle bisectors must actually meet so that we are in a situation to apply Conjecture \ref{conj:angle-bisectors-concurrent}. I prefer that the students notice it, of course, but I always make sure we discuss it and set an extra class-made task if the students have not included this step in their work. Also, the typical proof uses the idea that segment $IC$ has the property of an angle bisector at $C$, so it must be (part of) the angle bisector. That requires that the angle bisector of a given angle is \emph{unique}. Depending on time constraints, I might set this as a task for the students to prove, or I might just discuss it with them and sketch a proof briefly.
+
+In either case, I always stop to point out the special nature of the configure and how we get an inscribed triangle whose center is a special point.
+}
+\end{annotation}
+
 \begin{definition}\label{defn:incenter}
 The point just discovered is called the \emph{incenter} of the triangle.
 \end{definition}
@@ -1330,19 +1347,51 @@ The point just discovered is called the \emph{incenter} of the triangle.
 Let $T$ be a triangle. For any pair of sides of $T$, the perpendicular bisectors of those sides meet. (That is, they are not parallel.)
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+The typical argument here uses a proof by contradiction and the fifth postulate. It is a bit tricky to line everything up, so make the students go slowly.
+}
+\end{annotation}
+
 \begin{conjecture}\label{conj:circumcenter}
 The three perpendicular bisectors of any triangle are concurrent.
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+Again, the expected argument relies upon a uniqueness claim in a subtle way.
+}
+\end{annotation}
 
 \begin{definition}\label{defn:circumcenter}
 The point where the three perpendicular bisectors of a triangle meet is called the \emph{circumcenter} of the triangle.
 \end{definition}
 
+\begin{annotation}
+{
+\color{blue}
+Again, I pause to discuss how this shows a triangle has a circumscribed circle whose center is at an interesting point.
+
+I often to ask students if they explored examples. It can be nice to use GeoGebra to see that the notions of a triangle being acute, right, or obtuse correspond to the location of the circumcenter relative to the triangle. If need be, I will open GeoGebra and make a quick demonstration.
+
+
+If the mood strikes me, I might also point the students toward a web search for ``Triangle Center'' so that they may see the page at the url \url{http://faculty.evansville.edu/ck6/tcenters/}.
+}
+\end{annotation}
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Circles}
+
+\begin{annotation}
+{
+\color{blue}
+It is finally time to have the students read more of Euclid, now in Book III. I ask them to read the parts that do not use any theory of area.
+}
+\end{annotation}
 
 We have learned quite a bit about basic polygonal shapes, especially triangles, and various species of quadrilaterals. Now we turn our attention to circles. This is the subject of Book III in Euclid's \emph{Elements}. We already have one beautiful theorem about circles, that of Thales, but we'd like to have more.
 
@@ -1356,6 +1405,13 @@ For the following propositions you should work in the axiomatic style of Euclid 
 Let $AB$ and $AC$ be two tangent lines from a point $A$ outside a circle. Then $AB$ is congruent to $AC$.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This is a simple consequence of the hypotenuse-leg theorem (Conjecture \ref{conj:RASS}). I reserve it for students who need a presentation.
+}
+\end{annotation}
+
 \begin{definition}\label{defn:circles-perp}
 We say that two circles \emph{meet at right angles} if the radii of the two circles to a point of intersection make a right angle.
 \end{definition}
@@ -1364,6 +1420,12 @@ We say that two circles \emph{meet at right angles} if the radii of the two circ
 Let $\Gamma$ and $\Omega$ be two circles with centers $G$ and $O$, respectively. Suppose that these circles meet at two points $A$ and $B$. If $GAO$ is a right angle, then $GBO$ is a right angle.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+Again, this is a simple triangle congruence argument that I reserve for students who need a success. Depending on the time constraints of the semester, I may challenge the students to come up with a definition for the angle between two circles in general.
+}
+\end{annotation}
 
 \begin{definition}\label{defn:cyclic-quad}
 A quadrilateral $ABCD$ is said to be a \emph{cyclic quadrilateral} if there is a circle $\Gamma$ such that the four vertices $A,B,C$ and $D$ lie on $\Gamma$.
@@ -1373,19 +1435,46 @@ A quadrilateral $ABCD$ is said to be a \emph{cyclic quadrilateral} if there is a
 A rectangle is always a cyclic quadrilateral.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+Depending on how well the students handled the material on rectangles this might be easy. If so, it is a good item for a student in need of a success.
+}
+\end{annotation}
+
 \begin{conjecture}[Cyclic Quadrilateral Theorem]\label{conj:angles-cyclic-quad}
 Let $A,B,C$ and $D$ be four points. The quadrilateral $ABCD$ is cyclic if and only if angle $DAC$ is congruent to $DBC$.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This bi-conditional statement often gets proved in pieces, with different parts being proved by different students, since it naturally involves two theorems. If the students have continued on with my rather generous definition of polygon, this is false as stated. A non-simple cyclic quadrilateral has slightly different behavior. But that is interesting, too. I urge the students to set their own questions and conjectures and we add them to the class list.
+}
+\end{annotation}
 
 \begin{conjecture}\label{conj:tangent-to-two-circles}
 Let two circles be tangent at a point $A$. If two lines are drawn through $A$ meeting one circle at further points $B$ and $C$ and meeting the other circle at points $D$ and $E$, then $BC$ is parallel to $DE$.
 \end{conjecture}
 
-
+\begin{annotation}
+{
+\color{blue}
+This is an application of Euclid III.32. If the students do not find III.32, this might take a while to resolve.
+}
+\end{annotation}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Circles, Coming 'Round Again}
+
+\begin{annotation}
+{
+\color{blue}
+This entire section consists of more challenging results about circles that may be omitted if you are running out of time and want to get to other material. In an ideal situation, one can encourage students who need more challenging material to work on these while their classmates
+work on the last section.
+}
+\end{annotation}
+
 One of the most useful results about circles is Proposition III.20 which relates an \emph{inscribed} angle in a circle to a \emph{central} angle in that circle.
 Let us try to see what happens when the angle does not sit on the circumference of the circle.
 
@@ -1394,10 +1483,23 @@ Let $\Gamma$ be a circle with center $O$. Let $X$ be a point in the interior of 
 Then twice angle $AXB$ is congruent to angle $AOB$ and angle $A'OB'$ taken together.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This is not truly hard, but it is challenging simply for the large number of things one must keep track of. The figures get messy and it takes patience and calm to get through.
+}
+\end{annotation}
+
 \begin{question}
 Consider the situation from the last conjecture, but instead assume that $X$ lies outside $\Gamma$. What happens here? Formulate a conjecture.
 \end{question}
 
+\begin{annotation}
+{
+\color{blue}
+This can be investigated with GeoGebra to discover the truth of the matter. After that, the argument is not much harder than the last item.
+}
+\end{annotation}
 
 \begin{conjecture}
 If two chords of a circle subtend different acute angles at points of a circle, then the smaller angle belongs to the shorter chord.
@@ -1410,6 +1512,13 @@ If a triangle has two different angles, then the smaller angle has the longer an
 \begin{conjecture}[Steiner-Lehmus]
 If a triangle has two angle bisectors which are congruent (measured from the vertex to the opposite side), then the triangle is isosceles.
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+These three items together outline an approach to the very challenging Steiner-Lehmus theorem. The hardest step remaining now is to figure out where to draw the circle.
+}
+\end{annotation}
 
 \begin{conjecture}
 Let $BC$ be a chord of circle $\mathcal{C}$, let $\widearc{BC}$ be the arc of $\mathcal{C}$ which is bounded by $B$ and $C$ and does not contain the center of $\mathcal{C}$.
