@@ -858,6 +858,14 @@ There is a potential danger here: it would be a bad situation to have a week's w
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{The Geometry of Rectangles}\label{section:rectangles}
 
+\begin{annotation}
+{
+\color{blue}
+The most challenging aspect of this section for students is that they remember facts about rectangles, but often they are not sure which parts are part of the definition and which parts are theorems. We open with the definition as a reminder.
+}
+\end{annotation}
+
+
 Rectangles are probably familiar to you, but to be clear we give a precise definition.
 \begin{definition}\label{defn:rectangle}
 A \emph{rectangle} is a quadrilateral which has all four interior angles that are right angles.
@@ -870,13 +878,38 @@ But that doesn't mean that the sides have no special properties---it is just tha
 Let $R$ be a rectangle. Then $R$ is a parallelogram.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This item and the next are straightforward items, but they are the first times that students will be required to use results about parallel lines and right angles. A discussion of the parallel postulate might come up.
+
+In any case, it is important to get the students to focus on using the definition as written, not as they vaguely recall.
+}
+\end{annotation}
+
 \begin{conjecture}\label{conj:rectangle-opp-sides}
 Let $R$ be a rectangle. Then each pair of opposite sides of $R$ is a pair of congruent segments.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This item can be derived as a simple consequence of the last and Euclid I.34. Students often just give their own proof independent of I.34.
+
+I have had classes prove that this item is a consequence of the last item, and then also prove that the last item is a consequence of this one. It is then important to have a conversation about equivalent statements, and how we don't really know either of them, yet.
+}
+\end{annotation}
+
 \begin{conjecture}\label{conj:rectangle-diagonals}
 The two diagonals of a rectangle are congruent and bisect each other.
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+Beware! Students often just assume that the diagonals of a rectangle meet. If it seems to be sliding by the class, I will ask, "How do you know that point exists?" That will catch the presenter by surprise, so I often help them to modify their result by adding a hypothesis, and then we add an item to the student generated task sequence. Be sure to point out the similarity to Conjecture \ref{conj:rhombus-diagonals}, though students will usually already see that.
+}
+\end{annotation}
 
 
 These conjectures describe some qualities that are common to all rectangles. Mathematicians say that these are \emph{necessary conditions} for having a rectangle.
@@ -894,10 +927,27 @@ Let $ABCD$ be a quadrilateral such that angles $\angle ABC$ and $\angle ADC$ are
 If segments $AB$ and $CD$ are congruent, then $ABCD$ is a rectangle.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This is incorrect, but in a sneaky way. As my definition of polygon allows for non-simple figures, it is possible to construct a counter example. Simply reflect half of a rectangle in one of its diagonals. Alternately, construct a non-isosceles right triangle and then reflect the legs in the perpendicular bisector of the hypotenuse.
+
+Students often ``prove'' this result as written and get it past the class. When this happens, I try to find a way to make them realize it (without telling them) by asking pointed questions about how the assumptions in this item and the next one are different. 
+It is also possible to address this when Thales' theorem in Chapter \ref{section:triangles} is proved.
+}
+\end{annotation}
+
 \begin{conjecture}\label{conj:opp-parallel-implies-rectangle}
 Let $ABCD$ be a quadrilateral such that angles $\angle ABC$ and $\angle ADC$ are right angles.
 If segments $AB$ and $CD$ are parallel, then $ABCD$ is a rectangle.
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+This can trip students up as they try to give a proof by contradiction and use the parallel postulate at the same time. It helps to ask the students to work through the logic on this one extra slowly.
+}
+\end{annotation}
 
 Notice the importance that pairs of parallel lines play in these statements.
 
@@ -906,13 +956,26 @@ Notice the importance that pairs of parallel lines play in these statements.
 \begin{conjecture}[Midline Theorem] \label{conj:midline-theorem}
 Let $ABC$ be a triangle, $D$ the midpoint of $AB$ and $E$ the midpoint of $AC$.
 Then the line through $E$ and $D$, called a \emph{midline}, is parallel to the line through $B$ and $C$.\footnote{These results don't \emph{look} to be about rectangles.}
-
 \end{conjecture}
+
+\begin{annotation}
+{
+\color{blue}
+This is challenging. Don't let a struggling student spin on it too long without help. This is sometimes called \emph{the midline theorem}. Students are sometimes tempted to use similar triangles to prove this result. This urge is natural, because generalizing the midline theorem to other values of the ratio $AD:AB$ is a way to build a theory of similar triangles.
+}
+\end{annotation}
+
 
 \begin{conjecture}[Varignon's Theorem]\label{conj:Varignon}
 Let $ABCD$ be a quadrilateral. The midpoints of the four sides are the vertices of a parallelogram.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This pretty result is a simple corollary of the last item, if you draw diagonals of ABCD. Again, this can be an opportunity to show students that non-convex and non-simple figures exist. I usually ask students if they looked at this using GeoGebra, and then open up a GeoGebra sheet to show them how this looks when the input quadrilateral is dragged around. Students who have not considered it might ask "Does that count?" when they see those figures show up on the screen. This is an opportunity to start or continue the conversation.
+}
+\end{annotation}
 
 
 
@@ -1038,7 +1101,7 @@ Find experimental evidence for the number of regular pentagons with a given side
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Deeper Into Triangles}
+\chapter{Deeper Into Triangles}\label{section:triangles}
 
 So far, our most useful tools have been facts about triangles. Euclid makes a pretty thorough study of triangles, but he doesn't cover everything he could. 
 Here we shall plug  gaps in Book I with some very useful understanding.
