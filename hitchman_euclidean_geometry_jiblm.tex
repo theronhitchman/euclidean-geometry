@@ -1,10 +1,17 @@
-
 \include{JIBLM}
+
+%% Extra Packages
 \usepackage{graphicx}
 \usepackage[usenames]{xcolor}
 \usepackage{url}
 \usepackage{fourier}
 \usepackage{pdfpages}
+\usepackage[style=numeric]{biblatex}
+
+%% Bibliography set-up
+\addbibresource{hitchman.bib}
+
+%% Extra Theorem-like environments
 \newtheorem{question}[theorem]{Question}
 \newtheorem{challenge}[theorem]{Challenge}
 \newtheorem*{postulate}{Postulate}
@@ -49,7 +56,8 @@ I have used these notes with classes ranging in size from six students to twenty
 
 The majority of students who enroll in this course are in a Mathematics (Secondary Teaching) major program. Usually, they are sophomores or juniors, and are still novices at finding and writing their own proofs. UNI has recently instituted a ``bridge course'' focused on proof writing, but this is not a pre-requisite for Euclidean Geometry, so previous experience is mixed. There are often transfer students who take both courses in their first semester at UNI. Most students recall that they once took a course labelled ``geometry'' in high school, but do not have much (any?) content knowledge remaining. Only occasionally do I see a student who has internalized the exploratory spirit of mathematical work before enrolling in the course.
 
-Though the students do not really know even the most basic geometry, I do not wish to insult them by telling them so. Nor do I wish to get bogged down in building planar geometry from a modern conception of a good axiomatic system like Hilbert's\cite{Hilbert}. I do want to give them a sense of history, and to get to at least a few really beautiful theorems. To meet all of these goals at once, I use Euclid's \emph{The Elements}\cite{Euclid} as a text book. I have the students read the first four books, which gets through material on congruence of triangles and polygons, constructions (especially of regular figures), properties of circles, and area. We must stop short of discussing similarity of figures.
+Though the students do not really know even the most basic geometry, I do not wish to insult them by telling them so. Nor do I wish to get bogged down in building planar geometry from a modern conception of a good axiomatic system like Hilbert's \cite{Hilbert}. I do want to give them a sense of history, and to get to at least a few really beautiful theorems. To meet all of these goals at once, I use Euclid's \emph{The Elements}
+\cite{Euclid} as a text book. I have the students read the first four books, which gets through material on congruence of triangles and polygons, constructions (especially of regular figures), properties of circles, and area. We must stop short of discussing similarity of figures.
 
 The main goal of the course is to get the students working the same way that mathematicians do. This includes the process of finding, presenting, and writing rigorous arguments, but goes further. It is important to me that the students also work at other mathematical sense-making tasks: making definitions of unclear concepts, exploring examples, formulating conjectures and questions in precise mathematical language, and critiquing the work of others both for correctness and for clarity. 
 
@@ -66,11 +74,11 @@ These tasks are also structured to provide some intellectual scaffolding for the
 The guiding principle of the course is to mentor the students through the process of working like mathematicians do when making sense of things. I think of the students as a little community of new mathematicians, isolated from the rest of the world but with an accepted set of reference literature (\emph{The Elements}) as their foundation. As instructor, I play the role of senior scholar, trying to get the most out of each student however I can. I explain this metaphor to my students, and note that each of the pieces of a mathematician's professional work has a part in our analogy. Presenting in class is like speaking at a conference. Writing for the class journal (see below) is just like getting published.
 
 This set of tasks owes a great deal to the work of others. These are the debts that I can recall, though there are probably many others collected over the last decade.
-My introduction to inquiry-based learning, and specifically the Moore Method, was in a workshop run by G. Edgar Parker. That workshop was originally designed by Stan Yoshinobu, who I met later. I am heavily indebted to Timothy McNichol for his paper \emph{The Extreme Moore Method}\cite{mcnichol}, which I read right after that workshop. Later, I read the book \emph{The Moore Method}\cite{cmmp}, and I attended a workshop run by Carol Schumacher and Michael Starbird. Through the Academy of Inquiry-Based Learning I got mentoring from T. Kyle Petersen and Gary Richter. I also learned some things about how to construct a set of tasks by reading the text
-\emph{Number Theory Through Inquiry}\cite{nothy} by David Marshall, E.~W.~Odell and Michael Starbird.
+My introduction to inquiry-based learning, and specifically the Moore Method, was in a workshop run by G. Edgar Parker. That workshop was originally designed by Stan Yoshinobu, who I met later. I am heavily indebted to Timothy McNicholl for his paper \emph{The Extreme Moore Method} \cite{mcnicholl}, which I read right after that workshop. Later, I read the book \emph{The Moore Method} \cite{cmmp}, and I attended a workshop run by Carol Schumacher and Michael Starbird. Through the Academy of Inquiry-Based Learning I got mentoring from T. Kyle Petersen and Gary Richter. I also learned some things about how to construct a set of tasks by reading the text
+\emph{Number Theory Through Inquiry} \cite{nothy} by David Marshall, E.~W.~Odell and Michael Starbird.
 All of these people have influenced my teaching and the construction of this task sequence. I also recognize a debt owed to The Educational Advancement Foundation, which supported travel and participation in those workshops and several conferences.
 
-Finally, this set of notes started by appropriating the exercises at the end of chapter one in Robin Hartshorne's lovely book \emph{Geometry: Euclid and Beyond}\cite{hartshorne}. A reader familiar with that book can probably see it hiding in the bones of this task sequence, though the book simultaneously does rather more (in terms of material) and rather less (in terms of training students to do open-ended inquiry).
+Finally, this set of notes started by appropriating the exercises at the end of chapter one in Robin Hartshorne's lovely book \emph{Geometry: Euclid and Beyond} \cite{hartshorne}. A reader familiar with that book can probably see it hiding in the bones of this task sequence, though the book simultaneously does rather more (in terms of material) and rather less (in terms of training students to do open-ended inquiry).
 
 
 \section*{The First Class Meeting}
@@ -1549,7 +1557,7 @@ When I make this section available, I discuss the rules of the ``construction ch
 
 I also explain to the students that Euclid has many of these constructions. (They know, they have already read them.) But we are up to a slightly different task. Euclid arranges his work to optimize the logical presentation. We will instead try to minimize the number of pencil strokes required, which might complicate the proofs.
 
-These are largely taken from the excellent Hartshorne \cite{Hartshorne}.
+These are largely taken from the excellent Hartshorne \cite{hartshorne}.
 }
 \end{annotation}
 
@@ -2013,6 +2021,7 @@ Note that in the exams, the tasks in this set of notes are referred to with a sl
 \includepdf[pages=-]{the-standards.pdf}
 
 
+\printbibliography
 
 \end{annotation}
 
