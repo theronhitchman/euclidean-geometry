@@ -982,6 +982,14 @@ This pretty result is a simple corollary of the last item, if you draw diagonals
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Developing an Attitude of Skepticism}
 
+\begin{annotation}
+{
+\color{blue}
+The items in this short section sometimes don't get addressed completely. I find it acceptable to let them sit for a long time, because their mere existence is enough to make the point 
+that students should not trust Euclid any more than they trust a classmate.
+}
+\end{annotation}
+
 I hope you have taken the time to look over the example paper by Professor Ball.
 One of our goals this semester is to develop a mathematician's healthy skepticism.
 This can be a bit unsettling at first, but the basic idea is like a tee-shirt quotation: ``Question Authority."
@@ -993,6 +1001,13 @@ Recall that you can find it on the course web site under the "Class Journal" tab
 Pinpoint his error and present it to the class.\footnote{Prof. Ball uses a result he calls the hypotenuse-leg theorem, which states that if two right triangles have two pairs of corresponding sides congruent, and one of the pairs is the hypotenuses, then the triangles are congruent. For now, we grant that this theorem is true, and is not the source of Prof. Ball's error. We'll come back to address this theorem later when we study triangles in detail.}
 \end{problem}
 
+\begin{annotation}
+{
+\color{blue}
+I post a copy of this nicely disguised fallacy on the my course web site as an example paper before the term begins. When students ask how to write their papers, I point to this as a simple guide for basic style. It is always my hope that some student reads this provocative argument and immediately objects. But I find that I have to explicitly ask my students to take up the task.
+}
+\end{annotation}
+
 Let's pretend that we overheard a tea-time conversation where a famous mathematician said, ``Sure Euclid's proof of I.7 is bad, but I can fix that.
 It's proposition I.4 I'm worried about!"
 
@@ -1000,9 +1015,23 @@ It's proposition I.4 I'm worried about!"
 Figure out what is wrong with Euclid's Proposition I.7 and fix it.
 \end{problem}
 
+\begin{annotation}
+{
+\color{blue}
+The trouble with Euclid I.7 is that only one case of many is considered. One can sort out which cases are missing and give each of them a similar short argument to settle the matter. The concept Euclid glides over is again a kind of ``betweenness,'' where points lie on either the same side or opposite sides of a line, just like Conjecture \ref{conj:rhombus-diagonals}. If it has not, yet, come up, this is an opportunity to set the students a class-made challenge about making good definitions for those concepts. 
+}
+\end{annotation}
+
 \begin{problem}\label{prob:fix-I.4}
 Figure out what the problem is with Euclid's Proposition I.4.
 \end{problem}
+
+\begin{annotation}
+{
+\color{blue}
+This is the infamous ``Pons Asinorum.'' The trouble here is the use of superposition, and the lack of axiomatic support for that. I always lead a short clarifying discussion here about how this early proposition violates the spirit of the axiomatic method, and how modern writers often include I.4 as a postulate rather than as a theorem. (This applies to Hilbert's system, for example.)
+}
+\end{annotation}
 
 So far, I have strongly hinted that the arguments for Propositions I.1, I.4 and I.7 are each imperfect in some way.
 Unfortunately, they are not alone.
@@ -1027,7 +1056,24 @@ Let $n$ be a natural number. An \emph{$n$-gon} is a figure consisting of $n$ poi
 A \emph{polygon} is an $n$-gon where $n$ has not been specified.\footnote{Note: Commonly used terminology includes the following: 3-gon = triangle, 4-gon = quadrilateral, 5-gon = pentagon, 6-gon = hexagon.}
 \end{definition}
 
+\begin{annotation}
+{
+\color{blue}
+This definition is very open, and intentionally so. In fact, it introduces a conflict with the notion of a quadrilateral from earlier in the notes, in that a $4$-gon can have three collinear vertices. And there is still the problem of non-convex and non-simple figures. My students quickly become dissatisfied with the state of affairs and we end up having class conversations about what they believe to be a polygon and what they do not. I choose students to lead these conversations, and intentionally stay out of the way. This can take several days. I am careful to direct traffic by having the students pass the chalk around as the conversation moves, and I will jump up at some point and ask the students to make as many crazy examples as they can think of to show why the stated definition is not a good one. From this conversation should come several class-made conjectures and questions, now that we are really at the heart of the matter. Students will arrive at concepts like the following quite naturally:\begin{itemize}
+\item What do we mean by a ``convex'' polygon?
+\item What do we mean by a ``simple'' polygon?
+\item What does it mean for two points to ``lie on one side'' of a
+given line?
+\item What does it mean for two points to ``lie on opposite sides'' of a given line?
+\item What is a serviceable definition of the word polygon?
+\item What does it mean to say that a point lies ``inside'' a given polygon?
+\item What does it mean to say that a point lies on the ``inside'' of a given angle?
+\end{itemize}
+Be warned that this conversation could take several meetings. I ask the students to continue working on open problems while we are doing this, and I often give them a small challenge to prep for the next meeting to be sure the conversation continues. For example, ``Look at examples and decide for yourself if it is important to require that vertices of a polygon should be non-collinear. Be prepared to argue for your position and take a class vote next time.''
 
+I allow the students to rewrite any of the definitions as long as they agree to it as a class, and then they have to abide by the consequences. At some point in this long conversation it will come up that students think I am withholding the ``correct'' definition from them. I take that opportunity to tell them that mathematics is a cooperative enterprise and our definitions are those that working mathematicians generally agree are the best for doing their job, and that has to be sorted out through conversation. 
+}
+\end{annotation}
 
 \begin{problem}\label{prob:exterior-angle}
 Suppose that $A,B,C$ are three consecutive vertices of a polygon. 
@@ -1037,13 +1083,25 @@ In principle, this could be a problem.
 Describe the problem, then state and prove a theorem that resolves the issue.
 \end{problem}
 
-
-
+\begin{annotation}
+{
+\color{blue}
+This is intended to be an easy exercise to keep struggling students in the game. You might introduce the term ``vertical angles'' if the students do not do so on their own. Note that with the very generous definition of polygon above, the exterior angle of a non-convex figure could well point towards the inside. My students 
+find this unsatisfactory and it helps spur them into making their own definitions.
+}
+\end{annotation}
 
 \begin{conjecture}\label{conj:ext-angles-pentagon}
 The exterior angles of a pentagon, one choice made at each vertex, add up to four right angles.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This is true for convex pentagons, but false in general. Some semesters students will investigate enough with GeoGebra to 
+prove interesting theorems about non-convex and non-simple figures. In any case, I always manage to get questions about those as class-made questions.
+}
+\end{annotation}
 
 \begin{question}\label{question-induction}
 What is the sum of the exterior angles of a hexagon? 
@@ -1051,10 +1109,24 @@ What about a general $n$-gon?
 Can you find a way to build on our understanding from small values of $n$, to general values of $n$?
 \end{question}
 
+\begin{annotation}
+{
+\color{blue}
+This is the one opportunity to build up an inductive argument, if you are so inclined. Students will discover that a general polygon can be dissected into triangles, but probably will take that for granted. This is an opportunity to help students alter their hypothesis and make a meaty conjecture. 
+}
+\end{annotation}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Regular Figures, A Warm-up}
+
+\begin{annotation}
+{
+\color{blue}
+This section begins with some straightforward items. I reserve 
+these for students who have not has as much success. I privately encourage students who are doing well in class to spend their energies on the rather more challenging class-made conjectures from the last section, and I privately encourage those who need a lift to spend a little more time on these tasks. 
+}
+\end{annotation}
 
 A great part of the allure of geometry is figures with symmetry. Inspired by this, let us study some polygons that have a lot of symmetry.
 
@@ -1079,10 +1151,24 @@ A regular quadrilateral is called a \emph{square}.
 Does Conjecture \ref{conj:regular-rhombus} hold if we replace ``angle $B$'' by ``angle $C$''? State a result and prove it.
 \end{problem}
 
+\begin{annotation}
+{
+\color{blue}
+The answer is ``No.'' This is an opportunity to reinforce how to write about counterexamples. 
+}
+\end{annotation}
+
 \begin{conjecture}\label{conj:equilateral-pentagon}
 Let $ABCDE$ be an equilateral pentagon. If angle $A$ is congruent to angle $B$, then $ABCDE$ is regular.
 \end{conjecture}
 
+\begin{annotation}
+{
+\color{blue}
+This is false. When the class has progressed through these four items, I stop to point out how this is an example of 
+systematic investigation of simple examples, structured in a natural way. This could be continued of course, but already pentagons show things are a bit more difficult. It is an opportunity to ask students to make some more conjectures of the same type as the above results. Sometimes my students state and prove theorems about equilateral pentagons with three angles congruent. 
+}
+\end{annotation}
 
 
 \begin{conjecture}\label{conj:regular-pentagon-central-triangle}
@@ -1093,11 +1179,23 @@ Let $ABCDE$ be a regular pentagon. The triangle $ACD$ is isosceles.
 Let $ABCDE$ be a regular pentagon. State the relationship between the angles $CAD$ and $ACD$ that shows how special the triangle is. Prove your observation.
 \end{problem}
 
+\begin{annotation}
+{
+\color{blue}
+This is the challenging task in this chapter. The hardest part for my students is avoiding the use of measuring angles in degrees and instead stating their result as one about ratios of angles in the triangle $ACD$. (Angle $ACD$ is twice angle $CAD$.) Often, we find middle ground by getting a statement where angles are described as having some ratio to a right angle. (Angle $ACD$ is four fifths of a right angle.)
+}
+\end{annotation}
+
 \begin{problem}\label{prob:reg-pentagon-types}
-Find experimental evidence for the number of regular pentagons with a given side. (Try using five toothpicks!)\\[.1in]
+Find experimental evidence for the number of regular pentagons with a given side. (Try using five toothpicks!)
 \end{problem}
 
-
+\begin{annotation}
+{
+\color{blue}
+The results of this will depend upon what the class accepts as the definition of the word polygon. If they require polygons to have no self-intersections, there should be only the one. If they allow non-simple polygons then there will also be the five-pointed star.
+}
+\end{annotation}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
