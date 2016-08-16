@@ -35,6 +35,7 @@ questions.
   I expect to be generally available MWF 3-5pm, and TTh 2:30-5pm.
   To schedule an appointment, use the service at [https://theronhitchman.youcanbook.me/]().
   If you take a chance and just drop by I might be free, or I might have a meeting.
+  If these hours won't work for some reason, send me an email.
 - contact info:
   <address>
   <strong>email:</strong> theron.hitchman@uni.edu<br>
