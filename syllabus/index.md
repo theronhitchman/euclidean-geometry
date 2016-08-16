@@ -30,8 +30,11 @@ questions.
 
 - Instructor: 		Theron J Hitchman
 - Office: 		327 Wright Hall
-- Office Hours: 	weekdays 2-3 pm.  
-  To meet at another time, contact me by email to make an appointment.
+- Office Hours: 	This semester I am using the service YouCanBookMe.com as
+  an experiment.
+  I expect to be generally available MWF 3-5pm, and TTh 2:30-5pm.
+  To schedule an appointment, use the service at [https://theronhitchman.youcanbook.me/]().
+  If you take a chance and just drop by I might be free, or I might have a meeting.
 - contact info:
   <address>
   <strong>email:</strong> theron.hitchman@uni.edu<br>
@@ -393,13 +396,13 @@ class journal. Specifications for this work are as follows:
 
 - The mathematics presented must be complete, correct, and clearly presented.
 - The article should follow conventions for mathematical writing as detailed in
-the [Style Guide for the journal]({{site.baseurl}}/writing/style-guide.html).
+the Style Guide for Authors on the Journal's web page.
 
 #### Referee Work
 
 As part of the journal process, you will serve as a referee for the work of other
 students. The specifications for referee reports are listed in the
-[Instructions for Referees document]({{site.baseurl}}/writing/instructions-for-referees.html).
+journal web page.
 
 #### Reflections & Conferences
 
@@ -423,7 +426,7 @@ is an important part of learning and growing!
 Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
 
-[standards]: {{site.baseurl}}/assessment/the-standards.html
+
 [prompt1]: {{site.baseurl}}/assessment/prompt1.html
 [prompt2]: {{site.baseurl}}/assessment/prompt2.html
 [prompt3]: {{site.baseurl}}/assessment/prompt3.html
