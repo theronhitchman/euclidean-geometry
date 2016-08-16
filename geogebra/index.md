@@ -1,4 +1,0 @@
----
-title: Geogebra
-layout: default
----
