@@ -8,7 +8,6 @@ write a one page reflection as indicated below. I expect you to bring this
 document with you to our meeting, or to email or share it with me electronically
 before our meeting starts.
 
-
 Choose one task from the last three weeks of this course on which you have
 struggled. In the end, perhaps you succeeded, perhaps not, but please choose
 something on which you have spent a significant amount of time and effort.

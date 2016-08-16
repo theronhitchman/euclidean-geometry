@@ -1,4 +1,0 @@
----
-title: Assessment
-layout: default
----
