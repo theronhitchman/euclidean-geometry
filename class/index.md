@@ -8,4 +8,5 @@ ordered by date.
 
 ### August 22
 
-Well, we'll see.
+> *Conjecture A:* (Ahrens-Goedken) The second statement of Conjecture 1.1 is
+> true exactly when ABCD is a square.
