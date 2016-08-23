@@ -71,7 +71,7 @@ If you feel uncertain about your progress in the course at any time, please cont
 ## Dates to Observe:
 
 - Weeks of September 5 - 9, 12 - 16: First self-assessment conferences
-- Friday, October 12: Midterm formative assessment, in class
+- Wednesday, October 12: Midterm formative assessment, in class
 - Week of October 17 - 21: Second self-assessment conferences
 - Week of November 7 - 11: Third self-assessment conference, portfolio check-in
 - Friday, December 9: Final class meeting. Final Examination distributed
