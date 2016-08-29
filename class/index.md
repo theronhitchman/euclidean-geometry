@@ -8,7 +8,7 @@ ordered by date.
 
 ### August 22
 
-> *Conjecture A:* (Ahrens-Goedken) The second statement of Conjecture 1.1 is
+> **Conjecture A:** (Ahrens-Goedken) The second statement of Conjecture 1.1 is
 > true exactly when ABCD is a square.
 
 ### August 26
@@ -19,5 +19,5 @@ ordered by date.
 
 ### August 29
 
-> Questions C: (Pint) Is it possible to construct a "perfect rhombus?" That is,
+> **Questions C:** (Pint) Is it possible to construct a "perfect rhombus?" That is,
 > is it possible to construct a rhombus ABCD so that AB is congruent to AC?
