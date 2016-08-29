@@ -18,7 +18,7 @@ Mr Kessel had a different approach using a midpoint of one of the diagonals some
 it didn't quite close up. During Mr Kessel's presentation, Mr Pint asked the
 following interesting question, which we add to the list [here](http://theronhitchman.github.io/euclidean-geometry/class/):
 
-> Questions C: (Pint) Is it possible to construct a "perfect rhombus?" That is,
+> Question C: (Pint) Is it possible to construct a "perfect rhombus?" That is,
 is it possible to construct a rhombus ABCD so that AB is congruent to AC?
 
 Miss Van Ryswyk took a similar approach, but we ran out

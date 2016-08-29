@@ -19,5 +19,5 @@ ordered by date.
 
 ### August 29
 
-> **Questions C:** (Pint) Is it possible to construct a "perfect rhombus?" That is,
+> **Question C:** (Pint) Is it possible to construct a "perfect rhombus?" That is,
 > is it possible to construct a rhombus ABCD so that AB is congruent to AC?
