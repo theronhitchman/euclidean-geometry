@@ -16,3 +16,8 @@ ordered by date.
 > **Conjecture B** (Goedken) Let AB be a given line segment and let RST be a given
 > angle. Then it is possible to choose the point D in Miss Ahrens' construction so
 > that angle BAD is congruent to angle RST.
+
+### August 29
+
+> Questions C: (Pint) Is it possible to construct a "perfect rhombus?" That is,
+> is it possible to construct a rhombus ABCD so that AB is congruent to AC?
