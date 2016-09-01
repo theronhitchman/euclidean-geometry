@@ -21,3 +21,13 @@ ordered by date.
 
 > **Question C:** (Pint) Is it possible to construct a "perfect rhombus?" That is,
 > is it possible to construct a rhombus ABCD so that AB is congruent to AC?
+
+### August 31
+
+> ** Question D**: (class? I didn't write down who asked.) What choices in Mr Conger's
+> construction need to be avoided because they lead to _degenerate_ situations?
+
+> **Conjecture E:** (Conger et al) Given segments GH and TJ, and given an angle QRS,
+it is possible to make choices in Mr Conger's construction of a kite so that the
+resulting kite ABCD has AB congruent to GH, BC congruent to TJ and angle ABC congruent
+angle QRS.
