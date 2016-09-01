@@ -24,7 +24,7 @@ ordered by date.
 
 ### August 31
 
-> ** Question D**: (class? I didn't write down who asked.) What choices in Mr Conger's
+> **Question D**: (class? I didn't write down who asked.) What choices in Mr Conger's
 > construction need to be avoided because they lead to _degenerate_ situations?
 
 > **Conjecture E:** (Conger et al) Given segments GH and TJ, and given an angle QRS,

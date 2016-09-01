@@ -19,7 +19,7 @@ construct a kite.
 
 - Mr Merck asked about an interesting example like this one:
 
-![Merck's Kite]({{site.baseurl}}/images/Merk-Kite.svg "Mr Merck's Kite")
+![Merck's Kite]({{site.baseurl}}/images/Merck-Kite.svg "Mr Merck's Kite")
 
 - We talked about whether that should be a kite or not, and I think we settled on
 it being so. In the mean time, Mr Conger revised his construction slightly, and
