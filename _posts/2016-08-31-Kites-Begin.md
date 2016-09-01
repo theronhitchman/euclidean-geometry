@@ -19,7 +19,7 @@ construct a kite.
 
 - Mr Merck asked about an interesting example like this one:
 
-![Merck's Kite]({{site.baseurl}}/images/Merck-Kite.svg "Mr Merck's Kite")
+![Merck's Kite]({{site.baseurl}}/images/Merck-Kite.png "Mr Merck's Kite")
 
 - We talked about whether that should be a kite or not, and I think we settled on
 it being so. In the mean time, Mr Conger revised his construction slightly, and
@@ -28,7 +28,7 @@ we ended up with this observation:
 - Mr Merck's Kite should be somewhere in Mr Conger's construction, and it would
 require choosing the point C inside the circle AB.
 
-- ** Question D**: (class? I didn't write down who asked.) What choices in Mr Conger's
+- **Question D**: (class? I didn't write down who asked.) What choices in Mr Conger's
 construction need to be avoided because they lead to _degenerate_ situations?
 
 - **Conjecture E:** (Conger et al) Given segments GH and TJ, and given an angle QRS,
