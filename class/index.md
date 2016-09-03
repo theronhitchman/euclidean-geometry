@@ -31,3 +31,12 @@ ordered by date.
 it is possible to make choices in Mr Conger's construction of a kite so that the
 resulting kite ABCD has AB congruent to GH, BC congruent to TJ and angle ABC congruent
 angle QRS.
+
+### September 2
+
+> **Conjecture F**: (Ancona) Let ABCD be a kite with AB congruent to AD and BC congruent 
+to CD. Generally angle DAB is not congruent to angle DCB.
+
+
+> **Question G** (class) with the same hypothesis, is it true that when angle DAB is
+congruent to angle DCB we must necessarily have that ABCD is a rhombus?
