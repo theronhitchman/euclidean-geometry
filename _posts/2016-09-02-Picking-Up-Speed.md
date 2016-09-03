@@ -25,15 +25,18 @@ a theorem.
 Miss Ancona presented on Conjecture 2.1, and this started a bit of a conversation.
 We got the following things out of it.
 
-A theorem:
+A theorem,
+
 > **Theorem** (Ancona) Let ABCD be a kite with AB congruent to AD and BC congruent
 to CD. Then angle ABC is congruent to angle ADC.
 
-A conjecture:
+a conjecture,
+
 > **Conjecture F**: (Ancona) with the same hypothesis, generally angle DAB is not
 congruent to angle DCB.
 
-and a question:
+and a question.
+
 > **Question G** (class) with the same hypothesis, is it true that when angle DAB is
 congruent to angle DCB we must necessarily have that ABCD is a rhombus?
 
