@@ -34,9 +34,16 @@ angle QRS.
 
 ### September 2
 
-> **Conjecture F**: (Ancona) Let ABCD be a kite with AB congruent to AD and BC congruent 
+> **Conjecture F**: (Ancona) Let ABCD be a kite with AB congruent to AD and BC congruent
 to CD. Generally angle DAB is not congruent to angle DCB.
 
 
 > **Question G** (class) with the same hypothesis, is it true that when angle DAB is
 congruent to angle DCB we must necessarily have that ABCD is a rhombus?
+
+### September 7
+
+> **Challenge H**: (class) Give an effective definition for the concepts of
+> ``Merck kite'' and ``non-Merck kite.'' If done well, these definitions should
+> allow us to proceed with the proposed argument for Conjecture 2.4, and also be
+> the kind of thing that one can easily use to check the ``Merck-ness'' of a kite.
