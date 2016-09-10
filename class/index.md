@@ -44,7 +44,7 @@ congruent to angle DCB we must necessarily have that ABCD is a rhombus?
 ### September 7
 
 > **Challenge H:** (class) Give an effective definition for the concepts of
-> "Merck kite" and "non-Merck kite."" If done well, these definitions should
+> "Merck kite" and "non-Merck kite." If done well, these definitions should
 > allow us to proceed with the proposed argument for Conjecture 2.4, and also be
 > the kind of thing that one can easily use to check the "Merck-ness" of a kite.
 
