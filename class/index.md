@@ -13,7 +13,7 @@ ordered by date.
 
 ### August 26
 
-> **Conjecture B** (Goedken) Let AB be a given line segment and let RST be a given
+> **Conjecture B:** (Goedken) Let AB be a given line segment and let RST be a given
 > angle. Then it is possible to choose the point D in Miss Ahrens' construction so
 > that angle BAD is congruent to angle RST.
 
@@ -38,12 +38,22 @@ angle QRS.
 to CD. Generally angle DAB is not congruent to angle DCB.
 
 
-> **Question G** (class) with the same hypothesis, is it true that when angle DAB is
+> **Question G:** (class) with the same hypothesis, is it true that when angle DAB is
 congruent to angle DCB we must necessarily have that ABCD is a rhombus?
 
 ### September 7
 
-> **Challenge H**: (class) Give an effective definition for the concepts of
-> ``Merck kite'' and ``non-Merck kite.'' If done well, these definitions should
+> **Challenge H:** (class) Give an effective definition for the concepts of
+> "Merck kite" and "non-Merck kite."" If done well, these definitions should
 > allow us to proceed with the proposed argument for Conjecture 2.4, and also be
-> the kind of thing that one can easily use to check the ``Merck-ness'' of a kite.
+> the kind of thing that one can easily use to check the "Merck-ness" of a kite.
+
+### September 9
+
+> **Conjecture I:** (Phaly) Draw a diagram of the kind where ABCD is like a rectangle,
+if angles ABC and BCD taken together
+are greater than two right angles, then ray BA does not meet ray CD.
+
+
+> **Challenge J:** (class) Find a reasonable way to define the term "interior angle"
+for quadrilaterals.
