@@ -57,3 +57,12 @@ are greater than two right angles, then ray BA does not meet ray CD.
 
 > **Challenge J:** (class) Find a reasonable way to define the term "interior angle"
 for quadrilaterals.
+
+### September 14
+
+> **Challenge K:** (class) Let A, B, and C be collinear points. What should we
+mean by the phrase " B lies between A and C"?
+
+> **Challenge L:** (class) Let \\(\ell\\) be a line and let A and B be points.
+What should  we mean by the phrase "points A and B lie on opposite sides of
+line \\(\ell\\)"?
