@@ -1,5 +1,6 @@
 euclidean-geometry
 ==================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/theronhitchman/euclidean-geometry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Course Notes and web site for Euclidean Geometry
 
