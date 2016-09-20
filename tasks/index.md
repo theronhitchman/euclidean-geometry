@@ -19,15 +19,15 @@ layout: default
     <span class="glyphicon glyphicon-new-window"></span> 1:<br class="visible-xs" /> rhombi</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main02.pdf" target="_blank">
     <span class="glyphicon glyphicon-new-window"></span> 2:<br class="visible-xs" /> kites</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
+  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main03.pdf" target="_blank">
   <span class="glyphicon glyphicon-new-window"></span> 3:<br class="visible-xs" /> rectangles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="{{site.baseurl}}/tasks/">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main04.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 4:<br class="visible-xs" /> skepticism</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
@@ -91,7 +91,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 19:<br class="visible-xs" /> experimental</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/Trigonometry.pdf">
   <span class="glyphicon glyphicon-new-window"></span> Supp:<br class="visible-xs" /> Trig!</a>
 </div>
 </div>
