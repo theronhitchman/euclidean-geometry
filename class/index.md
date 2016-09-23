@@ -66,3 +66,11 @@ mean by the phrase " B lies between A and C"?
 > **Challenge L:** (class) Let \\(\ell\\) be a line and let A and B be points.
 What should  we mean by the phrase "points A and B lie on opposite sides of
 line \\(\ell\\)"?
+
+### September 23
+
+> **Challenge M:** Introduce notation in Mr Conger's definition, and then figure out
+what is going on with Miss Schultz's objection.
+
+> **Question N:** Are the notions of a Conger convex kite and a Cohen convex kite
+equivalent? State and prove a theorem.
