@@ -20,7 +20,7 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 
 ## Issues from the Current Volume (Semester F16)
 
-- [Issue #1 Week x]()
+- [Issue #1 Week x]({{site.baseurl}}/journal/2016Fall-no1.pdf)
 - [Issue #2 Week x]()
 - [Issue #3 Week x]()
 - [Issue #4 Week x]()
