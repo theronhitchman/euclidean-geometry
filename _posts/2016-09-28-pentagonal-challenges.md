@@ -22,7 +22,7 @@ Can an exterior angle really lie inside a polygon?
 
 Then we made some examples of polygons. I took a picture of the board:
 
-![Pentagons]({{site.baseurl}}/images/9-28-pentagons.jpg "Some Pentagons?")
+<img src="{{site.baseurl}}/images/9-28-pentagons.jpg" width="90%" />
 
 > **Challenge S:** Find language to classify these pentagons.
 
