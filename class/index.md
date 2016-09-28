@@ -74,3 +74,18 @@ what is going on with Miss Schultz's objection.
 
 > **Question N:** Are the notions of a Conger convex kite and a Cohen convex kite
 equivalent? State and prove a theorem.
+
+### September 28
+
+> **Challenge P:** (Bavido-Cohen-Schultz) Find a definition for convex/non-convex for
+general polygons.
+
+> **Question Q:** (Mitchell-Van Ryswyk) Should we change the defnition of "exterior angle"?
+Can an exterior angle really lie inside a polygon?
+
+> **Challenge R:** (Phaly) Come up with a definition of "the point X lies inside the polygon P."
+
+> **Challenge S:** Find language to classify these pentagons.
+
+> **Conjecture T:** If ABCDE is a convex pentagon, then it is possible to insert diagonals
+BD and BE to split ABCDE into three non-overlapping triangles.
