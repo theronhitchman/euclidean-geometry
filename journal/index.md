@@ -21,14 +21,15 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 ## Issues from the Current Volume (Semester F16)
 
 - [Issue #1 Week 5]({{site.baseurl}}/journal/2016Fall-no1.pdf)
-- [Issue #2 Week x]()
+- [Issue #2 Week 6]({{site.baseurl}}/journal/2016Fall-no2.pdf)
+<!--
 - [Issue #3 Week x]()
 - [Issue #4 Week x]()
 - [Issue #5 Week x]()
 - [Issue #6 Week x]()
 - [Issue #7 Week x]()
 - [Issue #8 Week x]()
-
+-->
 <!-- {{site.baseurl}}/journal/2015S/issue01/TEG01.pdf-->
 
 ## Instructions for Authors
