@@ -114,3 +114,11 @@ does the intersection create another vertex?
 
 > **Question X:** (class) In a non-convex kite, if diagonal AC is extended to a
 line, will that line AC always cross segment BD?
+
+
+### October 07
+
+> **Conjecture Y:** (Ahrens) The exterior angles of a simple polygon  
+when taken together are equal to four right angles.
+
+> **Conjecture Z:** Let P be a polygon 
