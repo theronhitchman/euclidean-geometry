@@ -75,17 +75,42 @@ what is going on with Miss Schultz's objection.
 > **Question N:** Are the notions of a Conger convex kite and a Cohen convex kite
 equivalent? State and prove a theorem.
 
+### September 26
+
+> **Challenge O:**
+  1. Figure out where the point E in Prof Ball's argument actually ends up.
+  Can we describe this point in some interesting way? Maybe we can prove that
+  it never lands inside the triangle.
+  2. Construct an explicit example of a triangle ABC where the points F and G
+  fail to have the situation that Prof Ball claims.
+
+
+
 ### September 28
 
 > **Challenge P:** (Bavido-Cohen-Schultz) Find a definition for convex/non-convex for
 general polygons.
 
-> **Question Q:** (Mitchell-Van Ryswyk) Should we change the defnition of "exterior angle"?
+> **Question Q:** (Mitchell-Van Ryswyk) Should we change the definition of "exterior angle"?
 Can an exterior angle really lie inside a polygon?
 
 > **Challenge R:** (Phaly) Come up with a definition of "the point X lies inside the polygon P."
 
 > **Challenge S:** Find language to classify these pentagons.
 
-> **Conjecture T:** If ABCDE is a convex pentagon, then it is possible to insert diagonals
-BD and BE to split ABCDE into three non-overlapping triangles.
+> **Conjecture T:** (Phaly) If ABCDE is a convex pentagon, then it is possible to insert
+diagonals BD and BE to split ABCDE into three non-overlapping triangles.
+
+### September 30
+
+> **Question U:** (Cohen-Goedken) In a non-convex kite, can the intersection
+point of DB and AC be collinear with CAE?
+
+> **Question V:** (class) What classes of polygons break Mr Phaly's proposed
+definition.
+
+> **Question W:** (class) When two or more line segments of a polygon cross,
+does the intersection create another vertex?
+
+> **Question X:** (class) In a non-convex kite, if diagonal AC is extended to a
+line, will that line AC always cross segment BD?

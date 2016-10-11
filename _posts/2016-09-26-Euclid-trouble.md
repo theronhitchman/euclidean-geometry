@@ -17,7 +17,7 @@ identified troubles with Prof. Ball's argument:
 I then set some challenges that focus on the particular issues:
 
   > **Challenge O:**
-    1. Figure out where the point E in Prof Ball's argument actually ends up?
+    1. Figure out where the point E in Prof Ball's argument actually ends up.
     Can we describe this point in some interesting way? Maybe we can prove that
     it never lands inside the triangle.
     2. Construct an explicit example of a triangle ABC where the points F and G

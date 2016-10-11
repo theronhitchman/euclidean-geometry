@@ -35,4 +35,4 @@ angles of ABCDE taken together make four right angles.
 > **Conjecture T:** If ABCDE is a convex pentagon, then it is possible to insert diagonals
 BD and BE to split ABCDE into three non-overlapping triangles.
 
-The Miss Bavido presented item A.1 from the Trig Supplement.
+Then Miss Bavido successfully presented item A.1 from the Trig Supplement.
