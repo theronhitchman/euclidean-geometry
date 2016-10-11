@@ -9,6 +9,8 @@ Mr Merck proved Conjecture 6.1.
 
 Miss Schmeling proved Conjecture 6.2.
 
+Miss Schultz proved Conjecture A.1 from the supplement on trigonometry.
+
 Miss Van Ryswyk disproved Conjecture 6.3. I challenged her to make a specific
 construction, which she did: use a rhombus with an obtuse angle.
 
@@ -24,3 +26,9 @@ convexity for general polygons?
 
 Then Mr Conger proved Conjecture 6.4 is false, and upon challenge constructed a
 detailed counterexample. (It looked like a house!)
+
+---
+
+_Updated: the initial version of this omitted Miss Schultz's work. I am sorry for the
+error. It is an unfortunate fact that I sometimes forget to write down work by
+people who are not cool enough._
