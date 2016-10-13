@@ -9,7 +9,7 @@ Mr Merck proved Conjecture 6.1.
 
 Miss Schmeling proved Conjecture 6.2.
 
-Miss Schultz proved Conjecture A.1 from the supplement on trigonometry.
+Miss Schultz proved Conjecture A.2 from the supplement on trigonometry.
 
 Miss Van Ryswyk disproved Conjecture 6.3. I challenged her to make a specific
 construction, which she did: use a rhombus with an obtuse angle.
