@@ -126,3 +126,12 @@ point X. Suppose that neither r nor s meet any vertex of P. Then the number of i
 of r and P and the number of intersections of s and P have the same parity.
 
 ### October 14
+
+> **Question AA:** (Conger) Does Ms Maus' theorem about equilateral pentagons hold
+for three consecutive angles?
+
+> **Question AB:** (Mitchell) How many congruent angles are necessary in an
+equilateral n-gon to force it to be regular?
+
+> **Question AC:** (Cohen) Suppose an equilateral pentagon has two known congruent angles.
+Are there any other sufficient criteria for being regular?
