@@ -124,3 +124,5 @@ when taken together are equal to four right angles.
 > **Conjecture Z:** Let P be a polygon. Let r and s be two rays with the same initial
 point X. Suppose that neither r nor s meet any vertex of P. Then the number of intersections
 of r and P and the number of intersections of s and P have the same parity.
+
+### October 14
