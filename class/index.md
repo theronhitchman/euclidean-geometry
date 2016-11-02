@@ -135,3 +135,8 @@ equilateral n-gon to force it to be regular?
 
 > **Question AC:** (Cohen) Suppose an equilateral pentagon has two known congruent angles.
 Are there any other sufficient criteria for being regular?
+
+### October 26
+
+>**Conjecture AD:** (Ancona-Goedken) The circumcenter of a triangle lies 
+inside/on/outside of a triangle exactly when the triangle is acute/right/obtuse, respectively.
