@@ -47,7 +47,7 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 8:<br class="visible-xs" /> centers</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-warning btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
+  <a class="btn btn-danger btn-lg btn-block" href="{{site.baseurl}}/EG_main09.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 9:<br class="visible-xs" /> circles</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">

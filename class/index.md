@@ -138,5 +138,11 @@ Are there any other sufficient criteria for being regular?
 
 ### October 26
 
->**Conjecture AD:** (Ancona-Goedken) The circumcenter of a triangle lies 
+>**Conjecture AD:** (Ancona-Goedken) The circumcenter of a triangle lies
 inside/on/outside of a triangle exactly when the triangle is acute/right/obtuse, respectively.
+
+### November 02
+
+> **Conjecture AE:** (Phaly) Let A, B, C, and D be four points on the circumference
+of a circle centered at O. The four angles formed by the rays OA, OB, OC, and OD
+taken together make four right angles.
