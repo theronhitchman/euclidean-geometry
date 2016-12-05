@@ -71,11 +71,11 @@ layout: default
   <span class="glyphicon glyphicon-new-window"></span> 14:<br class="visible-xs" /> Area II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}//EG_main15.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 15:<br class="visible-xs" /> regularity II</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
-  <a class="btn btn-default btn-lg btn-block" href="#">
+  <a class="btn btn-success btn-lg btn-block" href="{{site.baseurl}}/EG_main16.pdf">
   <span class="glyphicon glyphicon-new-window"></span> 16:<br class="visible-xs" /> pentagon</a>
 </div>
 <div class="col-xs-6 col-sm-4 col-lg-3 text-center">
