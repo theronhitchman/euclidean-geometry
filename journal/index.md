@@ -29,6 +29,8 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 - [Issue #7 Week 15]({{site.baseurl}}/journal/2016Fall-no7.pdf)
 - [Issue #8 Week 15]({{site.baseurl}}/journal/2016Fall-no8.pdf)
 - [Issue #9 Week 15]({{site.baseurl}}/journal/2016Fall-no9.pdf)
+- [Issue #10 Week 15]({{site.baseurl}}/journal/2016Fall-no10.pdf)
+- [Issue #11 Week 15]({{site.baseurl}}/journal/2016Fall-no11.pdf)
 
 
 
