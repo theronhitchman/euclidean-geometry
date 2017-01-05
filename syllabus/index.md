@@ -399,11 +399,8 @@ journal web page.
 
 To facilitate the communication process, we will schedule regular conferences
 to discuss your progress. You will meet with me for a ten or twenty minute appointment
-at three points during the term. The first meeting is the longest, and that is
-too much work for me to really get done in a single week, so I will divide the
-class into two parts. The first group will meet with me during weeks 3, the second
-group will meet with me during week 4. I will meet with the whole class during each of
-weeks 7 and 12.
+at three points during the term. The first meeting is the longest, and each of you will meet
+with me during week 2 or 3. I will meet with each of you again during weeks 8 and 9.
 
 To give these meetings some substance, I require that you write a one page
 reflection and either bring it to our meeting or email it to me beforehand. The
