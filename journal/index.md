@@ -18,7 +18,7 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 </div>
 ------
 
-## Issues from the Current Volume (Semester Sp17)
+## Issues from the Current Volume (Spring 17)
 
 - Coming Soon!
 
