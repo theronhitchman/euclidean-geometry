@@ -4,7 +4,7 @@ layout: default
 ---
 
 *Euclidean Geometry*<br />
-*Math 3600, Fall 2016*
+*Math 3600, Spring 2017*
 
 
 ## Course Description:
@@ -32,7 +32,7 @@ questions.
 - Office: 		327 Wright Hall
 - Office Hours: 	This semester I am using the service YouCanBookMe.com as
   an experiment.
-  I expect to be generally available MWF 3-5pm, and TTh 2:30-5pm.
+  I expect to be generally available M-F 3-4:30pm.
   To schedule an appointment, use the service at [https://theronhitchman.youcanbook.me/]().
   If you take a chance and just drop by I might be free, or I might have a meeting.
   If these hours won't work for some reason, send me an email.
@@ -61,7 +61,7 @@ variety of assessments, with emphasis on the first two items:
 
 - class participation, focusing on finding and presenting arguments, and publishing in the class journal
 - work as a referee for the class journal
-- three reflective self-assessments
+- two reflective self-assessments
 - a week-long, take-home, final examination
 
 More details and discussion follow below.
@@ -70,12 +70,12 @@ If you feel uncertain about your progress in the course at any time, please cont
 
 ## Dates to Observe:
 
-- Weeks of September 5 - 9, 12 - 16: First self-assessment conferences
-- Wednesday, October 12: Midterm formative assessment, in class
-- Week of October 17 - 21: Second self-assessment conferences
-- Week of November 7 - 11: Third self-assessment conference, portfolio check-in
-- Friday, December 9: Final class meeting. Final Examination distributed
-- Thursday, December 15: Final Exam and Portfolio due at 5pm
+- Week of January 16-20: First self-assessment conferences
+- Wednesday, March 1: Midterm formative assessment, in class
+- Week of March 6 - 10: Second self-assessment conferences
+- Week of March 13 - 17: No Classes: Spring Break
+- Friday, April 28: Final class meeting. Final Examination distributed
+- Thursday, May 4: Final Exam and Curriculum Vita due at 5pm
 
 ---
 
