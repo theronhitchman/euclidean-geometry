@@ -18,8 +18,11 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 </div>
 ------
 
-## Issues from the Current Volume (Semester F16)
+## Issues from the Current Volume (Semester Sp17)
 
+- Coming Soon!
+
+<!--
 - [Issue #1 Week 5]({{site.baseurl}}/journal/2016Fall-no1.pdf)
 - [Issue #2 Week 6]({{site.baseurl}}/journal/2016Fall-no2.pdf)
 - [Issue #3 Week 8]({{site.baseurl}}/journal/2016Fall-no3.pdf)
@@ -32,9 +35,9 @@ This is an [interesting paper by W. W. Rouse Ball][ball] that you should read th
 - [Issue #10 Week 15]({{site.baseurl}}/journal/2016Fall-no10.pdf)
 - [Issue #11 Week 15]({{site.baseurl}}/journal/2016Fall-no11.pdf)
 - [Issue #12 Week 16]({{site.baseurl}}/journal/2016Fall-no12.pdf)
+-->
 
 
-<!-- {{site.baseurl}}/journal/2015S/issue01/TEG01.pdf-->
 
 ## Instructions for Authors
 
