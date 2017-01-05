@@ -181,7 +181,7 @@ try to use it to build another product to sell.</small>
 
  [euclid]: http://www.euclidthegame.com/
 
- Euclidea is a mobile game ([Android][euclidea-android] or [iOS][euclidea-ios]]
+ Euclidea is a mobile game ([Android][euclidea-android] or [iOS][euclidea-ios])
  built around very challenging construction problems. Some of these are hard!
  But I find this very enjoyable for passing time during dull meetings or a few
  idle moments. There is a free version that you have to succeed in to unlock further
