@@ -165,7 +165,7 @@ try to use it to build another product to sell.</small>
 
  ***
 
- There are two games worth your attention, too.
+ There are some games worth your attention, too.
 
  [Dragonbox Elements][dragonbox] is not free, but it is not too expensive.
  It is marketed as a way to learn the process of making axiomatic arguments
@@ -179,9 +179,16 @@ try to use it to build another product to sell.</small>
  in classical geometry built in. You can learn something by completing these,
  too.
 
-[euclid]: http://www.euclidthegame.com/
+ [euclid]: http://www.euclidthegame.com/
 
+ Euclidea is a mobile game ([Android][euclidea-android] or [iOS][euclidea-ios]]
+ built around very challenging construction problems. Some of these are hard!
+ But I find this very enjoyable for passing time during dull meetings or a few
+ idle moments. There is a free version that you have to succeed in to unlock further
+ levels, or you can pay a small amount to unlock all of them.
 
+ [euclidea-android]: https://play.google.com/store/apps/details?id=com.hil_hk.euclidea&hl=en
+ [euclidea-ios]: https://itunes.apple.com/us/app/euclidea-geometric-construction/id927914361?mt=8
 
 ----
 ----
