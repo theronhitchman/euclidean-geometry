@@ -354,40 +354,23 @@ I will use the following things to assess your work this term:
 - Reports you write while serving the class journal as a referee.
 - Reflective self-assessments you write at conference times.
 
-At the end of the semester, you will collect all of these things into a portfolio.
-I will use the contents of your portfolio to set your semester grade.
+At the end of the semester, your published papers will have appeared in the class
+journal. But I want a clear way to summarize your work, so you will prepare a
+short _curriculum vita_ (CV) to turn in with your final exam.
+I will use the your CV and your final exam to set your course grade.
 
 Each individual item you produce contributes to my understanding of your learning.
 I will make available detailed and clear <strong>specifications</strong> for what
 constitutes acceptable work. Most of our class time will be spent doing and discussing
 mathematics, so the way to meet the specifications will become apparent as we go.
 
-#### The Portfolio Assignment
+#### The _Curriculum Vita_ Assignment
 
-Students who wish to earn a grade of D or better must turn in a portfolio assignment
-at the end of the term.
-
-##### Specifications for the Portfolio Assignment
-
-To be considered for credit, a portfolio must:
-
-- Have a short cover letter (a page or less, typed) which indexes what documents
-  are in the portfolio.
-
-- Be organized into sections, in this order:
-
-  * Published Papers and "works submitted", in chronological order
-
-  * Papers Refereed: A copy of each original submission refereed and the referee
-  report generated, in chronological order
-
-  * Reflective Self-Assessments
-
-  * Final Examination Tasks
-
-- Contain only items that have been deemed finished.
-
-- Be bound together in a reasonable fashion.
+Preparing a CV should be a short (15 minute) exercise at the end of the term.
+I will make available a latex template and an example as we get close to the end
+of the term so that you see what is expected of you. But the main thing is to make
+lists of which papers you have published and which papers you have refereed during
+the term. So keep track of those as you go!
 
 
 #### Published Papers
@@ -420,9 +403,9 @@ reflection and either bring it to our meeting or email it to me beforehand. The
 point of these reflections is for you to engage in an honest self-assessment. This
 is an important part of learning and growing!
 
-- [Reflection Prompt #1][prompt1] (weeks 3 and 4)
-- [Reflection Prompt #2][prompt2] (week 7)
-- [Reflection Prompt #3][prompt3] (week 12)
+- [Reflection Prompt #1][prompt1] (weeks 2 and 3)
+- [Reflection Prompt #2][prompt2] (week 8 and 9)
+
 
 Of course, you are welcome to come by and talk about mathematics, or your
 progress in the course, at any time I am available.
