@@ -16,3 +16,9 @@ to angle BDC, then ABCD is a square.
 
 *Conjecture C (class):* It is possible to construct a rhombus which is not a
 square.
+
+### January 18
+
+*Conjecture D (Reihman):* Suppose that we have a diagram where A and D lie on 
+the same side of line BC. Then angles ABC and BCD taken together make two
+right angles if and only if lines AB and CD are parallel.
