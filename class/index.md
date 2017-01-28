@@ -22,3 +22,16 @@ square?
 *Conjecture D (Reihman):* Suppose that we have a diagram where A and D lie on
 the same side of line BC. Then angles ABC and BCD taken together make two
 right angles if and only if lines AB and CD are parallel.
+
+### January 27
+
+*Question E:* Is it possible to construct a kite which has no equilateral
+triangle? (The Van Donselaar examples all have triangle ABC as an equilateral
+  triangle.)
+
+*Question F:* What is an "interior angle?"
+
+*Question G:* What is the "interior" of a polygon?
+
+*Question H:* How do we differentiate between the "normal-looking" and the
+"odd-looking" kites? Is there some geometrical way of distinguishing these?
