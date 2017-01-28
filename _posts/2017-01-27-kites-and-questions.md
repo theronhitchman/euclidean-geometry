@@ -15,7 +15,7 @@ words, and seems to have the property that its diagonals don't cross. If that
 can be tightened up, we might get a resolution of Conjecture 2.2. We decided to
 call such things "boomerangs."
 
-<img src="/images/boomerang.png" alt="Van Donselaar's Boomerang Kite" />
+<img src="{{site.baseurl}}/images/boomerang.png" alt="Van Donselaar's Boomerang Kite" />
 
 We generated a list of new questions to add to our work:
 
