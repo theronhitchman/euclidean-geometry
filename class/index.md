@@ -35,3 +35,9 @@ triangle? (The Van Donselaar examples all have triangle ABC as an equilateral
 
 *Question H:* How do we differentiate between the "normal-looking" and the
 "odd-looking" kites? Is there some geometrical way of distinguishing these?
+
+### January 30
+
+*Conjecture I:* (Lewis) Given a segment AB and an angle XYZ, it is possible
+to construct a rhombus ABCD with angle ABD congruent to angle XYZ using a
+compass and straightedge.
