@@ -41,3 +41,15 @@ triangle? (The Van Donselaar examples all have triangle ABC as an equilateral
 *Conjecture I:* (Lewis) Given a segment AB and an angle XYZ, it is possible
 to construct a rhombus ABCD with angle ABD congruent to angle XYZ using a
 compass and straightedge.
+
+### February 1
+
+*Question J: (Peters)* Can we construct a kite with a given pair of sides and a
+given pair of opposite angles. More specifically: Given angles XYZ and
+\\(\alpha \beta \gamma\\), and segments TJ and PQ, is it possible to construct
+a kite ABCD such that AB is congruent to TJ, BC is congruent to PQ, angle
+DAB is congruent to angle XYZ and angle DCB is congruent to angle
+\\(\alpha \beta \gamma\\)?
+
+*Lemma K: (Schmidt)* Given segments AB and XY, one can construct triangle ABC so
+that BA and BC are both congruent to XY.
