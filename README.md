@@ -19,8 +19,8 @@ This set of notes began as an outgrowth of Chapter One of Robin Hartshorne's _Ge
 Readers who compare these notes to that excellent text will see the clear debt owed.
 
 The `jiblm` branch contains the files required to generate the version submitted to
-the Journal of Inquiry Based Learning in Mathematics (last revised June 2016).
+the Journal of Inquiry Based Learning in Mathematics (last revised February 2017).
 
 
 author: Theron J Hitchman
-initial notes from 2007, latest copy 2016.
+initial notes from 2007, latest copy February 2017.
