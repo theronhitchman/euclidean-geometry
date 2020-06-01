@@ -778,11 +778,11 @@ Let $ABCD$ be a rectangle. Let $X$ be the point where $AC$ and $BD$ meet. Then $
 \end{theorem}
 
 \begin{proof}
-By Theorem \ref{theorem:rectangle-parallelogram}, the rectangle $ABCD$ is a parallelogram. Note that the diagonal line $AC$ falls upon the parallel lines $AD$ and $BC$. Therefore, by Euclid's Proposition I.29, the angles $BCA$ and $DAC$ are congruent. Similarly, the diagonal $BD$ falls on the parallel lines $AD$ and $BC$. Again by Proposition I.29, the angles $CBD$ and $BDA$ are congruent. 
+By Theorem \ref{theorem:rectangle-parallelogram}, the rectangle $ABCD$ is a parallelogram. Note that the diagonal line $AC$ falls upon the parallel lines $AD$ and $BC$. Therefore, by Euclid's Proposition I.29, the angles $BCA$ and $DAC$ are congruent. Similarly, the diagonal $BD$ falls on the parallel lines $AD$ and $BC$. Again by Proposition I.29, the angles $CBD$ and $BDA$ are congruent.
 
 By Theorem \ref{theorem:rectangle-opp-sides}, the segment $BD$ is congruent to the segment $AD$. Therefore, by Euclid's Proposition I.26, triangle $XDA$ is congruent to triangle $XBC$.
 
-By the definition of congruent triangles, the corresponding segments are congruent, namely $AX$ is congruent to $CX$ and $BX$ is congruent to $DX$. By the definition of a midpoint, this means that $X$ is the midpoing of both segment $AC$ and segment $BD$.
+By the definition of congruent triangles, the corresponding segments are congruent, namely $AX$ is congruent to $CX$ and $BX$ is congruent to $DX$. By the definition of a midpoint, this means that $X$ is the midpoint of both segment $AC$ and segment $BD$.
 
 \end{proof}
 
@@ -799,21 +799,72 @@ There exists a quadrilateral $ABCD$ for which the following are true:
 \item side $BC$ meets side $AD$,
 \item angles $BCD$ and $DAB$ are congruent, and each is less than a right angle.
 \end{itemize}
-In particular, this quadrilateral $ABCD$ is not a rectangle.
 \end{theorem}
 
-\begin{theorem}[Conjecture 3.4]
-add convexity or simplicity
-\end{theorem}
+In particular, the quadrilateral $ABCD$ constructed in this theorem is not a rectangle. Therefore, Conjectures 3.4, 3.8, \& 3.9 are false as stated.
+
+
+\clearpage
+
+\begin{proof}
+We shall give a construction of a quadrilateral with the required properties.
+
+First choose any segment $BC$. By Euclid's Proposition I.10, we may construct the midpoint $M$ of of segment $BC$. By Proposition I.11, we construct a line $\ell$ perpendicular to line $BC$ through the point $B$. By Postulate 3, we draw circle $BM$. Where this circle meets the line $\ell$, we obtain point $A$. Note that there are two choices for this point, we just need one. Pick one and fix it. By construction, segment $AB$ is half of segment $BC$, and the angle $ABC$ is a right angle.
+
+Though it is not to be part of our final quadrilateral, it is helpful at this point to construct the segment $AC$. By Euclid's Proposition I.23, we construct a ray $r$ with initial point $C$ so that angle $ACr$ is congruent to angle $BAC$. There are two such rays, we choose as $r$ the one that lies on the same side of line $AC$ as the point $B$.
+
+Then by Postulate 3 construct the circle $CM$. Where circle $CM$ meets ray $r$, we find the point $D$. Now draw segment $DA$. 
+
+Since $X$ is the midpoint of $BC$, we know that $CM$ is congruent to $BX$, and hence congruent to $AB$. Now, $M$ and $D$ both lie on the circumference of circle $CM$, so by the definition of circle we know that $CD$ is congruent to $CM$. We conclude that $CD$ is congruent to $AB$.
+
+Gathering together what we know, $AC$ is congruent to $CA$, angle $ACD$ is congruent to angle $CAB$, and $AB$ is congruent to $CD$. So by Euclid's Proposition I.4, triangle $ACD$ is congruent to triangle $CAB$.
+
+This pair of congruent triangles is enough to imply the first three conditions we require immediately. It also shows most of the last, since the angles $BCD$ and $DAB$ correspond.
+
+It remains to prove that the segments $BC$ and $AD$ meet, and that the angle $BAD$ is less than a right angle.
+
+Note that angle $ABC$ is a right angle by construction. By Euclid's Proposition I.32, the sum of the three interior angles of this triangle are together two right angles. Since $ABC$ is right, the other two taken together must by a right angle. Therefore, each of $BAC$ and $BCA$ are less than a right angle.
+
+Moreover, by Euclid's Proposition I.19, since angle $ABC$ is the greatest angle of triangle $ABC$, the side $AC$ is greater than both $AB$ and $BC$. In fact, by construction $BC$ is greater than $AB$, so angle $BAC$ is greater than angle $BCA$.
+
+Since the triangles $BCA$ and $DAC$ are congruent, each is less than a right angle, and taken together they make less than two right angles. By Postulate 5, the rays $CB$ and $DA$ must meet on the same side of line $AC$ as $B$ and $D$. Let the point where these rays meet be called $X$.
+
+Our next goal is to show that $X$ lies in the segments $AD$ and $BC$. The arguments are similar, so we will only show that $X$ lies on the segment $BC$. Suppose that instead, $X$ does not lie on segment $BC$, but only on ray $CB$. Then we know that $B$ lies between $C$ and $X$, and segment $CX$ is greater than segment $CB$. Then angle $CAX$ contains angle $CAB$, and thus is greater than it. But $CAB$ is greater than $BCA$, which is congruent to $CAD$. Thus angle $CAX$ is greater than angle $CAD$. But angle $CAD$ is exactly angle $CAX$, because the points $A$, $D$, and $X$ are collinear. Since an angle cannot be greater than itself, we have found a contradiction. It must not be the case that $X$ lies outside the segment $BC$. As mentioned above, this argument can be made on the segment $AD$, by changing some appropriate notation to work on the triangle $ACD$ instead. This concludes the proof of the fourth claim.
+
+Since $X$ lies on the segment $BC$, the ray $AX$ lies inside the angle $BAC$. Therefore, angle $BAX$ is less than $BAC$, which is less than the right angle $ABC$.
+
+Note that angle $BAD = BAX$ is the angle $BAC$ less the angle $DAC$. Since angle $BCD = XCD$ is similarly the angle $DCA$ less the angle $BCA$, we conclude that $BAD$ is congruent to $BCD$ by the common notion about removing equals from equals.
+This concludes the argument for the last part of the result, and completes our proof.
+\end{proof}
+
+
+
+To repair the statements of Conjectures 3.4, 3.8, and 3.9, we must add a hypothesis. For this, we need new language to help us isolate and remove the phenomenon which occurs in the last theorem.
 
 
 \begin{definition}
 A quadrilateral is called \emph{simple} if for each pair of its sides, those sides can only meet at a common vertex of the quadrilateral.
 \end{definition}
 
+
+\begin{theorem}[Conjecture 3.4]
+add convexity or simplicity
+\end{theorem}
+
+
+
+
 \begin{theorem}[Conjecture 3.5]
 Let $ABCD$ be a quadrilateral such that the angles $ABC$ and $ADC$ are right angles, and lines $AB$ and $DC$ are parallel. Then $ABCD$ is a rectangle.
 \end{theorem}
+
+\begin{proof}
+
+\end{proof}
+
+
+
+
 
 \begin{theorem}[Conjecture 3.6: The Midline Theorem]
 Let $ABC$ be a triangle. Let $D$ be the midpoint of $AB$ and $E$ the midpoint of $AC$. The line $DE$ is parallel to the line $AB$.
