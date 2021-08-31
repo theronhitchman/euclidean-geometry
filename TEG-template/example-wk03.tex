@@ -30,7 +30,7 @@
 %                         Start here
 % --------------------------------------------------------------
  
-\title{Exterior Angles of a Triangle} % replace with an appropriate title, choose something shortish & descriptive
+\title{An Inequality for an Exterior Angle of a Triangle} % replace with an appropriate title, choose something shortish & descriptive
 \author{Theron J Hitchman} % replace with your name, multiple authors go in alphabetical order by last name
  
 \maketitle
@@ -58,12 +58,17 @@ Construct the midpoint $E$ of segment $AC$ by Euclid's Proposition I.10. Then we
 \centering
 \includegraphics[width=.5\textwidth]{example3.png}
 \caption{The proof of Proposition I.16}
+\label{fig:the-figure}
 \end{figure}
 
 Since $E$ is the midpoint of $AC$, we know that $AE$ is congruent to $CE$. By Euclid's Proposition I.15, the angles $AEB$ and $CEF$ are congruent. And by construction, we know that $EB$ is congruent to $EF$. So by Euclid's Proposition I.4, the triangles $AEB$ and $CEF$ are congruent. Because they are corresponding parts of these triangles, we deduce that angle $CAB$ is congruent to angle $ACF$. But since angle $ACF$ is only part of angle $ACD$, we learn that angle $CAB$ is less than angle $ACD$. Or, said the other way around, the exterior angle $ACD$ is greater than the interior angle $CAB$.
 
-Next, we must demonstrate that angle $ACD$ is greater than angle $CBA$. Begin by extending the segment $AC$ to a ray $AG$ with initial point $A$ passing through $G$ so that $F$ lies between $A$ and $G$. Note that by Euclid's Proposition I.15 angle $ACD$ is congruent to angle $BCG$. By constructing the midpoint of segment $BC$ and following the steps above we get the entirely similar argument to show that the exterior angle $BCG$ is greater than the interior remote angle $ABC$.
+Next, we must demonstrate that angle $ACD$ is greater than angle $CBA$. Since this argument is essentially the same as the one above, we shall omit a few details and give an outline only. We invite the reader to draw their own figure (analogous to our Figure \ref{fig:the-figure}) and verify the steps of the argument.
+
+Begin by extending the segment $AC$ to a ray $AG$ with initial point $A$ passing through $G$ so that $C$ lies between $A$ and $G$. Note that by Euclid's Proposition I.15 angle $ACD$ is congruent to angle $BCG$. By constructing the midpoint of segment $BC$ and following the steps above we get the entirely similar argument to show that the exterior angle $BCG$ is greater than the interior remote angle $ABC$.
 But since angle $BCG$ is congruent to angle $ACD$, we have the desired result.
+
+Therefore we have proved that the exterior angle $ACD$ is greater than either of the remote interior angles $ABC$ or $CAB$.
 
 \end{proof}
  
